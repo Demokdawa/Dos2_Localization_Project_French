@@ -1,4 +1,4 @@
-# Dos2_Localization_Project_French
+# Dos2_Mod_Localization_Project_French
 
 Welcome to the "French Divinity II Mod Localization Project" !
 
