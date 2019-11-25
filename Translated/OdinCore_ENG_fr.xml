@@ -35,7 +35,7 @@
 	<content contentuid="h5de758b3gdfaag4452ga8c2g8713d0e192ad">Art de la flamme</content>
 	<content contentuid="ha1158c2aga0f3g4aa5g9d3bgb60aeb01b885">Les alliés qui approchent seront soignés.</content>
 	<content contentuid="h815a9f59g8508g4052g9b29g563f6dfab7ec">Flots de vitalité</content>
-	<content contentuid="h7967c35cg0362g4d61g87b0g69dadd0b310c">Le personnage est un conduit pour les compétences électriques.</content>
+	<content contentuid="h7967c35cg0362g4d61g87b0g69dadd0b310c">Character is a conduit for electrical skills.</content>
 	<content contentuid="h7006d051gbc9fg47abgbc90gf2e5148dc2a7">Conducteur</content>
 	<content contentuid="h4b95c93agc41dg4c94g9df0g31e96ffdf315">Gravité</content>
 	<content contentuid="he9c4aef6g36c4g4628g9430g44736fb15cd3">Le personnage à une portée augmentée. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#40b606&apos;&gt;Portée : +2m&lt;/font&gt;</content>
@@ -48,16 +48,16 @@
 	<content contentuid="h390d1255g94c1g4471gbb95gb0f094fd2cbc">Zap</content>
 	<content contentuid="hafc6e767g051ag4d6agbcf4g550b0755007e">Inflige [1] de dégâts par tour.</content>
 	<content contentuid="h691ede9agd876g4c82g8d9fge59c8687b21c">Zap</content>
-	<content contentuid="hdeac9892gce5ag4c5eg8a41gbf143caef2a6">Chante-éclair</content>
-	<content contentuid="h64ab82fbg36aag4f4dg9d29gfc0b28c48285">Frapper un ennemi avec des coups en mêlée libère des décharges d'énergie, infligeant des dégâts aux adversaires proches. Les décharges peuvent rebondir jusqu'à 2 fois.</content>
-	<content contentuid="hd91a0f9cg57bfg420dg838cg29a75f6176a0">Maître-foudre</content>
-	<content contentuid="hb16d76f9g5b32g40f5g9132g129954e63178">Frapper un ennemi avec des coups en mêlée libère des décharges d'énergie, infligeant des dégâts aux adversaires proches.</content>
-	<content contentuid="hdd07d81fg7a73g4993g924bg63314918bdc4">Porte-foudre</content>
+	<content contentuid="hdeac9892gce5ag4c5eg8a41gbf143caef2a6">Thunderbrand</content>
+	<content contentuid="h64ab82fbg36aag4f4dg9d29gfc0b28c48285">Hitting enemies with melee hits will cause shocking volts to be striken off at nearby enemies. Volts can fork up to 2 times.</content>
+	<content contentuid="hd91a0f9cg57bfg420dg838cg29a75f6176a0">Voltmaster</content>
+	<content contentuid="hb16d76f9g5b32g40f5g9132g129954e63178">Hitting enemies with melee hits will cause shocking volts to be striken off at nearby enemies.</content>
+	<content contentuid="hdd07d81fg7a73g4993g924bg63314918bdc4">Voltstriker</content>
 	<content contentuid="h14ad97a9g68b1g4745g95bfg750f5353f614">Le personnage subira Renversement s'il reçoit l'état Perte d'équilibre a nouveau.</content>
 	<content contentuid="h7edadbc1ged9fg4d3bgbc59g2e9bc673ae94">Perte d'équilibre</content>
 	<content contentuid="h40801b47gdff8g4679ga948g1cac63c8aa2f">Le personnage subira les dommages causés par les attaques, les surfaces et les états de &lt;font color=&apos;#65C900&apos;&gt;poison&lt;/font&gt;.</content>
 	<content contentuid="h55e158a3g1699g4969g94e8g2c62d0005cf4">Corrompu</content>
-	<content contentuid="h608c33cbgda8eg4ca0g9e28g068795133f6d">Chante-terre</content>
+	<content contentuid="h608c33cbgda8eg4ca0g9e28g068795133f6d">Earthbrand</content>
 	<content contentuid="h89c32063g6dfeg48d6g9f9bg466aa5eb2219">Armure physique maximale augmentée.</content>
 	<content contentuid="h551b679bg9ff6g497bg8d4bg3ea2949639e7">Armure de granite</content>
 	<content contentuid="h185ce225g8fe7g4be6gbfbdg8466d6dbb882">Le personnage subit des dégâts réduits.</content>
@@ -107,8 +107,8 @@
 	<content contentuid="h7ab1dc38gecd4g4565g90f2g8387669b832d">Les résistances sont réduites.</content>
 	<content contentuid="h2dc04e61g6a1fg4816ga332gd7f083250107">Brisé</content>
 	<content contentuid="haedbe0abg1edfg4cd4gbbbfg6af28fd772ad">Le personnage est paralysé par la peur et est incapable d'agir.</content>
-	<content contentuid="hdad6438bg296ag4a37gba7cg41b24e8c1273">Médusé</content>
-	<content contentuid="h80969dcagdbcdg41d3gad09g2cecc28df835">Le personnage est immunisé contre les états &lt;font color=&apos;#C7A758&apos;&gt;Terreur&lt;/font&gt; et &lt;font color=&apos;#C7A758&apos;&gt;Médusé&lt;/font&gt;.</content>
+	<content contentuid="hdad6438bg296ag4a37gba7cg41b24e8c1273">Transfixed</content>
+	<content contentuid="h80969dcagdbcdg41d3gad09g2cecc28df835">Character is immune to the &lt;font color=&apos;#C7A758&apos;&gt;Terrified&lt;/font&gt; and &lt;font color=&apos;#C7A758&apos;&gt;Transfixed&lt;/font&gt; statuses.</content>
 	<content contentuid="hb1e94f30g1229g4d41g9686gb67dc87181b6">Sans peur</content>
 	<content contentuid="h72e0f850g14d8g4e2fg9ca3gd52ee40f9bc5">                                                                                                                                                             </content>
 	<content contentuid="h4f794e49g9969g4901g84bcg56ffa1c5c087">Assoiffé de sang (+5% Vol de vie)</content>
@@ -132,7 +132,7 @@
 	<content contentuid="h5fdb903eg0615g40bdg9729g703a50d89a52">Art de la flamme</content>
 	<content contentuid="hf0218b2cg3262g41c0gae66g1351d57cf978">Les flammes traversent vos veines.</content>
 	<content contentuid="h95e5f175g76d2g413ag922eg1fd82d08ce91">Brûle-panse</content>
-	<content contentuid="h0cc18356gac68g4da7ga677g8c4fdffa127a">Incadescence-ERROR</content>
+	<content contentuid="h0cc18356gac68g4da7ga677g8c4fdffa127a">Incadescence</content>
 	<content contentuid="h1d4996e1ge9f1g4e63g8b46g61e17d3e77e1">Incinérer</content>
 	<content contentuid="h528bc492g89a0g42d9ga829g4c0651e82083">Soigne [1] points de vie à chaque tour.</content>
 	<content contentuid="h7e5c2477ge559g47c4ga838gd7b19a5d42cb">Cautériser</content>
@@ -186,7 +186,7 @@
 	<content contentuid="h5600f445g3523g4be6g9ba6ga463819b29bf">Pacte : Artillerie</content>
 	<content contentuid="hc9480ee9g8c6dg4f45gad7cgc5130a75a0a2">Vous pouvez avoir un maximum d'un pacte à la fois.</content>
 	<content contentuid="ha156541cg70cbg4b27g9382gf4ccf0cc3274">Pacte : Brutalité</content>
-	<content contentuid="h4a9df198gcfdcg4692ga1ceg7dbf4f18f144">Vous pouvez avoir un maximum d'un pacte à la fois.&lt;br&gt;&lt;font color=&quot;#40b606&quot;&gt;La vitalité ne peut pas tomber en dessous de 1PV&lt;/font&gt;</content>
+	<content contentuid="h4a9df198gcfdcg4692ga1ceg7dbf4f18f144">You may have a maximum of one pact at a time.&lt;br&gt;&lt;font color=&quot;#40b606&quot;&gt;Vitality cannot fall below 1HP&lt;/font&gt;</content>
 	<content contentuid="hed30392egeaa8g487egb312gd8cc4322c161">Pacte: Immortalité</content>
 	<content contentuid="he27e3437g5a6dg44d1gbc2fg85a9d6d16471">La fin est proche, ce n'est que le début...</content>
 	<content contentuid="hd4b52319gaee7g4efbg994cg137e2aa9ee42">Périr</content>
@@ -212,7 +212,7 @@
 	<content contentuid="h11da6c21g3f40g492fgb7c2g4f31db55967c">Inflige [1] de dégâts par tour.</content>
 	<content contentuid="ha3ce6ff7g1d00g4afbgba65g79e4ee2ef790">Noyade</content>
 	<content contentuid="h62f4227dg9ca1g476fg83beg6b43a1cf0488">Éminence</content>
-	<content contentuid="hdc7ca173ge916g4ee5g9d74g23132ef2d66c">Chante-vague</content>
+	<content contentuid="hdc7ca173ge916g4ee5g9d74g23132ef2d66c">Hydrobrand</content>
 	<content contentuid="hff269decg5b51g447fgaec1gbe43d7982e42">Augmente le montant d'armure magique maximum.</content>
 	<content contentuid="h3b8d7607g554ag4bbdg982bg4717490e401e">Pavois gelé</content>
 	<content contentuid="hf553f840g925fg41d3g98f8ge83c9f75774d">Inflige [1] de dégâts par tour. &lt;br&gt;&lt;br&gt;Supprimé par l’application des états &lt;font color=&apos;#fe6e27&apos;&gt;Chaleur&lt;/font&gt;, &lt;font color=&apos;#fe6e27&apos;&gt;Brûlure&lt;/font&gt;, &lt;font color=&apos;#fe6e27&apos;&gt;Nécroflammes&lt;/font&gt;, et &lt;font color=&apos;#fe6e27&apos;&gt;Embrasé&lt;/font&gt;.</content>
@@ -228,15 +228,15 @@
 	<content contentuid="h94f4ae02g2c29g4988g9398g8c427b06b512">Vous êtes enraciné sur place et ne pouvez pas bouger.</content>
 	<content contentuid="hfca75e13ga9aeg4a1dg87e4ga1b39b849320">Lien ancestral</content>
 	<content contentuid="hbcf71cfdg4501g4277gbc31g67ef9f8788d1">Inflige [1] de dégâts par tour.</content>
-	<content contentuid="h08992759gead4g4844gb3ddgf026c5728780">Échaudé</content>
+	<content contentuid="h08992759gead4g4844gb3ddgf026c5728780">Scalded</content>
 	<content contentuid="h0cef4ca2gfca3g4597g964cg4046c03257d7">Courant rapide</content>
 	<content contentuid="hbd861826g5f6fg466cg8aecg1b3ece07bffd">&lt;font color=&quot;#88a25b&quot;&gt;Vitesse de déplacement : 30% &lt;br&gt;Esquive : 15%&lt;/font&gt;</content>
 	<content contentuid="h262ca78ag7d25g44cfgae0bg4692d00f9e91">Courant rapide</content>
 	<content contentuid="h5246b10dg44acg40bdg858dgac1cb1dba2ec">Soigne [1] points de vie par tour.</content>
 	<content contentuid="h1a90921fg8f3ag4c34gafa6g65816983353a">Soins</content>
-	<content contentuid="h0ec4a469g1effg44cbga9e3ge96d1beb7cbb">Flots de vitalité</content>
+	<content contentuid="h0ec4a469g1effg44cbga9e3ge96d1beb7cbb">Waters Of Life</content>
 	<content contentuid="hd98b2c1ag38fbg46c8gb921g9298c9d8dcc7">Soigne [1] points de vie par tour.</content>
-	<content contentuid="h221f4ee0g1512g42cbga440g4dac7d74c67c">Flots de guérison</content>
+	<content contentuid="h221f4ee0g1512g42cbga440g4dac7d74c67c">Healing Waters</content>
 	<content contentuid="hb584a814g3ebag45f1g9002g3da76957f1c7">Lame défiée</content>
 	<content contentuid="h1d8a5788g467ag408agb532ga1b48e530274">Lame défiée</content>
 	<content contentuid="hc13879b9g0269g4c71gbc9cg193d4bf974fd">|Le personnage subit les conséquences de la perte d'un Défi.|</content>
@@ -291,12 +291,12 @@
 	<content contentuid="h7885dc09gceacg4ff9g9c23gd5740b35e2bf">Oeil de lynx</content>
 	<content contentuid="h09a981d5gd6a1g48b9g8619gd52a2c7e6b7e">Troublé</content>
 	<content contentuid="h940561e9gc792g436ega1c4gd1ca7da1bcf8">Bouclier d'isolation</content>
-	<content contentuid="hce2d50a2g0f7bg4e56gaf2fga7ab7953f962">Chante-éclair</content>
-	<content contentuid="hb18bb210g811bg4632g9c14ge5c4c7a8a714">Coups énergétiques</content>
+	<content contentuid="hce2d50a2g0f7bg4e56gaf2fga7ab7953f962">Thunderbrand</content>
+	<content contentuid="hb18bb210g811bg4632g9c14ge5c4c7a8a714">Volt Swings</content>
 	<content contentuid="hacdae046ge669g46b3ga935ga8f7ea4993bd">Perte d'équilibre</content>
 	<content contentuid="habcc6632ga2ecg402fg8b0eg5de2122da1fc">Corrompu</content>
 	<content contentuid="he55f9fc5g22f9g4e77gba94gc538aea2d40c">Décret de la nature</content>
-	<content contentuid="h3e8d1a91g50e0g4777g8d40g9096b9209bbc">Chante-terre</content>
+	<content contentuid="h3e8d1a91g50e0g4777g8d40g9096b9209bbc">Earthbrand</content>
 	<content contentuid="ha983c9f8gfb5dg4a3fg87e8g54f9a00dfad4">Armure de granite</content>
 	<content contentuid="h18a2473eg0944g4724ga8fbgaa598df215c9">Écorce-fer</content>
 	<content contentuid="h2f54af9eg8938g41eeg99e1gb598e58e582f">Huileux</content>
@@ -311,7 +311,7 @@
 	<content contentuid="h6350369eg390bg4c7eg9705g68b176c1dfb4">Serviteur du Suzerain</content>
 	<content contentuid="h69fe3f18gc741g440eg9839g62794271110d">Réanimateur</content>
 	<content contentuid="h9dbae58cge01ag4b99gaf5fg2588a4780b23">Brisé</content>
-	<content contentuid="h8de4be33gb3f1g4983gb2a6g88595b218aa0">Médusé</content>
+	<content contentuid="h8de4be33gb3f1g4983gb2a6g88595b218aa0">Transfixed</content>
 	<content contentuid="h6e8956c5gca72g481dga013g9b9a3655a4fe">Sans peur</content>
 	<content contentuid="hed146f48gf8f9g49c7g93cag56e246a5dac1">Assoiffé de sang (+5% Vol de vie)</content>
 	<content contentuid="h2fcb2f03ge3f1g4662gb9d3g9c5062ba4d62">Breuvage des sorcières</content>
@@ -322,8 +322,8 @@
 	<content contentuid="h658a4b9fgea68g4f4dgb3d8g2ca928319db9">Renaissance du Phénix</content>
 	<content contentuid="h143f45fdg9149g49bbg9a99gf4f0edc2f2e7">Feu purificateur</content>
 	<content contentuid="hc4044419g2c9eg4007gb5e8g4d02a8eddb8e">Feu purificateur</content>
-	<content contentuid="h454232a1g968ag4a8bgb4bbg78904a1a7590">Combustion</content>
-	<content contentuid="h10dbbaaag58b7g4f47gbd68gdae0e951f577">Aura de combustion</content>
+	<content contentuid="h454232a1g968ag4a8bgb4bbg78904a1a7590">Smoldered</content>
+	<content contentuid="h10dbbaaag58b7g4f47gbd68gdae0e951f577">Smolder Aura</content>
 	<content contentuid="hdc43939ag3e36g4a13g90bcg33134f38efbd">Pris au piège</content>
 	<content contentuid="h2675bb8fg498ag430cgae18g8691d43bdc27">Ascension</content>
 	<content contentuid="h052d9dcbg6ffcg4142g85f2g83cda681c7ae">Malédiction : Inepte</content>
@@ -344,7 +344,7 @@
 	<content contentuid="h36ad216agfa34g49dbg984dg5a0860296687">Aura de foid</content>
 	<content contentuid="hf42ca5bagc9c6g40e2g8384g8c5b9b89751b">Trempé</content>
 	<content contentuid="hf3ab929bg9bd3g4c4dg81a4gd89759538a36">Tombeau gelé</content>
-	<content contentuid="hb526f1fcgcf8dg491dg9fdbgf9283b2509b9">Chante-éclair</content>
+	<content contentuid="hb526f1fcgcf8dg491dg9fdbgf9283b2509b9">Hydrobrand</content>
 	<content contentuid="h899de8bbg298ag4606g8484g55ee454c05ad">Pavois gelé</content>
 	<content contentuid="h1d58baffge9e2g40dcgaf69gf6c383b1f8d9">Barrière de glace</content>
 	<content contentuid="hcf53fa64g45e9g447bgaa63g983b4509c405">Veines glacées</content>
