@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="hfde266a1g8689g4fb3g9c74g7292c1974137">Destroy [1] and apply &lt;font color=&apos;#00aa00&apos;&gt;Acid&lt;/font&gt; and &lt;font color=&apos;#c80030&apos;&gt;Atrophy&lt;/font&gt; to characters in a cone. &lt;br&gt;&lt;br&gt;Also creates a &lt;font color=&apos;#65C900&apos;&gt;Cursed Poison surface&lt;/font&gt;.</content>
-	<content contentuid="hcf708343gbf32g4b31ga9c5ga6d756fc37fd">Spray Corrosif</content>
+	<content contentuid="hcf708343gbf32g4b31ga9c5ga6d756fc37fd">Corrosive Spray</content>
 	<content contentuid="hf263b528g943ag4d6bg91e0g19a138e8013e">|Smash your weapon into the ground, damaging all non-allied characters in a cone in front of you for [1] damage and knocking them down. Clears non-cursed surfaces and clouds.|</content>
 	<content contentuid="h5ff229a2g3c44g4405g8abeg6ddf07923530">Earth Shatter</content>
-	<content contentuid="h2f61cd1eg24b4g421cg92c3gbd5711aca711">Angle du cône : [2]&lt;br&gt; Portée : [3]</content>
+	<content contentuid="h2f61cd1eg24b4g421cg92c3gbd5711aca711">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="h52b4001egfd15g4ef4g9fc0gd0984d0ab7ae">Spray oil in a cone, dealing [1] and creating an &lt;font color=&apos;#676464&apos;&gt;Oil surface&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Characters without &lt;font color=&quot;#188ede&quot;&gt;Magic Armour&lt;/font&gt; become &lt;font color=&apos;#C7A758&apos;&gt;Petrified&lt;/font&gt;, preventing them from taking action, and &lt;font color=&apos;#676464&apos;&gt;Oiled&lt;/font&gt;, reducing &lt;font color=&apos;#7f3d00&apos;&gt;Earth Resistance by [2]%&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistance by [3]%&lt;/font&gt;.</content>
 	<content contentuid="h38d51ea9g7c1ag40e9g9bcfg6a4361793e20">Tectonic Spray</content>
 	<content contentuid="hc97364f8g0ec4g46b3g8cd7gefbb0a49cf1f">|Smash your weapon into the ground, damaging all non-allied characters in a cone in front of you for [1] damage and knocking them down. Clears non-cursed surfaces and clouds.|</content>
@@ -12,38 +12,38 @@
 	<content contentuid="h09e51f84g6a44g42ffgbbdbg3504bf89254d">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="hac21b1a2gc596g420agb70eg251416d4241f">*Take my leave*</content>
 	<content contentuid="h2a013b90gb96fg4d02g96f2g55fa15be1247">If you change your mind, I&apos;ll be here. And remember - the balance must be preserved.</content>
-	<content contentuid="h142eab49g089eg4e45g860cg97cf38a58ff9">Je voudrais faire du commerce.</content>
+	<content contentuid="h142eab49g089eg4e45g860cg97cf38a58ff9">I would like to trade.</content>
 	<content contentuid="he37b7df1ga351g46b4g9072g08ed5313041d">Mortals need the earth just as it needs them. We Grovetenders exist to preserve the balance of nature. Perhaps you can aid us in our conquest...</content>
 	<content contentuid="h81c71c88g12e9g4e5dg83c9gb5f0341b9a62">Shrooms cover target area, applying &lt;font color=&apos;#65C900&apos;&gt;Spore&lt;/font&gt; to nearby characters. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#65C900&apos;&gt;Spore&lt;/font&gt; reduces &lt;font color=&apos;#65C900&apos;&gt;Poison Resistance by [1]%&lt;/font&gt; and &lt;font color=&apos;#7f3d00&apos;&gt;Earth Resistance by [2]%&lt;/font&gt;. Also reduces &lt;font color=&quot;#c80030&quot;&gt;Movement Speed by [3]%&lt;/font&gt;.</content>
 	<content contentuid="hae7938a6ge718g4b73gb53fge94331cdcfea">Spore Shrooms</content>
 	<content contentuid="h73c07be1gee06g4c4fg9687g845cac0c2a99">Shrooms cover target area, applying &lt;font color=&apos;#65C900&apos;&gt;Spore&lt;/font&gt; to nearby characters. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#65C900&apos;&gt;Spore&lt;/font&gt; reduces &lt;font color=&apos;#65C900&apos;&gt;Poison Resistance by [1]%&lt;/font&gt; and &lt;font color=&apos;#7f3d00&apos;&gt;Earth Resistance by [2]%&lt;/font&gt;. Also reduces &lt;font color=&quot;#c80030&quot;&gt;Movement Speed by [3]%&lt;/font&gt;.</content>
 	<content contentuid="ha51f20e9gb38bg4cdfgb11bg7a839cb820e6">Spore Shrooms</content>
-	<content contentuid="hc3a95907g1a9ag4ef7ga598gc1c9f859255a">Restaure [1] chaque tour.</content>
+	<content contentuid="hc3a95907g1a9ag4ef7ga598gc1c9f859255a">Restores [1] each turn.</content>
 	<content contentuid="hf410a323g3b1fg4a4bgaf89g943ce85c0cd8">Réparation</content>
-	<content contentuid="h87fb0494g922ag48efgaa79g33df3d0bda12">Le personnage subira les dommages causés par les attaques, les surfaces et les états de &lt;font color=&apos;#65C900&apos;&gt;poison&lt;/font&gt;.</content>
-	<content contentuid="ha1adc6b6ge96cg4a8dg9676gf3d52acc1c5f">Corrompu</content>
+	<content contentuid="h87fb0494g922ag48efgaa79g33df3d0bda12">Character will take damage from &lt;font color=&apos;#65C900&apos;&gt;poison&lt;/font&gt; attacks, surfaces, and statuses.</content>
+	<content contentuid="ha1adc6b6ge96cg4a8dg9676gf3d52acc1c5f">Corrupted</content>
 	<content contentuid="h9d7888e7g7f36g486fgb35bg134f62796cab">Earthbrand</content>
-	<content contentuid="h5d8d3ff0g61d8g42b4ga337gc309562a35e9">Armure physique maximale augmentée.</content>
+	<content contentuid="h5d8d3ff0g61d8g42b4ga337gc309562a35e9">Maximum Physical Armor increased.</content>
 	<content contentuid="h2de85f37gc588g455ag9f21gd1148cc7bd21">Entombed</content>
-	<content contentuid="hfb84b17bgf4b3g464bg9285g621c8e0c0aae">Armure physique maximale augmentée.</content>
-	<content contentuid="hc17634d8g185cg4711g9bbcge8d66046d852">Armure de granite</content>
-	<content contentuid="h7407e11bg94f0g4019gb390g977ee5a0603e">Le personnage subit des dégâts réduits.</content>
-	<content contentuid="h1eb6502dg1757g43f9gabc8g38b99814306c">Écorce-fer</content>
-	<content contentuid="hc485b32fgbe8ag476ega87bg2579e60ccca4">Le personnage est couvert &lt;font color=&apos;#7f3d00&apos;&gt;d'huile&lt;/font&gt;.</content>
-	<content contentuid="h27ab1bdaga061g43begaa06gf24357e5025b">Huileux</content>
-	<content contentuid="hb81f012age2b3g456dg9576g3ee8ffde9b65">Le personnage est infecté par des parasites.</content>
-	<content contentuid="hc360bc70g29c7g48bbgaf3fg49ea46f18b47">Affliction parasitaire</content>
-	<content contentuid="hde736dd1ge230g4a5ag9ce7gc822ee87d244">Ne peut pas attaquer, lancer des sorts ou interagir avec des objets.</content>
-	<content contentuid="h1a2ff3e2g425eg476bgb451g50b1dfc514d7">Décret de la nature</content>
+	<content contentuid="hfb84b17bgf4b3g464bg9285g621c8e0c0aae">Maximum Physical Armor increased.</content>
+	<content contentuid="hc17634d8g185cg4711g9bbcge8d66046d852">Granite Plating</content>
+	<content contentuid="h7407e11bg94f0g4019gb390g977ee5a0603e">Character is taking reduced damage.</content>
+	<content contentuid="h1eb6502dg1757g43f9gabc8g38b99814306c">Ironbark</content>
+	<content contentuid="hc485b32fgbe8ag476ega87bg2579e60ccca4">Character is covered in &lt;font color=&apos;#7f3d00&apos;&gt;oil&lt;/font&gt;.</content>
+	<content contentuid="h27ab1bdaga061g43begaa06gf24357e5025b">Oiled</content>
+	<content contentuid="hb81f012age2b3g456dg9576g3ee8ffde9b65">Character is infected with parasites.</content>
+	<content contentuid="hc360bc70g29c7g48bbgaf3fg49ea46f18b47">Parasitic Affliction</content>
+	<content contentuid="hde736dd1ge230g4a5ag9ce7gc822ee87d244">Can&apos;t attack, cast or interact with objects.</content>
+	<content contentuid="h1a2ff3e2g425eg476bgb451g50b1dfc514d7">Nature&apos;s Decree</content>
 	<content contentuid="hbd0f9b79g247fg4f35gadbcgbb647d9ce947">Absorption du poison</content>
-	<content contentuid="hde00da88gb8c4g454fgbee2gf54fd770cee8">Le personnage est actuellement infecté par des &lt;font color=&apos;#65C900&apos;&gt;spores&lt;/font&gt; affaiblissantes.</content>
-	<content contentuid="h2b39c2abg6d28g4e35g9a23g28c5cb1d95c7">Infection de spores</content>
-	<content contentuid="hd88d01f9g518fg4443g9236g6a61465e7035">Ne peut pas attaquer, lancer des sorts ou interagir avec des objets.</content>
-	<content contentuid="hd0d3dce1g9e0eg465ega101g6fbf45f62594">Décret de la nature</content>
-	<content contentuid="h3ee4e9d7g7b79g49cbg9e09gdf07d8d34f9e">Le personnage est temporairement &lt;font color=&apos;#F7BA14&apos;&gt;Changeformé&lt;/font&gt;.</content>
-	<content contentuid="h575c70beg4388g46e8gb1fdg02f1d4e8702f">Changeforme: Sentinelle d'argile</content>
-	<content contentuid="h380874a1g7b99g46d6g8a6egb4d68234155c">Inflige [1] de dégâts par tour.</content>
-	<content contentuid="h8b6996f5gc08fg43f9gb451gfb8073b92487">Venin</content>
+	<content contentuid="hde00da88gb8c4g454fgbee2gf54fd770cee8">Character is currently affected by debilitating &lt;font color=&apos;#65C900&apos;&gt;spores&lt;/font&gt;.</content>
+	<content contentuid="h2b39c2abg6d28g4e35g9a23g28c5cb1d95c7">Spored</content>
+	<content contentuid="hd88d01f9g518fg4443g9236g6a61465e7035">Can&apos;t attack, cast or interact with objects.</content>
+	<content contentuid="hd0d3dce1g9e0eg465ega101g6fbf45f62594">Nature&apos;s Decree</content>
+	<content contentuid="h3ee4e9d7g7b79g49cbg9e09gdf07d8d34f9e">Character is temporarily &lt;font color=&apos;#F7BA14&apos;&gt;Shapeshifted&lt;/font&gt;.</content>
+	<content contentuid="h575c70beg4388g46e8gb1fdg02f1d4e8702f">Shapeshift: Clay Sentinel</content>
+	<content contentuid="h380874a1g7b99g46d6g8a6egb4d68234155c">Deals [1] damage each turn.</content>
+	<content contentuid="h8b6996f5gc08fg43f9gb451gfb8073b92487">Venom</content>
 	<content contentuid="h0ebc717cg70d0g49fag8d22g44ffa91e60c1">Carapace huileuse</content>
 	<content contentuid="h966ac051g14dfg4156ga40ag6267bbffdc7b">Launch 5 toxic spores, each dealing [1], creating a &lt;font color=&quot;#65C900&quot;&gt;Cursed Poison cloud&lt;/font&gt;, and applying &lt;font color=&apos;#65C900&apos;&gt;Spore&lt;/font&gt;.  &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#65C900&apos;&gt;Spore&lt;/font&gt; reduces &lt;font color=&apos;#65C900&apos;&gt;Poison Resistance by [2]%&lt;/font&gt; and &lt;font color=&apos;#7f3d00&apos;&gt;Earth Resistance by [3]%&lt;/font&gt;. Also reduces &lt;font color=&quot;#c80030&quot;&gt;Movement Speed by [4]%&lt;/font&gt;.</content>
 	<content contentuid="hce0a6e3ag0758g4a3bg9402gaa3fe4bdb6a7">Artillery Spores</content>
