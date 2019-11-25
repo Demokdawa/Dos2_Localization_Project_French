@@ -58,7 +58,7 @@
 	<content contentuid="h40801b47gdff8g4679ga948g1cac63c8aa2f">Le personnage subira les dommages causés par les attaques, les surfaces et les états de &lt;font color=&apos;#65C900&apos;&gt;poison&lt;/font&gt;.</content>
 	<content contentuid="h55e158a3g1699g4969g94e8g2c62d0005cf4">Corrompu</content>
 	<content contentuid="h608c33cbgda8eg4ca0g9e28g068795133f6d">Chante-terre</content>
-	<content contentuid="h89c32063g6dfeg48d6g9f9bg466aa5eb2219">Armure physique maximale augmentée..</content>
+	<content contentuid="h89c32063g6dfeg48d6g9f9bg466aa5eb2219">Armure physique maximale augmentée.</content>
 	<content contentuid="h551b679bg9ff6g497bg8d4bg3ea2949639e7">Armure de granite</content>
 	<content contentuid="h185ce225g8fe7g4be6gbfbdg8466d6dbb882">Le personnage subit des dégâts réduits.</content>
 	<content contentuid="h4e85e95cg11e7g4a37ga14fg4d5e78c99083">Écorce-fer</content>
@@ -69,7 +69,7 @@
 	<content contentuid="h3e15cc58g8a5cg485bg81a8g18826b60e838">Ne peut pas attaquer, lancer des sorts ou interagir avec des objets.</content>
 	<content contentuid="h82c51b61g22b0g4230gb9cbg9e2cf8030936">Décret de la nature</content>
 	<content contentuid="h7fe185d5g75a4g40cdg8a12g645ce9b3ebe0">Absorption du poison</content>
-	<content contentuid="h36c0e5fagc095g4e8dg903fg5301e8991e60">Le personnage est actuellement affecté par des &lt;font color=&apos;#65C900&apos;&gt;spores&lt;/font&gt; affaiblissantes.</content>
+	<content contentuid="h36c0e5fagc095g4e8dg903fg5301e8991e60">Le personnage est actuellement infecté par des &lt;font color=&apos;#65C900&apos;&gt;spores&lt;/font&gt; affaiblissantes.</content>
 	<content contentuid="h0807ae17g8aa6g46b9g9795gce904672043e">Infection de spores</content>
 	<content contentuid="heec89f06g3732g4bfcg99e2ga88787902ed9">Ne peut pas attaquer, lancer des sorts ou interagir avec des objets.</content>
 	<content contentuid="h4ea7e7c2g80f4g4914g829fg18ad62085155">Décret de la nature</content>
@@ -114,7 +114,7 @@
 	<content contentuid="h4f794e49g9969g4901g84bcg56ffa1c5c087">Assoiffé de sang (+5% Vol de vie)</content>
 	<content contentuid="h0af7c31fg9770g4c50g85d2g402c36a77e29">                                                                                                                                                             </content>
 	<content contentuid="h2db24ddfge246g4ef4ga094g562bfc4ad748">Assoiffé de sang (+5% Vol de vie)</content>
-	<content contentuid="h2d996a24gae8cg49f7gabdeg2f6c00f42521">Maîtrise la puissance des flammes, au prix d'une faiblesse à l'eau.</content>
+	<content contentuid="h2d996a24gae8cg49f7gabdeg2f6c00f42521">Maîtrise la puissance des flammes, au prix d'une faiblesse accrue à l'eau.</content>
 	<content contentuid="hf8a4ad98g96c0g462dg8cb0gad5b1a3055f1">Flamboyant</content>
 	<content contentuid="h4391de0ag1114g4434ga732gb34d93f6d360">Inflige [1] de dégâts au début de chaque tour. &lt;br&gt;&lt;br&gt;Supprimé par l’application des états &lt;font color=&apos;#4197e2&apos;&gt;Humidité&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Coup de froid&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Gel&lt;/font&gt;, et &lt;font color=&apos;#cfecff&apos;&gt;Hypothermie&lt;/font&gt;.</content>
 	<content contentuid="h6b9e5766g04acg4300g93bbg459ca18f1695">Embrasé</content>
@@ -172,7 +172,7 @@
 	<content contentuid="hb37774dbg97cag4a40ga3e3g65f9c4ad5c4b">Aura de malédiction : Faiblesse</content>
 	<content contentuid="hc96f563egeafbg4621g878ag92060237a9e0">Une cible ne peut être touchée que par une seule malédiction à la fois.</content>
 	<content contentuid="he8dfa75cga435g4609g933fg41d8c7eca8fc">Malédiction : Faiblesse</content>
-	<content contentuid="ha2eeed7cg5ef1g40d5g9e9fg9751272151bc">Vous êtes apeuré ? Vous devriez l'être...</content>
+	<content contentuid="ha2eeed7cg5ef1g40d5g9e9fg9751272151bc">Vous n'êtes pas apeuré ? Vous devriez...</content>
 	<content contentuid="h0c85da9dgaf50g418bga4c6g6e7fd6ef95c8">Crainte</content>
 	<content contentuid="h08bc533aga518g4825gaf4bg66b2fd624387">La rivière me parle....</content>
 	<content contentuid="h0e0ab467ge47dg447fg8a90g7fceb7a7f256">Exalté</content>
@@ -200,11 +200,11 @@
 	<content contentuid="hcebc8d32g660dg4b52g946ega5d32f3ac9fb">Graine de malice</content>
 	<content contentuid="h8c744253g21c1g4c07gbe43gdf37a2734107">C'est si facile d'exploiter la stupidité...</content>
 	<content contentuid="ha9ee4260g0aadg4631ga690g557b11b36b0e">Sombre marché</content>
-	<content contentuid="h6aed12cdgf069g4421g8ba9g84b8f2e20dd2">Pourquoi combattre la mort ? Accepte-la....</content>
+	<content contentuid="h6aed12cdgf069g4421g8ba9g84b8f2e20dd2">Pourquoi combattre la mort ? Acceptez-la....</content>
 	<content contentuid="h825b9c88g6a33g4c06gbc87g9d99eb391a3e">Flétrissement</content>
 	<content contentuid="hdebd7a1fg011dg4e57gaa97g8767008a07c4">Cryothérapie</content>
 	<content contentuid="h57ad51dfgb93eg4b01gaba0g17cb8ab4c599">Les ennemis proches subissent l'état Coup de froid.</content>
-	<content contentuid="h1f06f032g506dg47e3g8c06g216f85502b31">Aura de foid</content>
+	<content contentuid="h1f06f032g506dg47e3g8c06g216f85502b31">Aura de froid</content>
 	<content contentuid="h0f2820a9g0ff0g4047g8ec1g699bc673afbd">Vos vagues ne s'écrasent plus.</content>
 	<content contentuid="ha108d3ffgc447g490egb986g753f001d5f16">Trempé</content>
 	<content contentuid="hf9669785gb5ecg4270gbefcgb64a817279d0">Un linceul de glace les gèle sur place et les rend invulnérables aux dommages.</content>
@@ -226,7 +226,7 @@
 	<content contentuid="hb9d24373g1f09g4960gac91g925ba4cc0aa0">Marée haute</content>
 	<content contentuid="h59370a59g31bfg4cf2gbe2dg5eeba343125b">Marée basse</content>
 	<content contentuid="h94f4ae02g2c29g4988g9398g8c427b06b512">Vous êtes enraciné sur place et ne pouvez pas bouger.</content>
-	<content contentuid="hfca75e13ga9aeg4a1dg87e4ga1b39b849320">Lien avec les ancêtres</content>
+	<content contentuid="hfca75e13ga9aeg4a1dg87e4ga1b39b849320">Lien ancestral</content>
 	<content contentuid="hbcf71cfdg4501g4277gbc31g67ef9f8788d1">Inflige [1] de dégâts par tour.</content>
 	<content contentuid="h08992759gead4g4844gb3ddgf026c5728780">Échaudé</content>
 	<content contentuid="h0cef4ca2gfca3g4597g964cg4046c03257d7">Courant rapide</content>
@@ -350,7 +350,7 @@
 	<content contentuid="hcf53fa64g45e9g447bgaa63g983b4509c405">Veines glacées</content>
 	<content contentuid="h88fc9360g7578g4094gb240g592f8aad2601">Marée basse</content>
 	<content contentuid="he2a78a74gf9f0g4e0fga5cfg1db358f42499">Marée haute</content>
-	<content contentuid="h2476a55cgb325g422eg9583gad4692aece8a">Lien avec les ancêtres</content>
+	<content contentuid="h2476a55cgb325g422eg9583gad4692aece8a">Lien ancestral</content>
 	<content contentuid="h3687f028gb27cg47dagb52ag5d958cb04657">Courant faible</content>
 	<content contentuid="h52737958g4f18g42e5g8c86g5675f68b57f4">Courant rapide</content>
 	<content contentuid="h6d89cb56g9740g4f5bg807cg57a561bf90ec">Défi de l'ombre perdu</content>
