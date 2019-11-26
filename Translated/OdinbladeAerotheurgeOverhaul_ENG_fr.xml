@@ -5,7 +5,7 @@
 	<content contentuid="h9cddd4aaga7a7g4169ga068ga9c185c291a1">Atlantean Trident</content>
 	<content contentuid="hbfc9f85bg5b3bg4dfbg93f5ga0fbd8bcab8c">Bold Stormhammer</content>
 	<content contentuid="h90f1baddg235dg41f4ga4c1g77fda77a3890">Blast a violent wind, cleansing all &lt;font color=&apos;#dbdbdb&apos;&gt;Surfaces&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Those hit by the blast are dealt [1] and are executed if they are &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt; and have less than &lt;font color=&quot;#97fbff&quot;&gt;15% Vitality&lt;/font&gt;.&lt;br&gt;&lt;br&gt;Survivors of the blast &lt;font color=&apos;#dbdbdb&apos;&gt;lose their footing&lt;/font&gt; and begin &lt;font color=&quot;#797980&quot;&gt;Suffocating&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Setting &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; on an &lt;font color=&apos;#aa3938&apos;&gt;enemy&lt;/font&gt; who already has &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; will set &lt;font color=&apos;#dbdbdb&apos;&gt;Knocked Down&lt;/font&gt; if either Armour type is depleted.</content>
-	<content contentuid="h09f3f4eag98a3g451ag997fg959831698fa6">Aeroblast</content>
+	<content contentuid="h09f3f4eag98a3g451ag997fg959831698fa6">Explosion aérienne</content>
 	<content contentuid="ha65f7ea2gbe42g4e79gb9a5gcf2a4f9c5ea4">Blast wind in a cone, &lt;font color=&apos;#797980&apos;&gt;Suffocating&lt;/font&gt; and dealing [1] to enemies. Also applies &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; to &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Setting &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; on an &lt;font color=&apos;#aa3938&apos;&gt;enemy&lt;/font&gt; who already has &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; will set &lt;font color=&apos;#dbdbdb&apos;&gt;Knocked Down&lt;/font&gt; if either Armour type is depleted.</content>
 	<content contentuid="h72468c33g423bg4ab7ga7a7g17b3e9c32c74">Turbulent Wind</content>
 	<content contentuid="h456fdc4dg6dd1g4350g9814g91d42d427795">Blast wind in a cone, &lt;font color=&apos;#797980&apos;&gt;Suffocating&lt;/font&gt; and dealing [1] to enemies. Also applies &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; to &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Setting &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; on an &lt;font color=&apos;#aa3938&apos;&gt;enemy&lt;/font&gt; who already has &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; will set &lt;font color=&apos;#dbdbdb&apos;&gt;Knocked Down&lt;/font&gt; if either Armour type is depleted.</content>
@@ -31,15 +31,15 @@
 	<content contentuid="hd66a2bf1g9377g455bg99acgd9853151f60f">Jump from one &lt;font color=&apos;#aa3938&apos;&gt;enemy&lt;/font&gt;to up to 2 other nearby &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt;, dealing [1] and &lt;font color=&apos;#7d71d9&apos;&gt;Shocking&lt;/font&gt; all hit this way. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#b87333&apos;&gt;Conductive&lt;/font&gt;:&lt;br&gt;Hitting a &lt;font color=&apos;#b87333&apos;&gt;Conductive&lt;/font&gt; &lt;font color=&apos;#aa3938&apos;&gt;enemy&lt;/font&gt; causes this skill to deal [2] to &lt;font color=&apos;#aa3938&apos;&gt;non-Conductive enemies&lt;/font&gt; within [3].</content>
 	<content contentuid="hb7171a43g6a29g4298g919dga0f66156dd0d">Thunder Vault</content>
 	<content contentuid="hf0db2d70g776ag4241gb6afgd340debe3730">Ocean&apos;s Trident</content>
-	<content contentuid="h567fd960gd74bg4df2g9356g1394f37d6e62">Character is a conduit for electrical skills.</content>
-	<content contentuid="haa5ba803gdc33g4710gbed5g7d1887e21ae3">Conductive</content>
+	<content contentuid="h567fd960gd74bg4df2g9356g1394f37d6e62">Le personnage est un conduit pour les compétences électriques.</content>
+	<content contentuid="haa5ba803gdc33g4710gbed5g7d1887e21ae3">Conducteur</content>
 	<content contentuid="hb83cbaf6gdda6g4b78g99fdgbde0186bdfaf">|Reaction Shot|</content>
-	<content contentuid="h1ff76e49gbdc9g4ae9g9c90ge5a96dbce0b6">Deals [1] damage per turn.</content>
+	<content contentuid="h1ff76e49gbdc9g4ae9g9c90ge5a96dbce0b6">Inflige [1] de dégâts par tour.</content>
 	<content contentuid="h2b142255gccfdg4fb7ga2deg9deb575fe4fb">Zap</content>
-	<content contentuid="hd209bdb6gd8f1g431fgbef0g167cd39d7a14">Deals [1] damage per turn.</content>
-	<content contentuid="h14e7465cg517eg47aeg80aege3af1e485a90">Deals [1] damage per turn.</content>
+	<content contentuid="hd209bdb6gd8f1g431fgbef0g167cd39d7a14">Inflige [1] de dégâts par tour.</content>
+	<content contentuid="h14e7465cg517eg47aeg80aege3af1e485a90">Inflige [1] de dégâts par tour.</content>
 	<content contentuid="h7ba6bc55gd386g43e4gb2f9g120de943926e">Zap</content>
-	<content contentuid="h31ee313eg6397g484dgb37egfeab8a5d3b6c">Deals [1] damage per turn.</content>
+	<content contentuid="h31ee313eg6397g484dgb37egfeab8a5d3b6c">Inflige [1] de dégâts par tour.</content>
 	<content contentuid="h60ae8f91gc92fg47dbg94e7g4969f314e2ba">Zap</content>
 	<content contentuid="h8f975f25g5d23g4050ga8fcg2c32c2572955">Thunderbrand</content>
 	<content contentuid="ha24b8301gd9f8g4659ga5cagcc726a59260c">Hitting enemies with melee hits will cause shocking volts to be striken off at nearby enemies. Volts can fork up to 2 times.</content>
@@ -131,7 +131,7 @@
 	<content contentuid="h64711106g73f4g42fegb378g47646366cebe">Téléportation</content>
 	<content contentuid="h4e5a132eg12b6g47bcg9246g874aa03aad39">Target range: [2]&lt;br&gt;Target can be moved [3] away from its position.&lt;br&gt;&lt;br&gt;Select item or character first, then select its destination.</content>
 	<content contentuid="h19cad0d8gda0dg42efg92f9ga3a39e5c5c8a">Échange les places de deux personnages. Vous pouvez être l'un d'eux.</content>
-	<content contentuid="hff166fe3gd3b9g41c6gb3d0gc504c445d0ab">Netherswap</content>
+	<content contentuid="hff166fe3gd3b9g41c6gb3d0gc504c445d0ab">Permutation du vide</content>
 	<content contentuid="h264ac083gbb83g41e8g9a28g4aa684a08304">An uncontrollable tornado sweeps the battlefield, applying &lt;font color=&apos;#797980&apos;&gt;Suffocating&lt;/font&gt; and &lt;font color=&apos;#dbdbdb&apos;&gt;Lost Footing&lt;/font&gt; to &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;The tornado clears all &lt;font color=&apos;#dbdbdb&apos;&gt;Surfaces&lt;/font&gt; in its wake.&lt;br&gt;&lt;br&gt;Removes &lt;font color=&apos;#639594&apos;&gt;Invisible&lt;/font&gt;, &lt;font color=&apos;#fe6e27&apos;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#65c900&quot;&gt;Poisoned&lt;/font&gt;, and &lt;font color=&apos;#c7a758&apos;&gt;Slowed&lt;/font&gt; from all characters.</content>
 	<content contentuid="h12092f93gbe48g4619g8761g92754498e504">Tornade</content>
 	<content contentuid="h7d5aa4b0gdbcfg4f7egbd0dga3204b711deb">Rayon : [1]</content>
