@@ -63,7 +63,7 @@
 	<content contentuid="hd526825cgda9bg43dagab5cg1c581cb726c0">I would like to trade.</content>
 	<content contentuid="h76318025gf6a9g4529gb8e1g750743a9b5e4">*Take my leave*</content>
 	<content contentuid="h0425da02g7c5cg4d6fg9c78g7865e099bfcf">[1]</content>
-	<content contentuid="h311682d0ge63cg48a8gb8e8g80c99d50155d">Firebrand</content>
+	<content contentuid="h311682d0ge63cg48a8gb8e8g80c99d50155d">Chante-flamme</content>
 	<content contentuid="hfa429a3agf06bg43bbgae53gad69b48bebdf">Character is bleeding fire when hit.</content>
 	<content contentuid="hbdb51fd5g9dedg4fa8g82f8g5af1f2ddcc0d">Fireblood</content>
 	<content contentuid="hca2297aeg6796g4405ga2eege170fb3f2021">Approaching hostiles will be blased with fire damage.</content>
@@ -139,7 +139,7 @@
 	<content contentuid="h981fa121ge95dg4391gad6egd01292b692e6">Slug Rush</content>
 	<content contentuid="h03df247cg4929g44bagb874g8201189a7447">Range: [2]</content>
 	<content contentuid="h1efbe997g62d1g4b50gb97ag7ed10d3c481b">Ignite your inner-spark, adding [1] to your weapon attacks. &lt;br&gt;&lt;br&gt;Basic attacks will &lt;font color=&quot;#fe6e27&quot;&gt;Warm&lt;/font&gt; characters for 1 turn if they are not already &lt;font color=&quot;#fe6e27&quot;&gt;Warm&lt;/font&gt;.</content>
-	<content contentuid="hd96bf261g45a2g4bd7g9c09g86acc3280a1b">Firebrand</content>
+	<content contentuid="hd96bf261g45a2g4bd7g9c09g86acc3280a1b">Chante-flamme</content>
 	<content contentuid="h23ba2902g1d99g4996ga070gd01eaa719cc2">Gain &lt;font color=&apos;#fe6e27&apos;&gt;Exquisite Firecraft&lt;/font&gt; for 3 turns, dealing [1] to approaching &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt; and incrementing their &lt;font color=&apos;#fe6e27&apos;&gt;Scorch&lt;/font&gt; stacks.</content>
 	<content contentuid="h3441ea87g9ebbg4cf7g8a88gd137a180e914">Exquisite Firecraft</content>
 	<content contentuid="h3d0500fdg4c7dg4405g92dagc063495716b1">Ignite &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt; and &lt;font color=&apos;#9a6a46&apos;&gt;surfaces&lt;/font&gt; around you, dealing [1]. &lt;br&gt;&lt;br&gt;Applies a stack of &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; (up to 5 max), reducing &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistances&lt;/font&gt; and dealing &lt;font color=&quot;#fe6e27&quot;&gt;fire damage&lt;/font&gt; on apply and each turn: &lt;br&gt;&lt;br&gt;1 stack: [2] &lt;br&gt;2 stacks: [3] &lt;br&gt;3 stacks: [4] &lt;br&gt;4 stacks: [5] &lt;br&gt;5 stacks: [6]</content>
