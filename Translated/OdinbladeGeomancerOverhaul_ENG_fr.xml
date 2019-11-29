@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="hfde266a1g8689g4fb3g9c74g7292c1974137">Détruit [1] et applique les états &lt;font color=&apos;#00aa00&apos;&gt;Acide &lt;/font&gt; et &lt;font color=&apos;#c80030&apos;&gt;Atrophie&lt;/font&gt; sur les personnages dans un cône. &lt;br&gt;&lt;br&gt;Crée également une &lt;font color=&apos;#65C900&apos;&gt;surface de poison maudite&lt;/font&gt;.</content>
+	<content contentuid="hfde266a1g8689g4fb3g9c74g7292c1974137">Destroy [1] and apply &lt;font color=&apos;#00aa00&apos;&gt;Acid&lt;/font&gt; and &lt;font color=&apos;#c80030&apos;&gt;Atrophy&lt;/font&gt; to characters in a cone. &lt;br&gt;&lt;br&gt;Also creates a &lt;font color=&apos;#65C900&apos;&gt;Cursed Poison surface&lt;/font&gt;.</content>
 	<content contentuid="hcf708343gbf32g4b31ga9c5ga6d756fc37fd">Corrosive Spray</content>
 	<content contentuid="hf263b528g943ag4d6bg91e0g19a138e8013e">|Smash your weapon into the ground, damaging all non-allied characters in a cone in front of you for [1] damage and knocking them down. Clears non-cursed surfaces and clouds.|</content>
 	<content contentuid="h5ff229a2g3c44g4405g8abeg6ddf07923530">Earth Shatter</content>
