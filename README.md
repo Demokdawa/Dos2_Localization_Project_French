@@ -17,28 +17,28 @@ There are only two mods actually in translation process right now.
 
 Obinblade Mods :
   - OdinCore :
-    - Pass 1 : 100%
-    - Pass 2 : 0%
+    - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Translation : 100%
+    - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Pass 1 : 100%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  Pass 2 : 0% 
   - Aerothurge :
-    - Translation : 63%
-    - Pass 1 : 0%
+    - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+) Translation : 63%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)   Pass 1 : 0%
   - Geomancer :
-    - Translation : 79%
-    - Pass 1 : 0%
+    - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+) Translation : 79%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
   - Hydrosophist :
-    - Translation : 100%
-    - Pass 1 : 0%
+    - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Translation : 100%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
   - Necromancer :
-    - Translation : 100%
-    - Pass 1 : 50%
+    - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Translation : 100%
+    - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+)  Pass 1 : 50%
   - Pyromancer :
-    - Translation : 31%
-    - Pass 1 : 0%
+    - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+)  Translation : 31%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
   - Spectre :
-    - Translation : 0%
-    - Pass 1 : 0%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Translation : 0%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
   - Umbra :
-    - Translation : 19%
-    - Pass 1 : 0%
-
+    - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+) Translation : 19%
+    - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
 
