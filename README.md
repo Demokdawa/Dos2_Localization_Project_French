@@ -24,7 +24,7 @@ Obinblade Mods :
     - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+) Translation : 63%
     - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)   Pass 1 : 0%
   - Geomancer :
-    - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+) Translation : 79%
+    - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Translation : 100%
     - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
   - Hydrosophist :
     - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Translation : 100%
@@ -39,6 +39,6 @@ Obinblade Mods :
     - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Translation : 0%
     - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
   - Umbra :
-    - ![#EBAE0D](https://placehold.it/15/EBAE0D/000000?text=+) Translation : 19%
+    - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Translation : 100%
     - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Pass 1 : 0%
 
