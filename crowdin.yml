@@ -1,8 +1,0 @@
-files:
-  - source: '*.xml'
-    ignore:
-      - /Translated
-    translation: /Translated/%file_name%_%two_letters_code%.xml
-    translate_attributes: 0
-    content_segmentation: 0
-    "update_option" : "update_without_changes"
