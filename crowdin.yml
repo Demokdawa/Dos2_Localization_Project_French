@@ -2,4 +2,5 @@ files:
   - source: /source/*.xml
     translation: /translated/%language%_%file_name%.%file_extension%
     translate_attributes: 0
+    content_segmentation: 0
     type: xml9
