@@ -1,79 +1,75 @@
 <contentList>
-	<content contentuid="hfe1d84c9g028eg4503ga9d0gd6a1dba820e9" Source="MalthusGreeting01.lsj">Hmm.. Such a fascinating soul... Perhaps you could be of use to me...</content>
-	<content contentuid="ha1784017g33ddg4e89g85ecge602b2c88db4" Source="MalthusGreeting01.lsj"> *Take my leave.*</content>
-	<content contentuid="h39172c1eg6940g42f5g850cg3625360c71c1" Source="MalthusGreeting01.lsj">Pleasure doing business with you. I&apos;m sure I&apos;ll be seeing more of you soon...</content>
-	<content contentuid="h006b8023g38fbg4725gb93bg76040eea6e8e" Source="MalthusGreeting01.lsj">I would like to trade.</content>
-	<content contentuid="hbb278025g6cb4g440ega560g5765e5889314" Source="MalthusRespec01.lsj">Yes. I wish to become a Spectre by applying the preset to myself.</content>
-	<content contentuid="h35c1aed2g512cg44ccg891ag7d4a955891f6" Source="MalthusRespec01.lsj">Hmm.. Such a fascinating soul... Perhaps you could be of use to me...</content>
-	<content contentuid="h62bf2fa5g36abg4897g830agf2cf0b5d372a" Source="MalthusRespec01.lsj">I would like to trade.</content>
-	<content contentuid="h32558011gab62g4958g95fag8f75626e430c" Source="MalthusRespec01.lsj">No. I have already decided on my path.</content>
-	<content contentuid="h949cdb86g329dg4386g943eg4c9c69a1d249" Source="MalthusRespec01.lsj">Is this a willing soul I see? Agony and Dread await you - are you sure?&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;WARNING: This process will replace your inventory. Ensure you empty your inventory in a suitable container / party member before switching!&lt;/i&gt;&lt;/b&gt;</content>
-	<content contentuid="h263a39d2g7141g47fdgb948g8bacf7f0d17b" Source="MalthusRespec01.lsj">Pleasure doing business with you. I&apos;m sure I&apos;ll be seeing more of you soon...</content>
-	<content contentuid="hcb104239g86b0g415ega88cgc462d0e19f47" Source="MalthusRespec01.lsj">I want to change my class.</content>
-	<content contentuid="h43ea3fc7g16c5g4406ga6a8g7d804c44d13e" Source="MalthusRespec01.lsj">I&apos;m thinking about becoming a Spectre.</content>
-	<content contentuid="h2751bdabg4463g4119g85e1g0b5b779a975b" Source="MalthusRespec01.lsj">A pity, but it&apos;s your decision. I needn&apos;t worry - I have other methods to take your soul...</content>
-	<content contentuid="hc4444002geeb8g41e3g8145gebacc2767985" Source="MalthusRespec01.lsj">*Take my leave*</content>
-	<content contentuid="hfdf37f0fga931g4499gbc33ge4e8e44bb338" Source="MalthusRespec01.lsj">Foolish mortal. I can only wish you good luck...</content>
-	<content contentuid="hc730a95fg67b6g4666g82c1ge5b8cd504f03" Source="MalthusRespec01.lsj">Anyone may take the pact, so long as they have a soul. Are you interested in using soul magic?</content>
-	<content contentuid="hf3a57d05g5d35g426fgb165gaf3b73fccbed" Source="MalthusRespec01.lsj">I&apos;m fine with my current class.</content>
-	<content contentuid="h0c8fd1e8g6724g4fa7gae61g1781ebe75cca" Source="MalthusRespec01.lsj">A pity, but it&apos;s your decision. I needn&apos;t worry - I have other methods to take your soul...</content>
-	<content contentuid="ResStr_90b8768e" Source="052bfe2c-1f27-47e2-98f9-4592a61ad351.lsf">TreSPassR&apos;s Scythe</content>
-	<content contentuid="ResStr_1ef0782e" Source="0f004502-e690-4057-bc27-4ceef9fd0043.lsf">Purge Skillbook</content>
-	<content contentuid="ResStr_2e8b0cca" Source="14b3e2f3-5200-4698-a789-e168d9754032.lsf">Merciful Resurrection Skillbook</content>
-	<content contentuid="ResStr_edc1a8f0" Source="1632e497-b474-4e5d-b3c9-7091eaaa0f1c.lsf">Raise Spectral Banshee Skillbook</content>
-	<content contentuid="ResStr_3fba299b" Source="1be10d08-9df4-4406-a437-f4557f2c8195.lsf">Curse of Ineptness Skillbook</content>
-	<content contentuid="ResStr_aa6498db" Source="20bff06f-7ce6-4f18-b09c-cd158f902b70.lsf">Pact of Artillery Skillbook</content>
-	<content contentuid="he18dc377g2d9fg4939g9bf2gc802c14d8d63" Source="225f71a5-bb24-4294-b4aa-0d04cf66d9d0.lsf"></content>
-	<content contentuid="ResStr_22311864" Source="2fae6ecd-dfee-49b0-b81f-e9e63ce50fea.lsf">Pact of Immortality Skillbook</content>
-	<content contentuid="ResStr_1d774242" Source="3695b174-ae37-4f85-940a-ea3d636d3e58.lsf">Corruption Skillbook</content>
-	<content contentuid="ResStr_cee17829" Source="3b095b4b-6212-44cb-8168-bea5bebacfef.lsf">Essence Bolt Skillbook</content>
-	<content contentuid="ResStr_acb198e1" Source="44e63363-97f3-4473-97ac-e8dd6c748f03.lsf">Dreadfall Skillbook</content>
-	<content contentuid="h4cbc1818gd3efg415bga258gbf05b211bd78" Source="49a82983-0bfd-4d29-b82c-3827316b08ea.lsf"></content>
-	<content contentuid="ResStr_fd5acf80" Source="4a6cc560-ea12-475c-961e-633c1d6a9ab0.lsf">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
-	<content contentuid="ResStr_91ecc94" Source="4a6cc560-ea12-475c-961e-633c1d6a9ab0.lsf">Agony of the Damned Skillbook</content>
-	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="4a6cc560-ea12-475c-961e-633c1d6a9ab0.lsf">Skillbooks</content>
-	<content contentuid="ResStr_4867fa13" Source="5039fff5-4bdb-4a04-aac8-61dc5591c5ff.lsf">Inflict Agony Skillbook</content>
-	<content contentuid="ResStr_9b31f2fb" Source="548c2f66-41d2-472d-bdf0-47011595c3d5.lsf">A Spectre&apos;s signature weapon.</content>
-	<content contentuid="ResStr_e35e8db2" Source="548c2f66-41d2-472d-bdf0-47011595c3d5.lsf">C.E.J.&apos;s Scythe</content>
-	<content contentuid="hdef9a124ga8d8g4662ga946g843dccecb5a1" Source="548c2f66-41d2-472d-bdf0-47011595c3d5.lsf">Miscellaneous</content>
-	<content contentuid="ResStr_dab96a2f" Source="5c7559fd-e77e-44e4-9346-dc48679fa3cd.lsf">Seed of Malice Skillbook</content>
-	<content contentuid="ResStr_2c86607d" Source="5d9e04e4-8c8c-4cf5-848d-fdf29d66f789.lsf">Soul Pierce Skillbook</content>
-	<content contentuid="ResStr_ac18b8c2" Source="654c02ef-bdd2-4cb9-b559-f9fb9807a992.lsf">Soul Extraction Skillbook</content>
-	<content contentuid="ResStr_febd5bd3" Source="6ac87b9d-86b3-4241-aeb4-d5b48c43e04d.lsf">Riftwalk Skillbook</content>
-	<content contentuid="ResStr_f30e3975" Source="71ec5838-e915-4c90-aa0e-59d8d6f0358d.lsf">Spread the Sickness Skillbook</content>
-	<content contentuid="h65fdea79g847ag466egbf69g8d84b1dd8e2b" Source="73213dc0-ddf8-46cd-906a-635ad7339a76.lsf"></content>
-	<content contentuid="ResStr_cc44f57a" Source="78e1f0a0-cba5-4202-a561-ccadf152698b.lsf">Unholy Ritual Skillbook</content>
-	<content contentuid="ResStr_8c8a555c" Source="8367aaf4-fbf0-4cf1-9839-a82a8b132e14.lsf">Pact of Brutality Skillbook</content>
-	<content contentuid="ResStr_52767961" Source="92a88989-2263-44f6-aecf-9fdbc4cfeab7.lsf">Languish Skillbook</content>
-	<content contentuid="ResStr_c172def9" Source="931d8032-6d8a-4d8a-b8a0-e9f6b335face.lsf">Curse of Weakness Skillbook</content>
-	<content contentuid="ResStr_def271e5" Source="99f455a0-eff4-4066-a31f-c359023f5fb2.lsf">Tormented Volley Skillbook</content>
-	<content contentuid="h094e5059gb0a2g4918ga7e5gcf7901112561" Source="9f5824b0-95c6-4a7a-a4e2-5505bb3a5d7e.lsf"></content>
-	<content contentuid="ResStr_1b2f5dfe" Source="a4ed6f75-6c65-4088-b485-81db9e58269f.lsf">Annhiliating Purge Skillbook</content>
-	<content contentuid="ResStr_511c704a" Source="ae9a4344-6f3b-4113-9f69-aece414db597.lsf">Rite of the Lich Skillbook</content>
-	<content contentuid="ResStr_bd5fd2f9" Source="bccf3e3c-2d18-4822-b8f9-76d756735714.lsf">Cruel Intent Skillbook</content>
-	<content contentuid="ResStr_c9e29fbc" Source="c004773f-6dbe-4678-8e76-aa034423d8c8.lsf">Spectral Banshee</content>
-	<content contentuid="hfeccb8bbgf99fg4028gb187g607c18c2cbaa" Source="c004773f-6dbe-4678-8e76-aa034423d8c8.lsf"></content>
-	<content contentuid="ResStr_8a572a0" Source="c22a5bfb-8685-4add-84aa-a1e019f30a3b.lsf">The Tresspasser</content>
-	<content contentuid="ResStr_7201ce22" Source="c9d278ed-39f0-42cd-a9c8-02aeb7cbd082.lsf">Cynteara&apos;s Scythe</content>
+	<content contentuid="h13ca9511g95f3g4e15g818bgaebb35d90171" Source="ARM_UNIQUE_OdinSpectre_Gloves_1">Worn only by the cruelest of Spectres.</content>
+	<content contentuid="hbbc424bfg4828g4d68g8d55gbe578e2b52a7" Source="ARM_UNIQUE_OdinSpectre_Gloves_1">Cynteara&apos;s Malice</content>
+	<content contentuid="hc870c381g2895g4168gae8ag986b6b790103" Source="BOOK_OdinSpectre_AgonyOfTheDamned">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h51372d77g5a72g4504gb6fag5c6359bdac7e" Source="BOOK_OdinSpectre_AgonyOfTheDamned">Agony of the Damned Skillbook</content>
+	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_OdinSpectre_AgonyOfTheDamned">Skillbooks</content>
+	<content contentuid="hc1ed4878gc577g435bgb7cfg56f1b78aba0f" Source="BOOK_OdinSpectre_AnnhiliatingPurge">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h662907b6g0151g46c5gb562gef9f1cbe1761" Source="BOOK_OdinSpectre_AnnhiliatingPurge">Annhiliating Purge Skillbook</content>
+	<content contentuid="h0dddf64cg80f3g40bcgb9c4ge44faf07e308" Source="BOOK_OdinSpectre_Bonechill">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hce54a930g17e8g4e01g8067g526540a8a1fa" Source="BOOK_OdinSpectre_Bonechill">Bonechill Skillbook</content>
+	<content contentuid="h345e9d24gaca1g42d9gb8d0g85fd4ed1002a" Source="BOOK_OdinSpectre_ConduitOfTheCruel">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h0ab8fe75g1849g4a9dgb1c8g4c4f82ab55cd" Source="BOOK_OdinSpectre_ConduitOfTheCruel">Conduit of the Cruel Skillbook</content>
+	<content contentuid="h1eb4286agea28g4b4fga3e6gf5d565c909a3" Source="BOOK_OdinSpectre_Corruption">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hae655308gfbcag4d20g9994ge93a55789825" Source="BOOK_OdinSpectre_Corruption">Corruption Skillbook</content>
+	<content contentuid="hd5a067b3g15e7g42e7gac2dg5a055ad308ad" Source="BOOK_OdinSpectre_CruelIntent">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h2591faabg53f0g42ebgb808g3eee4ba3ab61" Source="BOOK_OdinSpectre_CruelIntent">Cruel Intent Skillbook</content>
+	<content contentuid="h714f9573ge138g4dd8gb91fg45aa088c1c3f" Source="BOOK_OdinSpectre_CurseOfIneptness">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h456fbb4dg4a4cg4a75gbe86g91abcc82d058" Source="BOOK_OdinSpectre_CurseOfIneptness">Curse of Ineptness Skillbook</content>
+	<content contentuid="h20d7512dg25aeg4407g939cg45cdad1428ad" Source="BOOK_OdinSpectre_CurseOfVulnerability">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h59574e0fg3fb9g4b95ga87bg184b9bc1b93a" Source="BOOK_OdinSpectre_CurseOfVulnerability">Curse of Vulnerability Skillbook</content>
+	<content contentuid="h178345e8gadddg4085g991cg9e316e1e5f75" Source="BOOK_OdinSpectre_CurseOfWeakness">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hf6b8e190g6f34g4498gbafeg62ae89975642" Source="BOOK_OdinSpectre_CurseOfWeakness">Curse of Weakness Skillbook</content>
+	<content contentuid="h0ff81fdfg4cd9g4197ga985g925585366491" Source="BOOK_OdinSpectre_Dreadfall">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h7a8a0027g63ffg4841gb568ge63cdd4c80c6" Source="BOOK_OdinSpectre_Dreadfall">Dreadfall Skillbook</content>
+	<content contentuid="h10ede376gabcdg46cegb687g93e5a35805cf" Source="BOOK_OdinSpectre_EssenceBolt">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="ha98f309bgce7cg4cdegb174g9ad92fec674a" Source="BOOK_OdinSpectre_EssenceBolt">Essence Bolt Skillbook</content>
+	<content contentuid="hd2ff4977gb66cg499fgbaa9g910d47751760" Source="BOOK_OdinSpectre_EtherealVeil">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h90a679a3g379cg4afagb4abg1541475d329f" Source="BOOK_OdinSpectre_EtherealVeil">Ethereal Veil Skillbook</content>
+	<content contentuid="h475c579dgd4d9g4921gbb01ga7f6f88155fa" Source="BOOK_OdinSpectre_InflictAgony">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h758bdcf4g545eg450ag85c7g5ec0b1192208" Source="BOOK_OdinSpectre_InflictAgony">Inflict Agony Skillbook</content>
+	<content contentuid="h8a1390deg7459g4785gaed0g5339760f33a5" Source="BOOK_OdinSpectre_Languish">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hfabcb83fg8f27g4057g8bb1g882680ca138d" Source="BOOK_OdinSpectre_Languish">Languish Skillbook</content>
+	<content contentuid="hf8d0268fg2c17g4b0ag89ebg4ab12232d204" Source="BOOK_OdinSpectre_MercifulResurrection">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hcde69e6eg152ag4b3cg984eg4c75439f9059" Source="BOOK_OdinSpectre_MercifulResurrection">Merciful Resurrection Skillbook</content>
+	<content contentuid="h2dd40950gdfd3g46bbgbe99gf0d21fcf5888" Source="BOOK_OdinSpectre_PactOfArtillery">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="he3665fd3gfdc8g44fag9f5agea4438dc230c" Source="BOOK_OdinSpectre_PactOfArtillery">Pact of Artillery Skillbook</content>
+	<content contentuid="ha7254276g45d8g4997g81eag74232a8697df" Source="BOOK_OdinSpectre_PactOfBrutality">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h70ae5bbcgbec4g4daegbcd7g062109544fcb" Source="BOOK_OdinSpectre_PactOfBrutality">Pact of Brutality Skillbook</content>
+	<content contentuid="h0c9f6fe5gcd82g4187g9621g37ca280bce46" Source="BOOK_OdinSpectre_PactOfImmortality">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h18217859g0bacg42ccg94bdg383dda76eb0f" Source="BOOK_OdinSpectre_PactOfImmortality">Pact of Immortality Skillbook</content>
+	<content contentuid="h7ab2b141ga152g4777g854fge00f3c75dcd8" Source="BOOK_OdinSpectre_Purge">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h8bf9dd59g658fg4b64g9353gac7dd6ec46ca" Source="BOOK_OdinSpectre_Purge">Purge Skillbook</content>
+	<content contentuid="hd150eb6fg309ag487cg871bga3f60cbd8605" Source="BOOK_OdinSpectre_RaiseSpectralBanshee">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hd6f830d8ga53cg4269g83e5g36cdab15db58" Source="BOOK_OdinSpectre_RaiseSpectralBanshee">Raise Spectral Banshee Skillbook</content>
+	<content contentuid="hf5a02916g5e10g4d11gb860g10829fb9686b" Source="BOOK_OdinSpectre_Riftwalk">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h9a83577fga314g4829gac7dgb631cfac6ba6" Source="BOOK_OdinSpectre_Riftwalk">Riftwalk Skillbook</content>
+	<content contentuid="hcd00653bg8effg4ceag90a0g8d896b858144" Source="BOOK_OdinSpectre_RiteOfTheLich">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h72b10433gd808g4704gb7adg9e94c10b832f" Source="BOOK_OdinSpectre_RiteOfTheLich">Rite of the Lich Skillbook</content>
+	<content contentuid="h80a5105cg7242g4208ga2e7gcc6050e6e0c7" Source="BOOK_OdinSpectre_SeedOfMalice">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h956242aeg8168g4fb6g8acdge2a696f2fdfd" Source="BOOK_OdinSpectre_SeedOfMalice">Seed of Malice Skillbook</content>
+	<content contentuid="h8b459db4ge0c3g4fc4g8410gc6e471b88ee6" Source="BOOK_OdinSpectre_SoulExtraction">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h876705a8g90f6g4393g98cfg079dbfecc1e5" Source="BOOK_OdinSpectre_SoulExtraction">Soul Extraction Skillbook</content>
+	<content contentuid="h3205c8ecg950ag48f2gb495g442ab712c348" Source="BOOK_OdinSpectre_SoulPierce">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hb1edf4acg5858g4c86g94ccg46b16bd41eba" Source="BOOK_OdinSpectre_SoulPierce">Soul Pierce Skillbook</content>
+	<content contentuid="h7b9f27c3gbb91g4933g9894g02a516f141c6" Source="BOOK_OdinSpectre_SpreadTheSickness">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hd5ef437bg1871g4df0gba7cg28736fc7ff12" Source="BOOK_OdinSpectre_SpreadTheSickness">Spread the Sickness Skillbook</content>
+	<content contentuid="hd2527ee8gb21bg4a23g9461g6bc30626fd2f" Source="BOOK_OdinSpectre_StyxianPortal">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h07184365g5b66g4730gb3b1g22e320452844" Source="BOOK_OdinSpectre_StyxianPortal">Styxian Portal Skillbook</content>
+	<content contentuid="h68486f3egf355g447cg8c08gf0135e51f467" Source="BOOK_OdinSpectre_TerribleFate">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="he52dc453g7772g4e15gb162g32a080efd7a7" Source="BOOK_OdinSpectre_TerribleFate">Terrible Fate Skillbook</content>
+	<content contentuid="hb98f4b61ga1d1g45bdg89cag2a2a4659913c" Source="BOOK_OdinSpectre_TormentedVolley">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="hc54a2322g51adg4c91gbe4bgb0dfc3f515e7" Source="BOOK_OdinSpectre_TormentedVolley">Tormented Volley Skillbook</content>
+	<content contentuid="h74038ce8ge9b4g4278gbd1bgf9ba052715f0" Source="BOOK_OdinSpectre_UnderhandedBargain">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h46b5c34fgd444g47bcgaf62g2405f6e94450" Source="BOOK_OdinSpectre_UnderhandedBargain">Underhanded Bargain Skillbook</content>
+	<content contentuid="h2a627be1ge119g4621g931ageff9615bbba2" Source="BOOK_OdinSpectre_UnholyRitual">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
+	<content contentuid="h7ed821efg9259g4d3fg97cag3c8342ccef5d" Source="BOOK_OdinSpectre_UnholyRitual">Unholy Ritual Skillbook</content>
 	<content contentuid="h5fca0f38gce3eg40e3gbcf2g17b474538772" Source="Cone_Description.lsb" Key="Cone_OdinSpectre_Bonechill_Description">Breathe a chilling blast, dealing [1], covering the area in &lt;font color=&quot;#cfecff&quot;&gt;ice&lt;/font&gt; and &lt;font color=&quot;#cfecff&quot;&gt;Chilling&lt;/font&gt; enemies. Applies a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn.</content>
 	<content contentuid="h024a5728g2c9fg428agb51dg730a7eb055d2" Source="Cone_Description.lsb" Key="Cone_OdinSpectre_Summon_BansheeShriek_Description">Shriek in a cone, dealing [1] and applying &lt;font color=&quot;#ffffff&quot;&gt;Deaf&lt;/font&gt; to enemies without &lt;font color=&quot;#a8a8a8&quot;&gt;Physical Armour&lt;/font&gt; for 1 turn. Applies a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn.</content>
 	<content contentuid="hafa6456fg09bag46a5g8e38g8ad61322e36c" Source="Cone_DisplayName.lsb" Key="Cone_OdinSpectre_Bonechill_DisplayName">Bonechill</content>
 	<content contentuid="h1d13053dg1a40g407dg82fbg8b3d38f2c7b1" Source="Cone_DisplayName.lsb" Key="Cone_OdinSpectre_Summon_BansheeShriek_DisplayName">Banshee Shriek</content>
-	<content contentuid="ResStr_d61ea85f" Source="d54a85de-22b0-4b8b-b72d-a589bfdd1c42.lsf">Malthus the Afflicted</content>
-	<content contentuid="he5fd17f0gc2beg4f70g965bg8e55116431bf" Source="d54a85de-22b0-4b8b-b72d-a589bfdd1c42.lsf"></content>
-	<content contentuid="ResStr_ac3f8cac" Source="db18a71f-c00d-4619-9a6e-71d1c84efea3.lsf">Curse of Vulnerability Skillbook</content>
-	<content contentuid="ResStr_88c4a468" Source="dd5bbccc-956c-4758-897e-a4d73d10e1b2.lsf">Conduit of the Cruel Skillbook</content>
 	<content contentuid="h5df70f17g7cbag47dfgb3f4g39127526674b" Source="Dome_Description.lsb" Key="Dome_OdinSpectre_StyxianPortal_Description">Open a gateway to the River Styx lasting 3 turns. The portal has a 4m radius and affects both &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt; and &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#88a25b&quot;&gt;Allies&lt;/font&gt; become &lt;font color=&quot;#67ffdd&quot;&gt;Exalted&lt;/font&gt;, granting &lt;font color=&quot;#40b606&quot;&gt;[1]% Damage&lt;/font&gt; and additional &lt;font color=&quot;#40b606&quot;&gt;Movement&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemies&lt;/font&gt; become &lt;font color=&quot;#67ffdd&quot;&gt;Lamented&lt;/font&gt;, causing &lt;font color=&quot;#c80030&quot;&gt;[2]% Damage&lt;/font&gt; and &lt;font color=&quot;#c80030&quot;&gt;[3]% Movement Speed&lt;/font&gt;.</content>
 	<content contentuid="h5f585962g6027g4d36g9320g2c415d330f49" Source="Dome_DisplayName.lsb" Key="Dome_OdinSpectre_StyxianPortal_DisplayName">Styxian Portal</content>
-	<content contentuid="ResStr_c9ae12a6" Source="e8c6bf40-a9f0-49b7-9a40-07c171d8bf4d.lsf">Worn only by the cruelest of Spectres.</content>
-	<content contentuid="ResStr_866eb4a7" Source="e8c6bf40-a9f0-49b7-9a40-07c171d8bf4d.lsf">Cynteara&apos;s Malice</content>
-	<content contentuid="ResStr_7785e587" Source="e8c6bf40-a9f0-49b7-9a40-07c171d8bf4d.lsf">Armor (mage)</content>
-	<content contentuid="ResStr_ccbc5fc0" Source="ec1da605-abcb-40cb-a523-8441dd1a431e.lsf">Underhanded Bargain Skillbook</content>
-	<content contentuid="ResStr_1f2dbdf0" Source="ed6afbe8-cb62-4004-9282-f1062e4cb831.lsf">Rhaevyn&apos;s Scythe</content>
-	<content contentuid="ResStr_d0d061f3" Source="ef4bbd30-71e8-4dd8-9f19-85e440f030b0.lsf">Styxian Portal Skillbook</content>
-	<content contentuid="ResStr_2071448f" Source="f476c340-8328-4e13-845c-0e38d71f5fbe.lsf">Bonechill Skillbook</content>
-	<content contentuid="ResStr_c0562c9e" Source="fd69d791-1fc2-4c68-958a-48a8deef8d3c.lsf">Ethereal Veil Skillbook</content>
-	<content contentuid="ResStr_76811c97" Source="fee9ce9c-cf8a-4c23-af33-698ba2bb60f5.lsf">Terrible Fate Skillbook</content>
 	<content contentuid="h95fa9e03ge64ag431ag9654g670d248d9703" Source="ItemProgression.lsb" Key="A Spectre's signature weapon.">A Spectre&apos;s signature weapon.</content>
 	<content contentuid="h9cbb3da5g7117g4800gbdb0g8be8992a552c" Source="ItemProgression.lsb" Key="COMMON">COMMON</content>
 	<content contentuid="h454fec22g0e5cg4a69g81fbg25f02cc73608" Source="ItemProgression.lsb" Key="Cruel Scythe">Cruel Scythe</content>
@@ -105,6 +101,18 @@
 	<content contentuid="hc730a95fg67b6g4666g82c1ge5b8cd504f03" Source="MalthusRespec01.lsj">Anyone may take the pact, so long as they have a soul. Are you interested in using soul magic?</content>
 	<content contentuid="hf3a57d05g5d35g426fgb165gaf3b73fccbed" Source="MalthusRespec01.lsj">I&apos;m fine with my current class.</content>
 	<content contentuid="h0c8fd1e8g6724g4fa7gae61g1781ebe75cca" Source="MalthusRespec01.lsj">A pity, but it&apos;s your decision. I needn&apos;t worry - I have other methods to take your soul...</content>
+	<content contentuid="h3e15bc74g857ag48f7g81a4g7b36a4e7b0bb" Source="OdinSpectre_UNI_Scythe_1">A Spectre&apos;s signature weapon.</content>
+	<content contentuid="h70fd1a34g335bg4a94g9219gc1ed3665b9ad" Source="OdinSpectre_UNI_Scythe_1">C.E.J.&apos;s Scythe</content>
+	<content contentuid="hdef9a124ga8d8g4662ga946g843dccecb5a1" Source="OdinSpectre_UNI_Scythe_1">Miscellaneous</content>
+	<content contentuid="ha0366e35gfaf7g467ag8beag3f327f47ab58" Source="OdinSpectre_UNI_Scythe_2">A Spectre&apos;s signature weapon.</content>
+	<content contentuid="h8b7e9b22g118fg4c78gb13bg722683c2ce36" Source="OdinSpectre_UNI_Scythe_2">TreSPassR&apos;s Scythe</content>
+	<content contentuid="h816d6b2bg7fb6g4e25g83b2g1bbee07a9548" Source="OdinSpectre_UNI_Scythe_3">A Spectre&apos;s signature weapon.</content>
+	<content contentuid="h85c4b4a2g27e7g4722g9093g14088f44e91d" Source="OdinSpectre_UNI_Scythe_3">Rhaevyn&apos;s Scythe</content>
+	<content contentuid="h2bc88aa3gfc9bg4d5egb266g655a883c074f" Source="OdinSpectre_UNI_Scythe_4">A Spectre&apos;s signature weapon.</content>
+	<content contentuid="h3c275c1ag49d6g4235g85e9g173be5a3294f" Source="OdinSpectre_UNI_Scythe_4">Cynteara&apos;s Scythe</content>
+	<content contentuid="h6f9b308ag9fc4g42b5g9ca2g6ce6491f519d" Source="OdinSpectre_Vendor_Malthus">Malthus the Afflicted</content>
+	<content contentuid="he5fd17f0gc2beg4f70g965bg8e55116431bf" Source="OdinSpectre_Vendor_Malthus"></content>
+	<content contentuid="h5aa307c0gc114g4032g9f76gec4f80618677" Source="OdinSpectre_WPN_Scythe_E">A Spectre&apos;s signature weapon.</content>
 	<content contentuid="ha2f4c570g5272g48a5ga89cge145850fc861" Source="Projectile_Description.lsb" Key="Projectile_OdinSpectre_AgonysEmbrace_Description">Manifest the soul of your Scythe into a projectile, dealing [1] applying a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to enemies. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;1 stack&lt;/font&gt;: [2] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;2 stacks&lt;/font&gt;: [3] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;3 stacks&lt;/font&gt;: [4] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;4 stacks&lt;/font&gt;: [5] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;5 stacks&lt;/font&gt;: [6]</content>
 	<content contentuid="h8eb8b011gc0eeg4fe6gb481ge44a6612950a" Source="Projectile_Description.lsb" Key="Projectile_OdinSpectre_ConduitOfTheCruel_Description">Direct a wicked soul, forking between enemies up to [2] times in a [3] radius, dealing [1] damage and applying a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to each. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn.</content>
 	<content contentuid="h54bfac41g16cag4ce9g98c0g6a609bf9c03e" Source="Projectile_Description.lsb" Key="Projectile_OdinSpectre_EssenceBolt_Description">Cast a volatile jolt of energy, dealing [1] and applying a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn.</content>
@@ -127,11 +135,13 @@
 	<content contentuid="h7c84f431g822bg4ea6g8701g82aa735be0ef" Source="Shout_Description.lsb" Key="Shout_OdinSpectre_Pact_Artillery_Description">Take the &lt;font color=&quot;#c7a758&quot;&gt;Pact of Artillery&lt;/font&gt;, sacrificing &lt;font color=&quot;#c80030&quot;&gt;Movement&lt;/font&gt; to gain &lt;font color=&quot;#40b606&quot;&gt;4m Range&lt;/font&gt;. &lt;br&gt;&lt;br&gt;You may only take one &lt;font color=&quot;#c7a758&quot;&gt;Pact&lt;/font&gt; at a time; taking a new one terminates previous contracts.</content>
 	<content contentuid="h2bc8035aga164g458agbd6agc40f92d2c57f" Source="Shout_Description.lsb" Key="Shout_OdinSpectre_Pact_Brutality_Description">Take the &lt;font color=&quot;#c7a758&quot;&gt;Pact of Brutality&lt;/font&gt;, sacrificing &lt;font color=&quot;#c80030&quot;&gt;[1] Constitution&lt;/font&gt; to gain &lt;font color=&quot;#40b606&quot;&gt;[2]% Damage&lt;/font&gt;.&lt;br&gt;&lt;br&gt;You may only take one &lt;font color=&quot;#c7a758&quot;&gt;Pact&lt;/font&gt; at a time; taking a new one terminates previous contracts.</content>
 	<content contentuid="h2f21aba9g2c8dg4d1bga945g5c1928b5bca6" Source="Shout_Description.lsb" Key="Shout_OdinSpectre_Pact_Immortality_Description">Take the &lt;font color=&quot;#c7a758&quot;&gt;Pact of Immortality&lt;/font&gt;, sacrificing &lt;font color=&quot;#c80030&quot;&gt;[1]% Damage&lt;/font&gt; to gain &lt;font color=&quot;#40b606&quot;&gt;Immortality&lt;/font&gt;, preventing you from dying. &lt;br&gt;&lt;br&gt;You may only take one &lt;font color=&quot;#c7a758&quot;&gt;Pact&lt;/font&gt; at a time; taking a new one terminates previous contracts.</content>
+	<content contentuid="he5f70e25gf27cg43b2g9bf2g19983d5f577e" Source="Shout_Description.lsb" Key="Shout_OdinSpectre_SpectralSlash_Description">Slash nearby enemies with your Sickle, dealing [1] applying a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to enemies. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;1 stack&lt;/font&gt;: [2] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;2 stacks&lt;/font&gt;: [3] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;3 stacks&lt;/font&gt;: [4] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;4 stacks&lt;/font&gt;: [5] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;5 stacks&lt;/font&gt;: [6]</content>
 	<content contentuid="h2a3e14acg35d2g4ebdg86f8gebd2beb9a50c" Source="Shout_Description.lsb" Key="Shout_OdinSpectre_UnholyRitual_Description">Morph your resistances into raw power, gaining &lt;font color=&quot;#40b606&quot;&gt;[1] Intelligence&lt;/font&gt; and &lt;font color=&quot;#40b606&quot;&gt;[3] AP Recovery&lt;/font&gt; at the cost of &lt;font color=&quot;#c80030&quot;&gt;[2]% Elemental Resistance&lt;/font&gt;.</content>
 	<content contentuid="h4d9410aeg5edbg4a35gadf3gb090f4014658" Source="Shout_DisplayName.lsb" Key="Shout_OdinSpectre_EtherealVeil_DisplayName">Ethereal Veil</content>
 	<content contentuid="h0ff0610cg2a02g441agadfcge9a6097a6261" Source="Shout_DisplayName.lsb" Key="Shout_OdinSpectre_Pact_Artillery_DisplayName">Pact of Artillery</content>
 	<content contentuid="h6217b5fagedb0g426fg9442g60cfea1ede9a" Source="Shout_DisplayName.lsb" Key="Shout_OdinSpectre_Pact_Brutality_DisplayName">Pact of Brutality</content>
 	<content contentuid="hbfda84edgad7fg454fgb63dg47fa0e8f410f" Source="Shout_DisplayName.lsb" Key="Shout_OdinSpectre_Pact_Immortality_DisplayName">Pact of Immortality</content>
+	<content contentuid="h10333f9eg5ffeg45cdgaa3fga8713576e5ab" Source="Shout_DisplayName.lsb" Key="Shout_OdinSpectre_SpectralSlash_DisplayName">Spectral Slash</content>
 	<content contentuid="h8bbfcbeagea10g400cgb454g6b9a61eeddde" Source="Shout_DisplayName.lsb" Key="Shout_OdinSpectre_UnholyRitual_DisplayName">Unholy Ritual</content>
 	<content contentuid="hd91103edgada0g4dfbgb9abgc8ab80237061" Source="Shout_StatsDescription.lsb" Key="Shout_OdinSpectre_EtherealVeil_StatsDescription">Breaks when casting or attacking.</content>
 	<content contentuid="h51fd0f8eg0221g4dafg9d9fg68fe9e608cc0" Source="Status_CONSUME_Description.lsb" Key="OdinSpectre_ASCENDED_Description">Rise above life and death...</content>
@@ -220,6 +230,8 @@
 	<content contentuid="h7bda1a22ga50bg432fga447g73653b1c0fbe" Source="Storm_DisplayName.lsb" Key="Storm_OdinSpectre_AgonyOfTheDamned_DisplayName">Agony of the Damned</content>
 	<content contentuid="h99b645f9gfa37g46fdg9ebcg18550257310b" Source="Summon_Description.lsb" Key="Summon_OdinSpectre_Summon_SpectralBanshee_Description">Summon a Walking Corpse.</content>
 	<content contentuid="h169d1a4ag1896g4954g975bg2d248f484891" Source="Summon_DisplayName.lsb" Key="Summon_OdinSpectre_Summon_SpectralBanshee_DisplayName">Summon Spectral Banshee</content>
+	<content contentuid="h1c69381bg6e2fg49c0g9a34gfb3e4246e4c8" Source="Summons_OdinSpectre_Banshee_Female">Spectral Banshee</content>
+	<content contentuid="h3882134cgcc99g44d8gb594g52c7036b196a" Source="Summons_OdinSpectre_SpectralBanshee">Spectral Banshee</content>
 	<content contentuid="ha4ddd53bg1c3ag4fb3gb598gf41ce8ed4df1" Source="Target_Description.lsb" Key="Target_OdinSpectre_AnnihilatingPurge_Description">Cast a devastating spell at target area, dealing [1] and applying a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to all enemies.&lt;br&gt;&lt;br&gt;Then &lt;font color=&quot;#67ffdd&quot;&gt;Purge&lt;/font&gt; all stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, dealing additional &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; based on the number of stacks removed this way: &lt;br&gt;&lt;br&gt;1 stack: [2] &lt;br&gt;2 stacks: [3] &lt;br&gt;3 stacks: [4] &lt;br&gt;4 stacks: [5] &lt;br&gt;5 stacks: [6] &lt;br&gt;&lt;br&gt;If five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; are purged from a single target, the cooldown of &lt;font color=&quot;#67ffdd&quot;&gt;Inflict Agony&lt;/font&gt; is immediately reset.</content>
 	<content contentuid="hc8319192gcb26g45a2ga2bdgefed0a3079c3" Source="Target_Description.lsb" Key="Target_OdinSpectre_Corruption_Description">Conjure a wicked blast, dealing [1] to enemies in target area. Applies &lt;font color=&quot;#c9aa58&quot;&gt;Diseased&lt;/font&gt; and a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn.</content>
 	<content contentuid="hcca727efg1850g4fcag9d06g281090b84f55" Source="Target_Description.lsb" Key="Target_OdinSpectre_CruelIntent_Description">Deal [1] and apply a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to the target. Then if the target has three or more stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, they begin to &lt;font color=&quot;#67ffdd&quot;&gt;Perish&lt;/font&gt;, causing &lt;font color=&quot;#c80030&quot;&gt;[2] Constitution&lt;/font&gt;, &lt;font color=&quot;#c80030&quot;&gt;[3] Wits&lt;/font&gt;, and &lt;font color=&quot;#c80030&quot;&gt;[4]% Physical Resistance&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;Perish&lt;/font&gt;&apos;s duration is determined by the number of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; stacks on the target: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;3 stacks&lt;/font&gt;: &lt;font color=&quot;#c9aa58&quot;&gt;1 turn&lt;/font&gt; &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;4 stacks&lt;/font&gt;: &lt;font color=&quot;#c9aa58&quot;&gt;2 turns&lt;/font&gt; &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;5 stacks&lt;/font&gt;: &lt;font color=&quot;#c9aa58&quot;&gt;3 turns&lt;/font&gt;</content>
@@ -254,6 +266,5 @@
 	<content contentuid="h3ad40cf8ga703g4a19g9bc9g82a213e13826" Source="Target_DisplayName.lsb" Key="Target_OdinSpectre_UnderhandedBargain_DisplayName">Underhanded Bargain</content>
 	<content contentuid="hefe55396ga1fdg4ebcg81cbg6df4db2b96fe" Source="Teleportation_Description.lsb" Key="Teleportation_OdinSpectre_MercifulResurrection_Description">Take pity on the soul of a fallen ally, &lt;font color=&quot;#67ffdd&quot;&gt;Resurrecting&lt;/font&gt; them at &lt;font color=&quot;#97fbff&quot;&gt;50% Vitality&lt;/font&gt;. &lt;br&gt;&lt;br&gt;May only be used once per combat.</content>
 	<content contentuid="hd533f6fegced6g4137gb964ge50e03b0339b" Source="Teleportation_DisplayName.lsb" Key="Teleportation_OdinSpectre_MercifulResurrection_DisplayName">Merciful Resurrection</content>
-	<content contentuid="he5f70e25gf27cg43b2g9bf2g19983d5f577e" Source="Shout_Description.lsb" Key="Shout_OdinSpectre_SpectralSlash_Description">Slash nearby enemies with your Sickle, dealing [1] applying a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to enemies. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;1 stack&lt;/font&gt;: [2] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;2 stacks&lt;/font&gt;: [3] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;3 stacks&lt;/font&gt;: [4] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;4 stacks&lt;/font&gt;: [5] &lt;br&gt;&lt;font color=&quot;#67ffdd&quot;&gt;5 stacks&lt;/font&gt;: [6]</content>
-	<content contentuid="h10333f9eg5ffeg45cdgaa3fga8713576e5ab" Source="Shout_DisplayName.lsb" Key="Shout_OdinSpectre_SpectralSlash_DisplayName">Spectral Slash</content>
+	<content contentuid="h299a73d6g3148g47e7ga350g9c1ddbf17d88" Source="UNIQUE_OdinSpectre_TheTresspasser">The Tresspasser</content>
 </contentList>
