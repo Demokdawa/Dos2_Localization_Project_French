@@ -2,7 +2,7 @@
 <contentList>
 	<content contentuid="hbd7fbc80g84d8g48c0gbf2cg33f27204e94c" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Pyrokinetic skills are Fire-based spells. High intelligence improves these skills. Read this book to learn this skill.</content>
 	<content contentuid="hb8ec6fe1gd778g42fbg96beg993e1f8b76fe" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Trailblazer Skillbook</content>
-	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Skillbooks</content>
+	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Livres de compétence</content>
 	<content contentuid="h575b27e1gf151g4bd7g950cg63772195cc36" Source="BOOK_Skill_Fire_OdinPyro_BurningTouch">Burning Touch Skillbook</content>
 	<content contentuid="h3c9bcee0ge1b0g45ddga09bgd08e9022efe8" Source="BOOK_Skill_Fire_OdinPyro_ConjureFlameElemental">Conjure Flame Elemental Skillbook</content>
 	<content contentuid="h57a1253bg546cg40a0gae4bg99b4ecb1db8b" Source="BOOK_Skill_Fire_OdinPyro_DevourFlames">Devour Flames Skillbook</content>
@@ -38,7 +38,7 @@
 	<content contentuid="hc7b886dfgac3dg4694g9429g9c3baee084d1" Source="ItemProgression.lsb" Key="Wings of the Phoenix.">Wings of the Phoenix.</content>
 	<content contentuid="h7534465ag8132g4297ga089gdaed5a6e9e47" Source="Jump_Description.lsb" Key="Jump_OdinPyro_TraverseFlames_Description">|Teleport without breaking sneaking.|</content>
 	<content contentuid="h97d87629ga259g4d7ega8d5g799ad52fe26c" Source="Jump_DisplayName.lsb" Key="Jump_OdinPyro_TraverseFlames_DisplayName">Traverse Flames</content>
-	<content contentuid="h62cccaabg309bg4949gb500gee779f7ab5c9" Source="Jump_StatsDescription.lsb" Key="Jump_OdinPyro_TraverseFlames_StatsDescription">Range: [1]</content>
+	<content contentuid="h62cccaabg309bg4949gb500gee779f7ab5c9" Source="Jump_StatsDescription.lsb" Key="Jump_OdinPyro_TraverseFlames_StatsDescription">Portée : [1]</content>
 	<content contentuid="h3862371dg11b5g4399g8da3ga6a376453dde" Source="MultiStrike_Description.lsb" Key="MultiStrike_OdinPyro_WPN_NAMEME_Description">|Jump over the enemy, landing behind their back and backstabbing them for [1] damage.|</content>
 	<content contentuid="h70cad05bg5a8eg4187g8b25g0bcb9b4dc5e4" Source="MultiStrike_DisplayName.lsb" Key="MultiStrike_OdinPyro_WPN_NAMEME_DisplayName">NAMEME</content>
 	<content contentuid="hc32234efg6d48g461egb2b3g9a0b823b170c" Source="OdinPYRO_ExplosiveTrap_01">Undeployed Explosive Mine</content>
@@ -64,7 +64,7 @@
 	<content contentuid="h27d37164g65f4g4175g8b91g02c35b5d6f7f" Source="OdinPYRO_Respec_Vendor.lsj">Ah the path of the &lt;b&gt;Arsonist&lt;/b&gt;. Are you quite sure?&lt;br&gt;&lt;br&gt;&lt;i&gt;WARNING: This process will replace you inventory, be sure to move your items to another character or storing them in a nearby container!&lt;/i&gt;</content>
 	<content contentuid="h91ff4733gd0bfg49d8ga0efg03f1e2b6559c" Source="OdinPYRO_Respec_Vendor.lsj">I have changed my mind. I&apos;m sticking to my current class.</content>
 	<content contentuid="h01944f0fg000cg48acgaff7g036f423168e8" Source="OdinPYRO_Respec_Vendor.lsj">Yes. I wish to become an &lt;b&gt;Flameblade &lt;/b&gt;by applying the preset to myself.</content>
-	<content contentuid="h4c4fec1fgaeb1g4fbag9d21g9cb3e53bd230" Source="OdinPYRO_Respec_Vendor.lsj">I would like to trade.</content>
+	<content contentuid="h4c4fec1fgaeb1g4fbag9d21g9cb3e53bd230" Source="OdinPYRO_Respec_Vendor.lsj">Je voudrais commercer.</content>
 	<content contentuid="hdf46f71fg1d67g490eg8e87gb25d50b6de8c" Source="OdinPYRO_Respec_Vendor.lsj">I wish to become a &lt;b&gt;Scorcher&lt;/b&gt;, driven by the ability to ignite foes.</content>
 	<content contentuid="h3771cbd1g9b83g4896ga422g1f83c2d33186" Source="OdinPYRO_Respec_Vendor.lsj">No. I have already decided on my path.</content>
 	<content contentuid="ha2ba3c8ag54bbg47bcga3b4ge381091b6e49" Source="OdinPYRO_Respec_Vendor.lsj">Ah the path of the &lt;b&gt;Phoenix&lt;/b&gt;. Are you quite sure?&lt;br&gt;&lt;br&gt;&lt;i&gt;WARNING: This process will replace you inventory, be sure to move your items to another character or storing them in a nearby container!&lt;/i&gt;</content>
@@ -85,7 +85,7 @@
 	<content contentuid="hf7013b33gfc11g4a6bgbd24gb2f96efc25df" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Yes. I wish to become an &lt;b&gt;Flameblade &lt;/b&gt;by applying the preset to myself.</content>
 	<content contentuid="h678f0c29gb35bg4451g877dg60f383285e7f" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">I wish to become a &lt;b&gt;Flameblade&lt;/b&gt;, a close-quarters fire knight.</content>
 	<content contentuid="h0b887489g2c90g46d2g94c4g6c3538be0dd1" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">No. I have already decided on my path.</content>
-	<content contentuid="h37055882g49aag4f60g9f23gf4504b0a141f" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">I would like to trade.</content>
+	<content contentuid="h37055882g49aag4f60g9f23gf4504b0a141f" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Je voudrais commercer.</content>
 	<content contentuid="h8e7d1b73g17ddg488cg9115g93a67ec1674d" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Ah the path of the &lt;b&gt;Flameblade&lt;/b&gt;. Are you quite sure?&lt;br&gt;&lt;br&gt;&lt;i&gt;WARNING: This process will replace you inventory, be sure to move your items to another character or storing them in a nearby container!&lt;/i&gt;</content>
 	<content contentuid="h35df42e0g8f9bg4fb8gacb9g84477d442448" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Ah the path of the &lt;b&gt;Phoenix&lt;/b&gt;. Are you quite sure?&lt;br&gt;&lt;br&gt;&lt;i&gt;WARNING: This process will replace you inventory, be sure to move your items to another character or storing them in a nearby container!&lt;/i&gt;</content>
 	<content contentuid="h9b08932fg1d98g469cg8329gcfcaa12da7b4" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Yes. I wish to become an &lt;b&gt;Arsonist &lt;/b&gt;by applying the preset to myself.</content>
@@ -167,8 +167,8 @@
 	<content contentuid="h21ae82e7g8a69g4331g81b0gde59c5db14a8" Source="Shout_DisplayName.lsb" Key="Shout_Supernova_DisplayName">Supernova</content>
 	<content contentuid="h9d661013gf6a0g4e5bga939g6da54a212063" Source="SolLitheGreeting.lsj">Though these skills may help you in your quest, it&apos;s your initiative that will save Rivellon.</content>
 	<content contentuid="h8f3c7861g6417g4de6ga26age4db9a00f9de" Source="SolLitheGreeting.lsj">Devastation and revolution can start with just a flicker of ember; could it be you?</content>
-	<content contentuid="heb12ca65ga311g49eegb081gf2b29cd50e29" Source="SolLitheGreeting.lsj">I would like to trade.</content>
-	<content contentuid="h6b0a0eb7gc88dg40a3g9721gec7a3b2292bd" Source="SolLitheGreeting.lsj">*Take my leave*</content>
+	<content contentuid="heb12ca65ga311g49eegb081gf2b29cd50e29" Source="SolLitheGreeting.lsj">Je voudrais commercer.</content>
+	<content contentuid="h6b0a0eb7gc88dg40a3g9721gec7a3b2292bd" Source="SolLitheGreeting.lsj">Je prends congé</content>
 	<content contentuid="hc0c0485dg28a0g4271gb2d8gb97c07518243" Source="Status_ACTIVE_DEFENSE_Description.lsb" Key="FLAMING_TONGUES_Description">Approaching hostiles will be blased with fire damage.</content>
 	<content contentuid="h11862c75ga40eg4c9cg8403gdc444c64f313" Source="Status_ACTIVE_DEFENSE_DisplayName.lsb" Key="FLAMING_TONGUES_DisplayName">Exquisite Firecraft</content>
 	<content contentuid="h5e132021g7df3g4eafgbc53g6925268cfe7e" Source="Status_CONSUME_Description.lsb" Key="FIRE_BRAND_Description">[1]</content>
@@ -260,7 +260,7 @@
 	<content contentuid="h41b61212g7933g4c8fgbb83gdd062699dc18" Source="Target_DisplayName.lsb" Key="Target_OdinPyro_RoaringStrike_DisplayName">Roaring Strike</content>
 	<content contentuid="haec581fdg880dg4fe5gaf4cg0a744bfbe682" Source="Target_DisplayName.lsb" Key="Target_Sabotage_DisplayName">Sabotage</content>
 	<content contentuid="hc5b0f794ga199g4ec7g8549ge6ee1f762106" Source="Target_DisplayName.lsb" Key="Target_SpontaneousCombustion_DisplayName">Spontaneous Combustion</content>
-	<content contentuid="h486460cfg88e1g4fccgb957g96a0c78145ec" Source="Target_StatsDescription.lsb" Key="Target_OdinPyro_BurningTouch_StatsDescription">Range: [1]</content>
+	<content contentuid="h486460cfg88e1g4fccgb957g96a0c78145ec" Source="Target_StatsDescription.lsb" Key="Target_OdinPyro_BurningTouch_StatsDescription">Portée : [1]</content>
 	<content contentuid="hc0399b2agc93cg4932g83c2g258468193090" Source="Wall_Description.lsb" Key="Wall_OdinPyro_ObsidianWall_Description">Draw an impassable wall of &lt;font color=&quot;#c92d01&quot;&gt;magma&lt;/font&gt;, spanning up to [1] and lasting 2 turns. This wall creates a &lt;font color=&quot;#fe6e27&quot;&gt;fire surface&lt;/font&gt;.</content>
 	<content contentuid="h2371c1f0gbad4g4391gb7a2g75c63cd6d22d" Source="Wall_DisplayName.lsb" Key="Wall_OdinPyro_ObsidianWall_DisplayName">Magma Wall</content>
 	<content contentuid="h6bdf4fdbg75c0g4c8fga58fg0c9e9d97da39" Source="Zone_Description.lsb" Key="Zone_LaserRay_Description">Command a beam of intense heat in target direction, dealing [1] to all characters and spawning &lt;font color=&quot;#c92d01&quot;&gt;fire clouds&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemies&lt;/font&gt; hit by the ray are &lt;font color=&quot;#fe6e27&quot;&gt;Scorched&lt;/font&gt;.</content>
