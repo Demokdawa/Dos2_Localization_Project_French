@@ -41,20 +41,20 @@
 	<content contentuid="hc24e5010gffe0g43a4ga159gbdf6b54e9aee" Source="Jump_DisplayName.lsb" Key="Jump_EnemyTacticalRetreat_Frog_DisplayName">Amphibian Leap</content>
 	<content contentuid="h1474e526gc117g4d0ag88f1g181a47289b11" Source="Jump_DisplayName.lsb" Key="Jump_EnemyTacticalRetreat_Mordus_DisplayName">Mordus&apos; Hammer</content>
 	<content contentuid="h5399800bg2b0dg44b9g9320ge074450f1a7a" Source="Jump_DisplayName.lsb" Key="Jump_EnemyVoidGlide_DisplayName">Void Glide</content>
-	<content contentuid="h0fadc993g4439g471cgb3f2g555928d12bb6" Source="Jump_DisplayName.lsb" Key="Jump_KCE_TestJump_DisplayName">Tactical Retreat</content>
+	<content contentuid="h0fadc993g4439g471cgb3f2g555928d12bb6" Source="Jump_DisplayName.lsb" Key="Jump_KCE_TestJump_DisplayName">Repli stratégique</content>
 	<content contentuid="h4204268cg9ebeg4fabg9dc4ge1e0b20503b5" Source="Jump_DisplayName.lsb" Key="Jump_PhoenixDive_DisplayName">Phoenix Dive</content>
-	<content contentuid="h339b9999ge721g46fcga092g78f28daa19a8" Source="Jump_DisplayName.lsb" Key="Jump_TacticalRetreat_DisplayName">Tactical Retreat</content>
+	<content contentuid="h339b9999ge721g46fcga092g78f28daa19a8" Source="Jump_DisplayName.lsb" Key="Jump_TacticalRetreat_DisplayName">Repli stratégique</content>
 	<content contentuid="h5ca0f8a9g98b8g472egaee2gb06c74aa01e8" Source="Jump_DisplayName.lsb" Key="Jump_TentacleDive_DisplayName">Glide</content>
 	<content contentuid="h9823de14gb5f6g4334ga3bcg3de61ba7a8c4" Source="Jump_DisplayName.lsb" Key="Jump_TitanDive_DisplayName">Titan Stride</content>
-	<content contentuid="h7c1601f1g49fdg497dg8402gc62b0059e2d8" Source="Jump_StatsDescription.lsb" Key="Jump_BonePileBurrow_StatsDescription">Range: [1]</content>
-	<content contentuid="h0f894a5cg30b9g46c2gadb5g9b294b35b203" Source="Jump_StatsDescription.lsb" Key="Jump_CatJump_StatsDescription">Range: [1]</content>
-	<content contentuid="h542d7013g4c13g46bcg80cegade9c75622ff" Source="Jump_StatsDescription.lsb" Key="Jump_CloakAndDagger_StatsDescription">Range: [1]</content>
-	<content contentuid="hfea50e81gaf4dg4651g85f2g76923cfd93a4" Source="Jump_StatsDescription.lsb" Key="Jump_EnemyBeetleJump_StatsDescription">Range: [1]</content>
-	<content contentuid="h5c1e0708g97d4g49b4g84f9g60117a048b0d" Source="Jump_StatsDescription.lsb" Key="Jump_EnemyDrillwormBurrow_StatsDescription">Range: [1]</content>
-	<content contentuid="hcf938dbeg2a18g447cg927ag495916949d8c" Source="Jump_StatsDescription.lsb" Key="Jump_EnemyVoidGlide_StatsDescription">Range: [1]</content>
-	<content contentuid="h371ff4afg9939g4a3ag9c07g2922ae077760" Source="Jump_StatsDescription.lsb" Key="Jump_KCE_TestJump_StatsDescription">Range: [1]</content>
+	<content contentuid="h7c1601f1g49fdg497dg8402gc62b0059e2d8" Source="Jump_StatsDescription.lsb" Key="Jump_BonePileBurrow_StatsDescription">Portée : [1]</content>
+	<content contentuid="h0f894a5cg30b9g46c2gadb5g9b294b35b203" Source="Jump_StatsDescription.lsb" Key="Jump_CatJump_StatsDescription">Portée : [1]</content>
+	<content contentuid="h542d7013g4c13g46bcg80cegade9c75622ff" Source="Jump_StatsDescription.lsb" Key="Jump_CloakAndDagger_StatsDescription">Portée : [1]</content>
+	<content contentuid="hfea50e81gaf4dg4651g85f2g76923cfd93a4" Source="Jump_StatsDescription.lsb" Key="Jump_EnemyBeetleJump_StatsDescription">Portée : [1]</content>
+	<content contentuid="h5c1e0708g97d4g49b4g84f9g60117a048b0d" Source="Jump_StatsDescription.lsb" Key="Jump_EnemyDrillwormBurrow_StatsDescription">Portée : [1]</content>
+	<content contentuid="hcf938dbeg2a18g447cg927ag495916949d8c" Source="Jump_StatsDescription.lsb" Key="Jump_EnemyVoidGlide_StatsDescription">Portée : [1]</content>
+	<content contentuid="h371ff4afg9939g4a3ag9c07g2922ae077760" Source="Jump_StatsDescription.lsb" Key="Jump_KCE_TestJump_StatsDescription">Portée : [1]</content>
 	<content contentuid="h14166a95g19d9g4ddagae82g81fa4c55081d" Source="Jump_StatsDescription.lsb" Key="Jump_PhoenixDive_StatsDescription">Range: [2];Damage: [1]</content>
-	<content contentuid="hb8145d72gcde4g4ea0g8a2bgce8a1b7165bb" Source="Jump_StatsDescription.lsb" Key="Jump_TacticalRetreat_StatsDescription">Range: [1]</content>
+	<content contentuid="hb8145d72gcde4g4ea0g8a2bgce8a1b7165bb" Source="Jump_StatsDescription.lsb" Key="Jump_TacticalRetreat_StatsDescription">Portée : [1]</content>
 	<content contentuid="h790e70afg4abfg4501ga9c5gf651f67a9d7a" Source="KCE_LocaleOverrides.lsb" Key="BLEEDING_KCE_Description">Deals [1] per turn.</content>
 	<content contentuid="h0458f264g38e2g4078g9d62g661d25e84796" Source="KCE_LocaleOverrides.lsb" Key="BLOOD_BUBBLE_KCE_Description">Consume blood surfaces to restore Vitality.</content>
 	<content contentuid="h4a2b4c70g006dg4ee6g930ag3625783f4afc" Source="KCE_LocaleOverrides.lsb" Key="CHICKEN_KCE_Description">Can&apos;t cast, attack, or interact with objects. Bock-bock-BOCKAW!</content>
@@ -98,7 +98,7 @@
 	<content contentuid="hdc109946g0534g41c0g8440gedcc65f73693" Source="KCE_LocaleOverrides.lsb" Key="PLAY_DEAD_KCE_DisplayName">Playing Dead</content>
 	<content contentuid="h4f5cbf3dg0af7g48c1g866dgf045c2207622" Source="KCE_LocaleOverrides.lsb" Key="POISONED_KCE_Description">Deals [1] each turn.</content>
 	<content contentuid="h27fea2b9g4703g422fgaa9eg346751137209" Source="KCE_LocaleOverrides.lsb" Key="Projectile_BallisticShot_KCE_Description">A shot that deals [1] and receives [2]% bonus damage per 1m distance to target.</content>
-	<content contentuid="h4a055045g5d9dg4c1dg89e5g3875cdc6df58" Source="KCE_LocaleOverrides.lsb" Key="Projectile_BallisticShot_KCE_DisplayName">Ballistic Shot</content>
+	<content contentuid="h4a055045g5d9dg4c1dg89e5g3875cdc6df58" Source="KCE_LocaleOverrides.lsb" Key="Projectile_BallisticShot_KCE_DisplayName">Tir balistique</content>
 	<content contentuid="h494e2026g2ddeg4216gb5b7g30e10df7a0d1" Source="KCE_LocaleOverrides.lsb" Key="Projectile_ChainHeal_KCE_Description">Send a wave of healing to target another character. The wave travels to nearby allies, healing with each movement.</content>
 	<content contentuid="h2a4bf2a7g6218g472dg8791g5dd447b1e9a0" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Chloroform_KCE_Description">Destroys [1] and then tries to set Sleeping.</content>
 	<content contentuid="h8046e832g9ccag4138gacb3g04c7636fd32e" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Chloroform_KCE_DisplayName">Chloroform</content>
@@ -111,16 +111,16 @@
 	<content contentuid="ha50ffe86gd55bg4295gb6bdg0a2e5b90bc5b" Source="KCE_LocaleOverrides.lsb" Key="Projectile_LightningBolt_KCE_Description">An electrical jolt deals [1] to target character. Sets status Shocked.</content>
 	<content contentuid="h688f74ddgfff9g4665g9ee8gb6973af2a48d" Source="KCE_LocaleOverrides.lsb" Key="Projectile_LightningBolt_KCE_DisplayName">Electric Discharge</content>
 	<content contentuid="hb0b8e395g12ceg422ag95f8g6283f066575a" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Mark_KCE_Description">Target is Marked, decreasing its ability to Dodge. Prevents target from going invisible.</content>
-	<content contentuid="ha19a623ag13c0g42ecgb6afg259cd1ba3707" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Mark_KCE_DisplayName">Glitter Dust</content>
+	<content contentuid="ha19a623ag13c0g42ecgb6afg259cd1ba3707" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Mark_KCE_DisplayName">Poussière scintillante</content>
 	<content contentuid="hc200f3d7g21c6g4a09gb14agaa112157f3ee" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PinDown_KCE_Description">Deal [1] and Cripple target character.</content>
-	<content contentuid="haa03381fg164cg48f3g9810gcbc1ee32faf2" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PinDown_KCE_DisplayName">Pin Down</content>
+	<content contentuid="haa03381fg164cg48f3g9810gcbc1ee32faf2" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PinDown_KCE_DisplayName">Clouage</content>
 	<content contentuid="hb73dc0cfge495g426eg8403gf3bff266c92d" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PyroclasticEruption_KCE_Description">Multiple oil-filled rocks erupt from the caster at all enemies in the area. On impact, they create oil surfaces and deal [1].</content>
 	<content contentuid="h0e6978efgda20g49d5g849ag507205ca3d43" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PyroclasticEruption_KCE_DisplayName">Pyroclastic Eruption</content>
 	<content contentuid="hca2bdcddg809bg44dcgad2eg6c255e248a61" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PyroclasticRock_KCE_Description">A giant rock filled with sticky oil that deals [1]. Creates an oil surface where it lands.</content>
 	<content contentuid="h75f3f46eg070cg4b79ga2a9ge8cd60da2880" Source="KCE_LocaleOverrides.lsb" Key="Projectile_SkyShot_KCE_Description">Leap into the air before shooting, gaining damage bonuses for your superior height. Deals [1].</content>
 	<content contentuid="ha9197c03g44f9g42caga1d6g5c29cb9c11fd" Source="KCE_LocaleOverrides.lsb" Key="Projectile_SkyShot_KCE_DisplayName">Sky Shot</content>
 	<content contentuid="hea691a4dgbdc8g4bc5g94bbg3a012605db29" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Snipe_KCE_Description">Attack your target with meticulous aim, dealing [1]  in one shot. When performed from Stealth, this attack gains a 50% damage increase.</content>
-	<content contentuid="h685a7ae0gc427g44c1gafbbgac2b0581bc3e" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Snipe_KCE_DisplayName">Assassinate</content>
+	<content contentuid="h685a7ae0gc427g44c1gafbbgac2b0581bc3e" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Snipe_KCE_DisplayName">Assassiner</content>
 	<content contentuid="hfd7a96cdgb2dcg43adgbe2bg3023fab2f2e9" Source="KCE_LocaleOverrides.lsb" Key="Projectile_StaffOfMagus_KCE_Description">Launch a magical missile from your staff that deals [1].</content>
 	<content contentuid="h099ded02ge7f5g4d7cg931eg1770d744ace2" Source="KCE_LocaleOverrides.lsb" Key="ProjectileStrike_HailStrike_KCE_Description">Icicles fall from the sky, chilling characters and dealing [1]. They create Ice surfaces where they hit the ground.</content>
 	<content contentuid="h3fe700fcg1c94g4a42gb1e3g59575dac52ac" Source="KCE_LocaleOverrides.lsb" Key="ProjectileStrike_HailStrike_KCE_DisplayName">Hail Strike</content>
@@ -203,7 +203,7 @@
 	<content contentuid="hbac224b3g8910g44cbg8d9cgedb763143bff" Source="KCE_LocaleOverrides.lsb" Key="Target_DualWieldingAttack_KCE_Description">Perform three quick attacks, each dealing [1].</content>
 	<content contentuid="h5355e587gf26ag4e09g993fgbe9b8e8bff6f" Source="KCE_LocaleOverrides.lsb" Key="Target_DualWieldingAttack_KCE_DisplayName">Flurry</content>
 	<content contentuid="h14c59611g78e0g4d70g9890gab51130105f7" Source="KCE_LocaleOverrides.lsb" Key="Target_Farsight_KCE_Description">Increase the range of a target character&apos;s ranged attacks and skills by 4m.</content>
-	<content contentuid="hcfb65642g97f6g46b5g9d2bg359144ae1012" Source="KCE_LocaleOverrides.lsb" Key="Target_Farsight_KCE_DisplayName">Farsight</content>
+	<content contentuid="hcfb65642g97f6g46b5g9d2bg359144ae1012" Source="KCE_LocaleOverrides.lsb" Key="Target_Farsight_KCE_DisplayName">Double vue</content>
 	<content contentuid="h64985f49gb4cdg4b58ga586g7c5e65397240" Source="KCE_LocaleOverrides.lsb" Key="Target_FirstAid_KCE_Description">Heals target for [2]. Cures Crippled, Knocked Down, Blind, Silenced, Bleeding, Burning, Poisoned, Diseased. </content>
 	<content contentuid="he519b121g3a65g4422g8e5dgd9f65b0cce7c" Source="KCE_LocaleOverrides.lsb" Key="Target_FlamingCrescendo_KCE_Description">Curse the target to explode after one turn or on death, dealing [1] in 3m radius.</content>
 	<content contentuid="hfb4d0b82g310ag47d6g8378g933a1cd1264b" Source="KCE_LocaleOverrides.lsb" Key="Target_FlamingCrescendo_KCE_DisplayName">Flaming Crescendo</content>
@@ -805,7 +805,7 @@
 	<content contentuid="h671e1764gbd21g4393g9d3fgaac82393f6ae" Source="Projectile_Description.lsb" Key="Projectile_SkyShot_Description">Leap into the air before shooting, gaining damage bonuses for your superior height. Deals [1].</content>
 	<content contentuid="had41ea55g2522g4445g93ddg1987d8577cc6" Source="Projectile_Description.lsb" Key="Projectile_Snipe_Description">Attacking your target with meticulous aim, dealing [1] in one shot. When performed from stealth, this attack gains a 50% damage increase.</content>
 	<content contentuid="hb0a4e684g894cg4f5cgb56bga255b374628b" Source="Projectile_Description.lsb" Key="Projectile_StaffOfMagus_Description">Launch a magical missile from your staff that deals [1].</content>
-	<content contentuid="h0f4832ceg308ag4cb7g892ag7cb904bcec51" Source="Projectile_DisplayName.lsb" Key="Projectile_BallisticShot_DisplayName">Ballistic Shot</content>
+	<content contentuid="h0f4832ceg308ag4cb7g892ag7cb904bcec51" Source="Projectile_DisplayName.lsb" Key="Projectile_BallisticShot_DisplayName">Tir balistique</content>
 	<content contentuid="h5a4d0640gb092g4decg92degc010e789d2e1" Source="Projectile_DisplayName.lsb" Key="Projectile_BouncingShield_DisplayName">Bouncing Shield</content>
 	<content contentuid="hadf72159g6f5cg4be6g99afg271b315368f9" Source="Projectile_DisplayName.lsb" Key="Projectile_ChainHeal_DisplayName">Healing Ritual</content>
 	<content contentuid="h3fe6d37dg29c2g42c4gba0agebbc49dc7948" Source="Projectile_DisplayName.lsb" Key="Projectile_Chloroform_DisplayName">Chloroform</content>
@@ -824,12 +824,12 @@
 	<content contentuid="hb305c009g1e9cg4695gbb98ga5eb649b45cb" Source="Projectile_DisplayName.lsb" Key="Projectile_KCE_Test_MagicBolt_DisplayName">Dimensional Bolt</content>
 	<content contentuid="h5b666872gebc7g4617gbd35ga9d3fc39b146" Source="Projectile_DisplayName.lsb" Key="Projectile_KCE_TestingDaggers_DisplayName">Searing Daggers</content>
 	<content contentuid="hb4976e75gc9dag45ceg9b34gf7ff0829b8dd" Source="Projectile_DisplayName.lsb" Key="Projectile_LightningBolt_DisplayName">Electric Discharge</content>
-	<content contentuid="h4cab4efdgbe38g4247g8148g4086cadf631a" Source="Projectile_DisplayName.lsb" Key="Projectile_Mark_DisplayName">Glitter Dust</content>
-	<content contentuid="hf5f17cadgb97bg4bc3g8a66g89f8b5bfcee5" Source="Projectile_DisplayName.lsb" Key="Projectile_PinDown_DisplayName">Pin Down</content>
+	<content contentuid="h4cab4efdgbe38g4247g8148g4086cadf631a" Source="Projectile_DisplayName.lsb" Key="Projectile_Mark_DisplayName">Poussière scintillante</content>
+	<content contentuid="hf5f17cadgb97bg4bc3g8a66g89f8b5bfcee5" Source="Projectile_DisplayName.lsb" Key="Projectile_PinDown_DisplayName">Clouage</content>
 	<content contentuid="h37223c6cg4583g4db6g826fg96be8d7e55c8" Source="Projectile_DisplayName.lsb" Key="Projectile_PyroclasticEruption_DisplayName">Pyroclastic Eruption</content>
 	<content contentuid="h0c6317fagac67g4c61g9b2bg0cfd79bc7e0c" Source="Projectile_DisplayName.lsb" Key="Projectile_PyroclasticRock_DisplayName">Fossil Strike</content>
 	<content contentuid="hce28ffa9gb560g410egb3deg4a81a330f1b4" Source="Projectile_DisplayName.lsb" Key="Projectile_SkyShot_DisplayName">Sky Shot</content>
-	<content contentuid="h928d97a9ga738g4da8g93d5g71e183d0f87a" Source="Projectile_DisplayName.lsb" Key="Projectile_Snipe_DisplayName">Assassinate</content>
+	<content contentuid="h928d97a9ga738g4da8g93d5g71e183d0f87a" Source="Projectile_DisplayName.lsb" Key="Projectile_Snipe_DisplayName">Assassiner</content>
 	<content contentuid="hf38755eeg4dafg4223ga3a3g9f375094cfa8" Source="Projectile_DisplayName.lsb" Key="Projectile_SpiderlingFlight_DisplayName">Tiny Leap</content>
 	<content contentuid="ha6d9ae4bgb884g44b6gb3e8g8edfd3cfffec" Source="Projectile_DisplayName.lsb" Key="Projectile_StaffOfMagus_DisplayName">Staff Of Magus</content>
 	<content contentuid="h8fdf1e00g8a23g4808ga330g4519dda5ccf7" Source="Projectile_DisplayName.lsb" Key="Projectile_TrapLaunched_DisplayName">Fireball</content>
@@ -1095,7 +1095,7 @@
 	<content contentuid="hc89cd424gb99ag4d2bg9e1bgd5f3ce702f89" Source="Status_HEAL_DisplayName.lsb" Key="ARCANE_STITCH_DisplayName">Arcane Stitch</content>
 	<content contentuid="h854c878dg1448g459cg9986g4c3c9f6c2f47" Source="Status_HEAL_DisplayName.lsb" Key="BLOOD_BUBBLE_DisplayName">Blood Bubble</content>
 	<content contentuid="hddd8b6c1gd147g4dedg82b7g1ac5c346331b" Source="Status_HEAL_DisplayName.lsb" Key="CRYOTHERAPY_DisplayName">Cryotherapy</content>
-	<content contentuid="h74c31b8cg3e96g49b7gbe17g5ec1f9e77ff9" Source="Status_HEAL_DisplayName.lsb" Key="FIRST_AID_DisplayName">First Aid</content>
+	<content contentuid="h74c31b8cg3e96g49b7gbe17g5ec1f9e77ff9" Source="Status_HEAL_DisplayName.lsb" Key="FIRST_AID_DisplayName">Premiers secours</content>
 	<content contentuid="h66d634b5gdcd5g41f1g92d4g215b88af5edc" Source="Status_HEAL_DisplayName.lsb" Key="KCE_PERSEVERANCE_DisplayName">Perseverance</content>
 	<content contentuid="h28964d6bg5f68g4ceeg88ccg38a537028710" Source="Status_HEAL_DisplayName.lsb" Key="KCE_TORTURERHEAL_DisplayName">Torturer</content>
 	<content contentuid="h25e24595gf2ceg4f17ga61dg636328dbf485" Source="Status_HEAL_DisplayName.lsb" Key="OIL_CARAPACE_DisplayName">Oily Carapace</content>
@@ -1205,8 +1205,8 @@
 	<content contentuid="hdead25beg40bag43c4g850eg873127ae8b66" Source="Target_DisplayName.lsb" Key="Target_DemonicStare_DisplayName">Demonic Stare</content>
 	<content contentuid="h469bc624g8f8dg4179gb9f0g4ba50af90c56" Source="Target_DisplayName.lsb" Key="Target_DualWieldingAttack_DisplayName">Flurry</content>
 	<content contentuid="habf4c131g084fg4c11g9fbcg17f6e6bc900f" Source="Target_DisplayName.lsb" Key="Target_EnemyFreezingTouch_DisplayName">Freezing Touch</content>
-	<content contentuid="h3fe4da20g4280g4dd6gbeddg9c9c18bd7566" Source="Target_DisplayName.lsb" Key="Target_Farsight_DisplayName">Farsight</content>
-	<content contentuid="h63a23df1g3ecfg4570g9affg198e7519a304" Source="Target_DisplayName.lsb" Key="Target_FirstAid_DisplayName">First Aid</content>
+	<content contentuid="h3fe4da20g4280g4dd6gbeddg9c9c18bd7566" Source="Target_DisplayName.lsb" Key="Target_Farsight_DisplayName">Double vue</content>
+	<content contentuid="h63a23df1g3ecfg4570g9affg198e7519a304" Source="Target_DisplayName.lsb" Key="Target_FirstAid_DisplayName">Premiers secours</content>
 	<content contentuid="hc65d5b79ga2bfg4087g871ega9397b935315" Source="Target_DisplayName.lsb" Key="Target_FlamingCrescendo_DisplayName">Flaming Crescendo</content>
 	<content contentuid="hf3448dedg10e2g4b1dg9aa3gc2ccfe94e8bd" Source="Target_DisplayName.lsb" Key="Target_GagOrder_DisplayName">Gag Order</content>
 	<content contentuid="h59eb7652g63fbg4e2cg8c7egaf68a8bdf260" Source="Target_DisplayName.lsb" Key="Target_GraspOfTheStarved_DisplayName">Grasp of the Starved</content>
@@ -1233,7 +1233,7 @@
 	<content contentuid="h1ecc77cdga531g4571ga435gbc4175480e53" Source="Target_DisplayName.lsb" Key="Target_WormTremor_DisplayName">Worm Tremor</content>
 	<content contentuid="hd090e89bg5b50g49fbg8c09g3415d89b0374" Source="Target_StatsDescription.lsb" Key="Target_Charm_StatsDescription">Range: [1]&lt;br&gt;Charmed status temporarily turns a target&apos;s allegiance around.</content>
 	<content contentuid="h75e7df95g5f29g4c4fg968cg09892f08cac0" Source="Target_StatsDescription.lsb" Key="Target_CripplingBlow_StatsDescription">|Crippled status prevents target from walking or running.|</content>
-	<content contentuid="hde09ddb6gd620g4273g996dg266aad69e1c0" Source="Target_StatsDescription.lsb" Key="Target_FirstAid_StatsDescription">Range: [1]</content>
+	<content contentuid="hde09ddb6gd620g4273g996dg266aad69e1c0" Source="Target_StatsDescription.lsb" Key="Target_FirstAid_StatsDescription">Portée : [1]</content>
 	<content contentuid="hae543e73g53d1g44b9ga49ag7e25fc103115" Source="Target_StatsDescription.lsb" Key="Target_InvisibilityTarget_StatsDescription">Range: [1]&lt;br&gt;When you are invisible, enemies cannot see you or target you directly.&lt;br&gt;Invisibility breaks when casting or attacking, or when detected.</content>
 	<content contentuid="h88428347g647dg49dcgae59gf009d171e7ae" Source="Target_StatsDescription.lsb" Key="Target_ShockingTouch_StatsDescription">Range: [1]&lt;br&gt;Stunned makes target unable to move or act.</content>
 	<content contentuid="hd65cf9a8g02ebg4096g9634gbb4f5548d3bb" Source="Teleportation_Description.lsb" Key="Teleportation_FreeFall_Description">Teleport a target character or item to a point of your choosing.</content>
