@@ -2,7 +2,7 @@
 <contentList>
 	<content contentuid="hdfee0daag7134g4dc9gb462g3c05740e2290" Source="BOOK_Skill_Rogue_OdinSCO_CrawlingInfestation">Scoundrel skills are skills for rogues and thieves. High Finesse improves these skills.</content>
 	<content contentuid="h1ea620baga9b7g4961ga750g7ae676004848" Source="BOOK_Skill_Rogue_OdinSCO_CrawlingInfestation">Crawling Infestation Skillbook</content>
-	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_Skill_Rogue_OdinSCO_CrawlingInfestation">Skillbooks</content>
+	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_Skill_Rogue_OdinSCO_CrawlingInfestation">Livres de compétence</content>
 	<content contentuid="he6334b44gb08bg4be1ga0c8g28083d2d967e" Source="BOOK_Skill_Rogue_OdinSCO_FindersKeepers">Finders Keepers Skillbook</content>
 	<content contentuid="h329ee855g89f6g4d97gad78gf2ecd34dc8ce" Source="BOOK_Skill_Rogue_OdinSCO_Firecracker">Firecracker Skillbook</content>
 	<content contentuid="hbf320a79g1a96g4ec5g89c8g270b94f7fecf" Source="BOOK_Skill_Rogue_OdinSCO_Misdirection">Misdirection Skillbook</content>
@@ -28,9 +28,9 @@
 	<content contentuid="h6a789aebgba5fg44ebgb314g1b2cac1b3bfa" Source="OdinSCO_Trader">Lina, the Deft</content>
 	<content contentuid="hf4143c39gb0d8g4a04g8e23gf6f3dc4c5278" Source="OdinSCO_Vendor.lsj">I&apos;ve got more than a fair share of tricks up my sleeve. Perhaps you could tempt me to part ways with some of them, albeit temporarily, of course...</content>
 	<content contentuid="h5a9ac96dg881dg4788g9017g26b739ddbf8d" Source="OdinSCO_Vendor.lsj"> </content>
-	<content contentuid="h07f17762g9d3fg4d19g9b8bge55be5f449e1" Source="OdinSCO_Vendor.lsj">I would like to trade.</content>
+	<content contentuid="h07f17762g9d3fg4d19g9b8bge55be5f449e1" Source="OdinSCO_Vendor.lsj">Je voudrais commercer.</content>
 	<content contentuid="h06b95e92g6153g478fgaedcg5805159d83a9" Source="OdinSCO_Vendor.lsj">Watch your back, traveler...</content>
-	<content contentuid="h9e613850g0498g47c2g8a4eg64d1fc1ccbe8" Source="OdinSCO_Vendor.lsj">*Take my leave*</content>
+	<content contentuid="h9e613850g0498g47c2g8a4eg64d1fc1ccbe8" Source="OdinSCO_Vendor.lsj">Je prends congé</content>
 	<content contentuid="hcd20b723gb3c8g4e44g8a00g8d3dbded852e" Source="Projectile_Description.lsb" Key="Projectile_OdinSCO_Firecracker_Description">Toss a &lt;font color=&apos;#FE6E27&apos;&gt;Firecracker&lt;/font&gt;, making &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt; within the 2m radius turn to face it. Ignites &lt;font color=&apos;#9a6a46&apos;&gt;Ground Surfaces&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#C9AA58&apos;&gt;Combo&lt;/font&gt;: Deals [1] and &lt;font color=&apos;#639594&apos;&gt;Blinds&lt;/font&gt; hit &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt; for 1 turn.</content>
 	<content contentuid="h16de10a1ga1f6g4e8ag900eg858b88d429c3" Source="Projectile_Description.lsb" Key="Projectile_OdinSCO_Misfire_Description">Sabotage an &lt;font color=&apos;#aa3938&apos;&gt;enemy&lt;/font&gt; target without &lt;font color=&apos;#188ede&apos;&gt;Magic Armour&lt;/font&gt;, causing them to &lt;font color=&apos;#7F00FF&apos;&gt;Fumble&lt;/font&gt; their next spell cast. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#C9AA58&apos;&gt;Combo&lt;/font&gt;: Deals [1] upon triggering this effect.</content>
 	<content contentuid="h9379e342g0fccg47f0gacc7g104da0e58065" Source="Projectile_Description.lsb" Key="Projectile_OdinSCO_SmokeGrenade_Description">Hurl a smoke grenade, dealing [1] to all characters and creating a &lt;font color=&apos;#639594&apos;&gt;Smoke Cloud&lt;/font&gt;. &lt;font size=&apos;16&apos;&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;font color=&apos;#ff00a8&apos;&gt;Way of the Umbra&lt;/font&gt; switches this skill to &lt;font color=&apos;#c80030&apos;&gt;Null Zone&lt;/font&gt;, a &lt;font color=&apos;#c80030&apos;&gt;Chaos&lt;/font&gt; skill which creates a shadowy portal.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;</content>
