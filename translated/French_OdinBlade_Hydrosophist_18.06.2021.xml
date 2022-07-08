@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="hf84342fbg66f1g47dbg939cgbf061e5143e7" Source="OdinWater_Vendor_01.lsj">I would like to trade.</content>
+	<content contentuid="hf84342fbg66f1g47dbg939cgbf061e5143e7" Source="OdinWater_Vendor_01.lsj">Je voudrais commercer.</content>
 	<content contentuid="he03a3e25g3041g4706g9450ga14968112df8" Source="OdinWater_Vendor_01.lsj">Every snowflake is unique; mortals are no different.</content>
-	<content contentuid="h191ba43agae11g42a1g84f1g2ab6ccf758ac" Source="OdinWater_Vendor_01.lsj">*Take my leave*</content>
+	<content contentuid="h191ba43agae11g42a1g84f1g2ab6ccf758ac" Source="OdinWater_Vendor_01.lsj">Je prends congé</content>
 	<content contentuid="h3f2afe54g21cdg4381g9feaga612fe714c35" Source="OdinWater_Vendor_01.lsj">The path of Hydromancy is a cold one. Should you require any more spells, do ask.</content>
 	<content contentuid="h758c9935gd6f3g4e57g8d1dg3c140643952c" Source="_merged.lsf">Arcane Stitch Skillbook</content>
 	<content contentuid="hff545219g3dfag40bag9f1agb45853414b04" Source="_merged.lsf">Hydrotherapy Skillbook</content>
@@ -25,7 +25,7 @@
 	<content contentuid="ha1749284g0846g4297ga454g71f5457ec53b" Source="64c4ea5a-df9b-4164-9ec2-16db4e1bb38a.lsf">Ice Wall Skillbook</content>
 	<content contentuid="hdadd9969g6bd6g41dcgb943g0b297855c48d" Source="6688644d-eef2-4259-afd3-ff18002fb9d8.lsf">Hydrosophist skills are Water-based magic spells. High intelligence improves these skills. Read this book to learn this skill.</content>
 	<content contentuid="h0e67eb17g19fag47d2g9fc4g0e87555373dd" Source="6688644d-eef2-4259-afd3-ff18002fb9d8.lsf">Aegis Assault Skillbook</content>
-	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="6688644d-eef2-4259-afd3-ff18002fb9d8.lsf">Skillbooks</content>
+	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="6688644d-eef2-4259-afd3-ff18002fb9d8.lsf">Livres de compétence</content>
 	<content contentuid="h5789bb79g08bfg48c7ga533g9b51f46185ec" Source="6c8f2c5f-20d2-4ccd-81da-536a97267d43.lsf">Rebuke Skillbook</content>
 	<content contentuid="ha2619df8g0e97g4a7dg8238gccb7d55edf5a" Source="6cba9895-3e9a-4658-9f60-4c0b4db42e35.lsf">Ice Wall</content>
 	<content contentuid="h61c635f0ge942g448ega938gbb86c1e005b8" Source="6cf52f58-bed5-48db-aaa4-b7a84ef53dc6.lsf"/>
@@ -72,9 +72,9 @@
 	<content contentuid="hb20f1ef3gfb11g4d94gb535g309e61eff979" Source="ItemProgression.lsb" Key="Magnificent Trident">Magnificent Trident</content>
 	<content contentuid="h847b76e8g6e00g4523ga7cegb34c6e0e4232" Source="ItemProgression.lsb" Key="Ocean's Trident">Ocean&apos;s Trident</content>
 	<content contentuid="hf4548e62g5055g4f56g917dg1e3826fc84f8" Source="ItemProgression.lsb" Key="Swift Trident">Swift Trident</content>
-	<content contentuid="hf84342fbg66f1g47dbg939cgbf061e5143e7" Source="OdinWater_Vendor_01.lsj">I would like to trade.</content>
+	<content contentuid="hf84342fbg66f1g47dbg939cgbf061e5143e7" Source="OdinWater_Vendor_01.lsj">Je voudrais commercer.</content>
 	<content contentuid="he03a3e25g3041g4706g9450ga14968112df8" Source="OdinWater_Vendor_01.lsj">Every snowflake is unique; mortals are no different.</content>
-	<content contentuid="h191ba43agae11g42a1g84f1g2ab6ccf758ac" Source="OdinWater_Vendor_01.lsj">*Take my leave*</content>
+	<content contentuid="h191ba43agae11g42a1g84f1g2ab6ccf758ac" Source="OdinWater_Vendor_01.lsj">Je prends congé</content>
 	<content contentuid="h3f2afe54g21cdg4381g9feaga612fe714c35" Source="OdinWater_Vendor_01.lsj">The path of Hydromancy is a cold one. Should you require any more spells, do ask.</content>
 	<content contentuid="hb9ba782dg9f5cg4652g8b83g743885e732c6" Source="Projectile_Description.lsb" Key="Projectile_ChainHeal_Description">Command a stream of water to bounce between up to 6 &lt;font color=&quot;#88a25b&quot;&gt;allies&lt;/font&gt; or &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt;: &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#88a25b&quot;&gt;Ally&lt;/font&gt;: Restores [1]. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#aa3938&quot;&gt;Enemy&lt;/font&gt;: Deals [2]. &lt;br&gt;&lt;br&gt;Leaves a &lt;font color=&quot;#4197e2&quot;&gt;water surface&lt;/font&gt; and sets &lt;font color=&quot;#4197e2&quot;&gt;Wet&lt;/font&gt; upon hitting a character.</content>
 	<content contentuid="hf3de0450g2368g4833g9749g10c1f7e7e59b" Source="Projectile_Description.lsb" Key="Projectile_IceFan_Description">Shoot an icy projectiles at each of 3 targets, dealing [1]. &lt;br&gt;&lt;br&gt;Each icicle &lt;font color=&quot;#cfecff&quot;&gt;Chills&lt;/font&gt; targets and creates a small &lt;font color=&quot;#cfecff&quot;&gt;ice surface&lt;/font&gt; upon impact. &lt;br&gt;&lt;br&gt;Hitting a &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt; or &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt; enemy with this skill applies &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; for 2 turns, dealing [2] each turn and reducing &lt;font color=&quot;#4197e2&quot;&gt;Water Resistance by [3]%&lt;/font&gt;.</content>
@@ -189,7 +189,7 @@
 	<content contentuid="h7cae2fa1g7367g4457ga4e3g78b9aa184ba7" Source="Target_DisplayName.lsb" Key="Target_Restoration_DisplayName">Restoration</content>
 	<content contentuid="h22ed2265gcb90g4c35gaa12gb1f5756e1a8d" Source="Target_DisplayName.lsb" Key="Target_VampiricHunger_DisplayName">Vampiric Hunger</content>
 	<content contentuid="hc13f1c34gf752g4f36g93feg6d6b6adb5e57" Source="Target_DisplayName.lsb" Key="Target_WinterBlast_DisplayName">Winter Blast</content>
-	<content contentuid="h08fe0a23g61dbg4b58g9885g84646e0d17b5" Source="Target_StatsDescription.lsb" Key="Target_FirstAid_StatsDescription">Range: [1]</content>
+	<content contentuid="h08fe0a23g61dbg4b58g9885g84646e0d17b5" Source="Target_StatsDescription.lsb" Key="Target_FirstAid_StatsDescription">Portée : [1]</content>
 	<content contentuid="h2b9b72degde2bg43a7gb448g654e1572efcb" Source="Tornado_Description.lsb" Key="Tornado_OdinWater_Waterspout_Description">Removes surfaces from the battlefield, reveals invisible characters and clears Warm, Burning and Hastened.</content>
 	<content contentuid="h9d887ff7ga223g45fagba55g8bbe23e2f675" Source="Tornado_DisplayName.lsb" Key="Tornado_OdinWater_Waterspout_DisplayName">Waterspout</content>
 	<content contentuid="h72116269ga123g496cgaa31g6658a03031b7" Source="Tornado_StatsDescription.lsb" Key="Tornado_OdinWater_Waterspout_StatsDescription">Radius: [1]</content>
