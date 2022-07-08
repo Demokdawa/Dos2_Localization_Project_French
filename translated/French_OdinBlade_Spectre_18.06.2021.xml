@@ -4,7 +4,7 @@
 	<content contentuid="hbbc424bfg4828g4d68g8d55gbe578e2b52a7" Source="ARM_UNIQUE_OdinSpectre_Gloves_1">Cynteara&apos;s Malice</content>
 	<content contentuid="hc870c381g2895g4168gae8ag986b6b790103" Source="BOOK_OdinSpectre_AgonyOfTheDamned">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
 	<content contentuid="h51372d77g5a72g4504gb6fag5c6359bdac7e" Source="BOOK_OdinSpectre_AgonyOfTheDamned">Agony of the Damned Skillbook</content>
-	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_OdinSpectre_AgonyOfTheDamned">Skillbooks</content>
+	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_OdinSpectre_AgonyOfTheDamned">Livres de compétence</content>
 	<content contentuid="hc1ed4878gc577g435bgb7cfg56f1b78aba0f" Source="BOOK_OdinSpectre_AnnhiliatingPurge">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
 	<content contentuid="h662907b6g0151g46c5gb562gef9f1cbe1761" Source="BOOK_OdinSpectre_AnnhiliatingPurge">Annhiliating Purge Skillbook</content>
 	<content contentuid="h0dddf64cg80f3g40bcgb9c4ge44faf07e308" Source="BOOK_OdinSpectre_Bonechill">Spectre skill. High Intelligence improves this skill. Read this book to learn it.</content>
@@ -87,17 +87,17 @@
 	<content contentuid="hfe1d84c9g028eg4503ga9d0gd6a1dba820e9" Source="MalthusGreeting01.lsj">Hmm.. Such a fascinating soul... Perhaps you could be of use to me...</content>
 	<content contentuid="ha1784017g33ddg4e89g85ecge602b2c88db4" Source="MalthusGreeting01.lsj"> *Take my leave.*</content>
 	<content contentuid="h39172c1eg6940g42f5g850cg3625360c71c1" Source="MalthusGreeting01.lsj">Pleasure doing business with you. I&apos;m sure I&apos;ll be seeing more of you soon...</content>
-	<content contentuid="h006b8023g38fbg4725gb93bg76040eea6e8e" Source="MalthusGreeting01.lsj">I would like to trade.</content>
+	<content contentuid="h006b8023g38fbg4725gb93bg76040eea6e8e" Source="MalthusGreeting01.lsj">Je voudrais commercer.</content>
 	<content contentuid="hbb278025g6cb4g440ega560g5765e5889314" Source="MalthusRespec01.lsj">Yes. I wish to become a Spectre by applying the preset to myself.</content>
 	<content contentuid="h35c1aed2g512cg44ccg891ag7d4a955891f6" Source="MalthusRespec01.lsj">Hmm.. Such a fascinating soul... Perhaps you could be of use to me...</content>
-	<content contentuid="h62bf2fa5g36abg4897g830agf2cf0b5d372a" Source="MalthusRespec01.lsj">I would like to trade.</content>
+	<content contentuid="h62bf2fa5g36abg4897g830agf2cf0b5d372a" Source="MalthusRespec01.lsj">Je voudrais commercer.</content>
 	<content contentuid="h32558011gab62g4958g95fag8f75626e430c" Source="MalthusRespec01.lsj">No. I have already decided on my path.</content>
 	<content contentuid="h949cdb86g329dg4386g943eg4c9c69a1d249" Source="MalthusRespec01.lsj">Is this a willing soul I see? Agony and Dread await you - are you sure?&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;WARNING: This process will replace your inventory. Ensure you empty your inventory in a suitable container / party member before switching!&lt;/i&gt;&lt;/b&gt;</content>
 	<content contentuid="h263a39d2g7141g47fdgb948g8bacf7f0d17b" Source="MalthusRespec01.lsj">Pleasure doing business with you. I&apos;m sure I&apos;ll be seeing more of you soon...</content>
 	<content contentuid="hcb104239g86b0g415ega88cgc462d0e19f47" Source="MalthusRespec01.lsj">I want to change my class.</content>
 	<content contentuid="h43ea3fc7g16c5g4406ga6a8g7d804c44d13e" Source="MalthusRespec01.lsj">I&apos;m thinking about becoming a Spectre.</content>
 	<content contentuid="h2751bdabg4463g4119g85e1g0b5b779a975b" Source="MalthusRespec01.lsj">A pity, but it&apos;s your decision. I needn&apos;t worry - I have other methods to take your soul...</content>
-	<content contentuid="hc4444002geeb8g41e3g8145gebacc2767985" Source="MalthusRespec01.lsj">*Take my leave*</content>
+	<content contentuid="hc4444002geeb8g41e3g8145gebacc2767985" Source="MalthusRespec01.lsj">Je prends congé</content>
 	<content contentuid="hfdf37f0fga931g4499gbc33ge4e8e44bb338" Source="MalthusRespec01.lsj">Foolish mortal. I can only wish you good luck...</content>
 	<content contentuid="hc730a95fg67b6g4666g82c1ge5b8cd504f03" Source="MalthusRespec01.lsj">Anyone may take the pact, so long as they have a soul. Are you interested in using soul magic?</content>
 	<content contentuid="hf3a57d05g5d35g426fgb165gaf3b73fccbed" Source="MalthusRespec01.lsj">I&apos;m fine with my current class.</content>
