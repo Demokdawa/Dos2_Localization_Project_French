@@ -27,7 +27,7 @@
 	<content contentuid="h0080e934g730ag4520ga59bg9320ec280310" Source="Cone_DisplayName.lsb" Key="Cone_OdinPyro_CHANGEME_DisplayName">CHANGE ME</content>
 	<content contentuid="h63439188ge35bg4c70g93bfg5de3eaadef0b" Source="Cone_DisplayName.lsb" Key="Cone_OdinPyro_Flamethrower_DisplayName">Incineration</content>
 	<content contentuid="ha95315dag5334g4dd1g8b08g41b7e4d51226" Source="Cone_DisplayName.lsb" Key="Cone_OdinPyro_PurifyingFire_DisplayName">Purifying Fire</content>
-	<content contentuid="h76608c72g3e6cg486eg990cgdd3094fd6a99" Source="Cone_StatsDescription.lsb" Key="Cone_OdinPyro_CHANGEME_StatsDescription">Cone angle: [2]&lt;br&gt;Length: [3]</content>
+	<content contentuid="h76608c72g3e6cg486eg990cgdd3094fd6a99" Source="Cone_StatsDescription.lsb" Key="Cone_OdinPyro_CHANGEME_StatsDescription">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="h0ef71391g96f3g4445g9888g26d8c1962d11" Source="ItemProgression.lsb" Key="A Flameblade's signature weapon.">A Flameblade&apos;s signature weapon.</content>
 	<content contentuid="h9dad43e8g4584g453cgbb15gf9e8aa86e26f" Source="ItemProgression.lsb" Key="Improvised Flameblade">Improvised Flameblade</content>
 	<content contentuid="hc68fe7b2gc5f7g496ag8dc0gf6f7fe8a3fef" Source="ItemProgression.lsb" Key="Knight's Flameblade">Knight&apos;s Flameblade</content>
