@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h97e21ae8g0d85g44d8g9ac0g3917aa5ab8d0" Source="Animals_OdinGEO_Chicken">Chicken</content>
-	<content contentuid="h778393cfg3f5eg465cga7bege8dc9a1c11d9" Source="Animals_OdinGEO_Rabbit">Bunny</content>
-	<content contentuid="h4eb77ca0gbc41g432agb865gebef0f6ca09c" Source="Animals_OdinGEO_Squirrel">Squirrel</content>
-	<content contentuid="h02f7d745ga9dfg46fbga65ag114bd1bb3bb9" Source="BOOK_Skill_Earth_OdinGEO_BoulderCrash">Geomancer skills are Earth-based magic spells. High intelligence improves these skills. Read this book to learn this skill.</content>
-	<content contentuid="hed061431g248fg4568g9d15g2a4a5e166d42" Source="BOOK_Skill_Earth_OdinGEO_BoulderCrash">Boulder Crash Skillbook</content>
+	<content contentuid="h97e21ae8g0d85g44d8g9ac0g3917aa5ab8d0" Source="Animals_OdinGEO_Chicken">Poulet</content>
+	<content contentuid="h778393cfg3f5eg465cga7bege8dc9a1c11d9" Source="Animals_OdinGEO_Rabbit">Lapin</content>
+	<content contentuid="h4eb77ca0gbc41g432agb865gebef0f6ca09c" Source="Animals_OdinGEO_Squirrel">Écureuil</content>
+	<content contentuid="h02f7d745ga9dfg46fbga65ag114bd1bb3bb9" Source="BOOK_Skill_Earth_OdinGEO_BoulderCrash">Les compétences de Géomancien utilisent la magie de la terre. Une Intelligence élevée permet d'augmenter leur efficacité. Lisez ce livre pour apprendre cette compétence.</content>
+	<content contentuid="hed061431g248fg4568g9d15g2a4a5e166d42" Source="BOOK_Skill_Earth_OdinGEO_BoulderCrash">Livre de compétence : Éboulement</content>
 	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_Skill_Earth_OdinGEO_BoulderCrash">Livres de compétence</content>
-	<content contentuid="h658e8421g0532g4638gb3d6g7952ee863e15" Source="BOOK_Skill_Earth_OdinGEO_ConjureEarthElemental">Conjure Earth Elemental Skillbook</content>
-	<content contentuid="h6af11c2fg713ag4a51gaa53g546d5c6f7752" Source="BOOK_Skill_Earth_OdinGEO_CorruptingVial">Corrupting Vial Skillbook</content>
-	<content contentuid="h6a2db35fg4d4dg4df7gae43g802b199dd392" Source="BOOK_Skill_Earth_OdinGEO_Earthbrand">Earthbrand Skillbook</content>
-	<content contentuid="h7226fe30g636eg4e1dga7e0gfc8dad496549" Source="BOOK_Skill_Earth_OdinGEO_Expunge">Expunge Skillbook</content>
-	<content contentuid="h6dc66c73gbbfcg4789gac48gad118e1b9cf9" Source="BOOK_Skill_Earth_OdinGEO_GranitePlating">Granite Plating Skillbook</content>
-	<content contentuid="h6e8a8d82g03f5g418bg9dbcg3c2ec96e6b70" Source="BOOK_Skill_Earth_OdinGEO_NaturalRemedy">Natural Remedy Skillbook</content>
-	<content contentuid="h9e5f1a54g5c8ag46b2g9b49g8c5794ef84c7" Source="BOOK_Skill_Earth_OdinGEO_NaturesDecree">Nature&apos;s Decree Skillbook</content>
-	<content contentuid="h4f8ffb9fg339dg4988gba05g8b5a35de890e" Source="BOOK_Skill_Earth_OdinGEO_NoxiousTouch">Noxious Touch Skillbook</content>
-	<content contentuid="h0742f3b8gd496g4cfdg9563gd0d026fee2fa" Source="BOOK_Skill_Earth_OdinGEO_OilyTouch">Oily Touch Skillbook</content>
-	<content contentuid="h4539556dg108bg42bdgb806g38c49637eb55" Source="BOOK_Skill_Earth_OdinGEO_ParasiticAffliction">Parasitic Affliction Skillbook</content>
-	<content contentuid="h624b3d68gb31fg4955gaa80g6edce20c33b4" Source="BOOK_Skill_Earth_OdinGEO_RockVolley">Rock Volley Skillbook</content>
-	<content contentuid="h01f927eegc1d6g4aadga693gcbd32fced588" Source="BOOK_Skill_Earth_OdinGEO_SeismicSlide">Seismic Slide Skillbook</content>
-	<content contentuid="h54f46576ga554g4957gbebagea43c06bb3dc" Source="BOOK_Skill_Earth_OdinGEO_Sentinel">Shapeshift: Clay Sentinel Skillbook</content>
-	<content contentuid="hf88a89c0gf589g4b38g809eg8949e72fd8b6" Source="BOOK_Skill_Earth_OdinGEO_SongOfTheDryads">Song of the Dryads Skillbook</content>
-	<content contentuid="h1aef7c1agb3c7g4856g8294g9a97bef9610c" Source="BOOK_Skill_Earth_OdinGEO_SporeShrooms">Spore Shrooms Skillbook</content>
-	<content contentuid="h3170c7c0g1a6dg4b59g97ebgd4d911469580" Source="BOOK_Skill_Earth_OdinGEO_TectonicSpray">Tectonic Spray Skillbook</content>
-	<content contentuid="h9a8660cagccf5g47d0g8632gfb1d0c1f66c9" Source="BOOK_Skill_Earth_OdinGEO_VenomBurst">Venom Burst Skillbook</content>
-	<content contentuid="h18d35ccfg9c8bg4ebbgb9e1gb6711cda78d3" Source="BOOK_Skill_Earth_WormTremor">Vine Grasp Skillbook</content>
-	<content contentuid="h8795a9b9g1dadg4c85gb677g3a0333e8399b" Source="BOOK_Skill_Earth_WormTremor">Conjure Poison Elemental Skillbook</content>
-	<content contentuid="h3bd63ebdgd489g4567ga1edg4c2c2a541512" Source="BOOK_Skill_Earth_WormTremor">Venom Coating Skillbook</content>
-	<content contentuid="h6202787bge43cg44d4ga169gc1e251942fd0" Source="BOOK_Skill_Earth_WormTremor">Poison Elemental</content>
-	<content contentuid="hf37d2d3fg1d8eg416ega954g798337e96556" Source="BOOK_Skill_Earth_WormTremor">Hungy Flower</content>
-	<content contentuid="h37802770g0aaag43cega662g7aa71f072149" Source="BOOK_Skill_Earth_WormTremor">Vine Wall</content>
-	<content contentuid="h5f3f34b2g0fc2g4fcfg9d27gcb3687d8b61a" Source="BOOK_Skill_Earth_WormTremor">Vine Wall</content>
-	<content contentuid="h3cc9122fg47a9g47bbgb7c9g77b28a49ec31" Source="BOOK_Skill_Earth_WormTremor">Vine Wall</content>
+	<content contentuid="h658e8421g0532g4638gb3d6g7952ee863e15" Source="BOOK_Skill_Earth_OdinGEO_ConjureEarthElemental">Livre de compétence : Invocation - Élémentaire de terre</content>
+	<content contentuid="h6af11c2fg713ag4a51gaa53g546d5c6f7752" Source="BOOK_Skill_Earth_OdinGEO_CorruptingVial">Livre de compétence : Fiole de corruption</content>
+	<content contentuid="h6a2db35fg4d4dg4df7gae43g802b199dd392" Source="BOOK_Skill_Earth_OdinGEO_Earthbrand">Livre de compétence : Chante-terre</content>
+	<content contentuid="h7226fe30g636eg4e1dga7e0gfc8dad496549" Source="BOOK_Skill_Earth_OdinGEO_Expunge">Livre de compétence : Expurgation</content>
+	<content contentuid="h6dc66c73gbbfcg4789gac48gad118e1b9cf9" Source="BOOK_Skill_Earth_OdinGEO_GranitePlating">Livre de compétence : Armure de granite</content>
+	<content contentuid="h6e8a8d82g03f5g418bg9dbcg3c2ec96e6b70" Source="BOOK_Skill_Earth_OdinGEO_NaturalRemedy">Livre de compétence : Remède naturel</content>
+	<content contentuid="h9e5f1a54g5c8ag46b2g9b49g8c5794ef84c7" Source="BOOK_Skill_Earth_OdinGEO_NaturesDecree">Livre de compétence : Décret de la nature</content>
+	<content contentuid="h4f8ffb9fg339dg4988gba05g8b5a35de890e" Source="BOOK_Skill_Earth_OdinGEO_NoxiousTouch">Livre de compétence : Toucher toxique</content>
+	<content contentuid="h0742f3b8gd496g4cfdg9563gd0d026fee2fa" Source="BOOK_Skill_Earth_OdinGEO_OilyTouch">Livre de compétence : Toucher gluant</content>
+	<content contentuid="h4539556dg108bg42bdgb806g38c49637eb55" Source="BOOK_Skill_Earth_OdinGEO_ParasiticAffliction">Livre de compétence : Affliction parasitaire</content>
+	<content contentuid="h624b3d68gb31fg4955gaa80g6edce20c33b4" Source="BOOK_Skill_Earth_OdinGEO_RockVolley">Livre de compétence : Volée de pierre</content>
+	<content contentuid="h01f927eegc1d6g4aadga693gcbd32fced588" Source="BOOK_Skill_Earth_OdinGEO_SeismicSlide">Livre de compétences : Glissade sismique</content>
+	<content contentuid="h54f46576ga554g4957gbebagea43c06bb3dc" Source="BOOK_Skill_Earth_OdinGEO_Sentinel">Livre de compétence : Changeforme - Sentinelle d'argile</content>
+	<content contentuid="hf88a89c0gf589g4b38g809eg8949e72fd8b6" Source="BOOK_Skill_Earth_OdinGEO_SongOfTheDryads">Livre de compétence : Chant des Dryades</content>
+	<content contentuid="h1aef7c1agb3c7g4856g8294g9a97bef9610c" Source="BOOK_Skill_Earth_OdinGEO_SporeShrooms">Livre de compétence : infection fongique</content>
+	<content contentuid="h3170c7c0g1a6dg4b59g97ebgd4d911469580" Source="BOOK_Skill_Earth_OdinGEO_TectonicSpray">Livre de compétence : Pulvérisation Tectonique</content>
+	<content contentuid="h9a8660cagccf5g47d0g8632gfb1d0c1f66c9" Source="BOOK_Skill_Earth_OdinGEO_VenomBurst">Livre de compétence : Explosion Venimeuse</content>
+	<content contentuid="h18d35ccfg9c8bg4ebbgb9e1gb6711cda78d3" Source="BOOK_Skill_Earth_WormTremor">Livre de compétence : Emprise de la liane</content>
+	<content contentuid="h8795a9b9g1dadg4c85gb677g3a0333e8399b" Source="BOOK_Skill_Earth_WormTremor">Livre de compétence : Invocation - Élémentaire de poison</content>
+	<content contentuid="h3bd63ebdgd489g4567ga1edg4c2c2a541512" Source="BOOK_Skill_Earth_WormTremor">Livre de compétence : Enduction de venin</content>
+	<content contentuid="h6202787bge43cg44d4ga169gc1e251942fd0" Source="BOOK_Skill_Earth_WormTremor">Élémentaire de poison</content>
+	<content contentuid="hf37d2d3fg1d8eg416ega954g798337e96556" Source="BOOK_Skill_Earth_WormTremor">Fleur affamée</content>
+	<content contentuid="h37802770g0aaag43cega662g7aa71f072149" Source="BOOK_Skill_Earth_WormTremor">Mur de vigne</content>
+	<content contentuid="h5f3f34b2g0fc2g4fcfg9d27gcb3687d8b61a" Source="BOOK_Skill_Earth_WormTremor">Mur de vigne</content>
+	<content contentuid="h3cc9122fg47a9g47bbgb7c9g77b28a49ec31" Source="BOOK_Skill_Earth_WormTremor">Mur de vigne</content>
 	<content contentuid="h7efe18abgd0e6g4768g8506g993323bd4440" Source="BOOK_Skill_Earth_WormTremor">Midnight Oil Skillbook</content>
 	<content contentuid="h5b58a9a9g7632g4958g88fagd579fcea5423" Source="BOOK_Skill_Earth_WormTremor"/>
 	<content contentuid="hb02109f7g45b5g459dg8a2dg3ce854938c00" Source="Cone_Description.lsb" Key="Cone_CorrosiveSpray_Description">Destroy [1] and apply &lt;font color=&apos;#00aa00&apos;&gt;Acid&lt;/font&gt; and &lt;font color=&apos;#c80030&apos;&gt;Atrophy&lt;/font&gt; to characters in a cone. &lt;br&gt;&lt;br&gt;Also creates a &lt;font color=&apos;#65C900&apos;&gt;Cursed Poison surface&lt;/font&gt;.</content>
@@ -154,7 +154,7 @@
 	<content contentuid="hab0a568bg24d5g4023gb4e1g32a1553bf642" Source="Summon_DisplayName.lsb" Key="Summon_OdinGEO_Summon_SageTree_DisplayName">Conjure Sage Tree</content>
 	<content contentuid="h938a3b1eg8451g4de8g9df8g3538faf9594f" Source="Summons_OdinGEO_EarthElemental_Large">Earth Elemental</content>
 	<content contentuid="h95426e5cg78d4g4260gb32fg84dad4b6e1b6" Source="Summons_OdinGEO_EarthElemental_Small">Earth Elemental</content>
-	<content contentuid="hfad86da0gfc2eg416fga4b0gb752cb56e895" Source="Summons_OdinGEO_PoisonElemental_Large">Poison Elemental</content>
+	<content contentuid="hfad86da0gfc2eg416fga4b0gb752cb56e895" Source="Summons_OdinGEO_PoisonElemental_Large">Élémentaire de poison</content>
 	<content contentuid="h6cf6bcc0ga16ag467dg9136g3a1f42d36b1c" Source="Target_Description.lsb" Key="Target_Condense_Description">Create an &lt;font color=&apos;#676464&apos;&gt;Oil surface&lt;/font&gt; at target location. &lt;br&gt;&lt;br&gt;Characters also become &lt;font color=&apos;#676464&apos;&gt;Oiled&lt;/font&gt;, reducing &lt;font color=&apos;#7f3d00&apos;&gt;Earth Resistance by [2]%&lt;/font&gt; and &lt;font color=&quot;#fe6e27&quot;&gt;Fire Resistance by [3]%&lt;/font&gt;.</content>
 	<content contentuid="h1c9ac0f5ge547g4ec4g84e6gffd3834e1934" Source="Target_Description.lsb" Key="Target_CorrosiveTouch_Description">Destroy [1] and apply &lt;font color=&apos;#00aa00&apos;&gt;Acid&lt;/font&gt; to target character.</content>
 	<content contentuid="hda069501gaa05g4380g933dg7872e7805d8b" Source="Target_Description.lsb" Key="Target_Fortify_Description">Rocks form a defensive barrier around the target, providing [1] and preventing them from being teleported. &lt;br&gt;&lt;br&gt;Cleanses &lt;font color=&apos;#00aa00&apos;&gt;Poisoned&lt;/font&gt;, &lt;font color=&apos;#c80030&apos;&gt;Bleeding&lt;/font&gt;, &lt;font color=&apos;#fe6e27&apos;&gt;Burning&lt;/font&gt;, &lt;font color=&apos;#00aa00&apos;&gt;Acid&lt;/font&gt;, and &lt;font color=&quot;#b823cb&quot;&gt;Decaying&lt;/font&gt; from the target.</content>
@@ -180,7 +180,7 @@
 	<content contentuid="h4396f670g27f2g4af8gbc34gef44f203fb09" Source="Target_DisplayName.lsb" Key="Target_RockSpikes_DisplayName">Impalement</content>
 	<content contentuid="h453eb665g5a57g4665g9153g802d81c94a95" Source="Target_DisplayName.lsb" Key="Target_WormTremor_DisplayName">Vine Grasp</content>
 	<content contentuid="hbebeb4deg95fbg461bga2a9g750935bbf929" Source="Wall_Description.lsb" Key="Wall_LivingWall_Description">Draw an impassable wall of &lt;font color=&quot;#65C900&quot;&gt;vines&lt;/font&gt;, spanning up to [1] and lasting 2 turns. This wall creates a &lt;font color=&quot;#65C900&quot;&gt;Poison cloud&lt;/font&gt;.</content>
-	<content contentuid="he7a21b40g72a8g4de7ga14cgc37ee6344e84" Source="Wall_DisplayName.lsb" Key="Wall_LivingWall_DisplayName">Vine Wall</content>
+	<content contentuid="he7a21b40g72a8g4de7ga14cgc37ee6344e84" Source="Wall_DisplayName.lsb" Key="Wall_LivingWall_DisplayName">Mur de vigne</content>
 	<content contentuid="h0ccc083bg8d2bg479fg9a97gc5a7d8372224" Source="WPN_OdinGEO_TitanSpear">Direct the pointy end towards the problem.</content>
 	<content contentuid="h3d630ed8gd4fag4650g8dcegf7a354cf35fb" Source="WPN_OdinGEO_TitanSpear">Spears</content>
 </contentList>
