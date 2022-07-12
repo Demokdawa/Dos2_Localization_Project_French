@@ -47,8 +47,8 @@
 	<content contentuid="h646e9f11ge468g480bg8131gdf768599c30c" Source="Cone_DisplayName.lsb" Key="Cone_OdinNECRO_LocustPlague_DisplayName">Locust Plague</content>
 	<content contentuid="h78dfc84eg8e70g49bcg8584gc1b7f480ae37" Source="Cone_DisplayName.lsb" Key="Cone_OdinNECRO_PathOfBones_DisplayName">Path of Bones</content>
 	<content contentuid="hc7c16236g8a7bg4ef1g9ad6g4bc09865b862" Source="Cone_DisplayName.lsb" Key="Cone_SilencingStare_DisplayName">Ophidian Glare</content>
-	<content contentuid="h72193cbbg835eg4dc3g8544gafd966ef8039" Source="Cone_StatsDescription.lsb" Key="Cone_OdinNECRO_LocustPlague_StatsDescription">Cone angle: [2]&lt;br&gt;Length: [3]</content>
-	<content contentuid="hc93f1812gdc7ag473eg98b2g991aa430307f" Source="Cone_StatsDescription.lsb" Key="Cone_OdinNECRO_PathOfBones_StatsDescription">Cone angle: [2]&lt;br&gt;Length: [3]</content>
+	<content contentuid="h72193cbbg835eg4dc3g8544gafd966ef8039" Source="Cone_StatsDescription.lsb" Key="Cone_OdinNECRO_LocustPlague_StatsDescription">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
+	<content contentuid="hc93f1812gdc7ag473eg98b2g991aa430307f" Source="Cone_StatsDescription.lsb" Key="Cone_OdinNECRO_PathOfBones_StatsDescription">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="h5525b96fg1a36g41a8gbf58gb9279050aa32" Source="d11e4f7e-a9d8-4d98-bb45-ccc2a9335ad0.lsf">Zombie</content>
 	<content contentuid="hb63fb394g7486g44f5gab0cgfca780b8593e" Source="d5ae3203-deee-45fb-a7c3-94d1838b8f92.lsf">Arcane Punishment Skillbook</content>
 	<content contentuid="hba1a2342ga67cg41f1g9d9dg44ecad938655" Source="d6cbb8b5-294e-4b69-b9bc-b06243448380.lsf">Bloodletting Skillbook</content>
