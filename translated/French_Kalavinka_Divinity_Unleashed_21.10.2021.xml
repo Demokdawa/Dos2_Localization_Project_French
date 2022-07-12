@@ -5,11 +5,11 @@
 	<content contentuid="h9873857dg8349g44a0g97eag92f107471d0f" Source="Cone_Description.lsb" Key="Cone_KCE_FNX_PsychicScream_Description">Release an unholy scream at enemies in a cone in front of you, dealing [1] damage, or &lt;font color=&apos;6839E9&apos;&gt;Shadow&lt;/font&gt; damage instead if the target is below 50% Vitality, and setting &lt;font color=&apos;6839E9&apos;&gt;Terrified&lt;/font&gt; for the duration. &lt;font size=&quot;-2&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&apos;00FFEA&apos;&gt;Encore:&lt;/font&gt; If the target is below 50% Vitality, evoke a second screech on the target that deals &lt;font color=&apos;6839E9&apos;&gt;Shadow&lt;/font&gt; damage.&lt;/font&gt;</content>
 	<content contentuid="h5ee82230g0c98g4147gbbc3g4efd81962767" Source="Cone_Description.lsb" Key="Cone_Shatter_Description">Apply Snap Frozen and deal [1] in a cone. Enemies that are Frozen Solid and below 20% Vitality die instantly.</content>
 	<content contentuid="h5aa26b1bg62a3g48bbg97ffg82bb8b54ac0e" Source="Cone_Description.lsb" Key="Cone_SilencingStare_Description">Deal [1] and Silence all enemies in a cone in front of you.</content>
-	<content contentuid="hf4dcd13cg749ag449cg8e44g3c5e0ccd63d9" Source="Cone_DisplayName.lsb" Key="Cone_CorrosiveSpray_DisplayName">Corrosive Spray</content>
+	<content contentuid="hf4dcd13cg749ag449cg8e44g3c5e0ccd63d9" Source="Cone_DisplayName.lsb" Key="Cone_CorrosiveSpray_DisplayName">Spray Corrosif</content>
 	<content contentuid="h8f23f2f4g87beg4867g8a6egb8a8603e3d57" Source="Cone_DisplayName.lsb" Key="Cone_GroundSmash_DisplayName">Battle Stomp</content>
 	<content contentuid="hc38948efga6d6g4deag9890g887ecceaa586" Source="Cone_DisplayName.lsb" Key="Cone_Shatter_DisplayName">Deep Freeze</content>
 	<content contentuid="h086e2ca6gc008g42f4gabcdgd58eaf7e9ba3" Source="Cone_DisplayName.lsb" Key="Cone_SilencingStare_DisplayName">Silencing Stare</content>
-	<content contentuid="hf23ffce7g075cg4aa6g9de5g82304cdb70ec" Source="Cone_StatsDescription.lsb" Key="Cone_GroundSmash_StatsDescription">Cone angle: [2]&lt;br&gt;Length: [3]</content>
+	<content contentuid="hf23ffce7g075cg4aa6g9de5g82304cdb70ec" Source="Cone_StatsDescription.lsb" Key="Cone_GroundSmash_StatsDescription">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="h9ea24a9eg04fag41cfg9370g8194184c5f57" Source="Dome_Description.lsb" Key="Dome_CircleOfProtection_Description">Create a magic field that shields allies in the area from incoming damage.</content>
 	<content contentuid="hbbe4c20cg6aeag4fa5g916agd053762cc17a" Source="Dome_Description.lsb" Key="Dome_KCE_NatureDome_Description">| Create a magic field that restores Magic and Physical Armour on allies in an area.  |</content>
 	<content contentuid="he07f6215g463cg462fga2a9g3cb1bf45cfac" Source="Dome_DisplayName.lsb" Key="Dome_CircleOfProtection_DisplayName">Dome Of Protection</content>
@@ -60,7 +60,7 @@
 	<content contentuid="h4a2b4c70g006dg4ee6g930ag3625783f4afc" Source="KCE_LocaleOverrides.lsb" Key="CHICKEN_KCE_Description">Can&apos;t cast, attack, or interact with objects. Bock-bock-BOCKAW!</content>
 	<content contentuid="h88d24d6bg256dg4a94g8e2fg45a837659525" Source="KCE_LocaleOverrides.lsb" Key="CHICKEN_KCE_DisplayName">Chicken Form</content>
 	<content contentuid="h0fd12b32gce5fg435ag9c80g688ab9c0d9e3" Source="KCE_LocaleOverrides.lsb" Key="Cone_CorrosiveSpray_KCE_Description">Destroy [1] on targets in a cone, and set Acid and Atrophy.</content>
-	<content contentuid="h8bcfac9ag2b80g4da7ga6cegff96d1df7326" Source="KCE_LocaleOverrides.lsb" Key="Cone_CorrosiveSpray_KCE_DisplayName">Corrosive Spray</content>
+	<content contentuid="h8bcfac9ag2b80g4da7ga6cegff96d1df7326" Source="KCE_LocaleOverrides.lsb" Key="Cone_CorrosiveSpray_KCE_DisplayName">Spray Corrosif</content>
 	<content contentuid="h06c51895g80d1g4a4dg94e0g5a61fc0f1ec5" Source="KCE_LocaleOverrides.lsb" Key="Cone_GroundSmash_KCE_Description">Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for [1]. Also clears non-cursed surfaces and clouds.</content>
 	<content contentuid="hb1796f71g6c96g4c25g9c99gc089814d7494" Source="KCE_LocaleOverrides.lsb" Key="Cone_Shatter_KCE_Description">Characters in the cone that are Frozen and below 10% Vitality shatter and instantly die. Otherwise they receive [1] and become Frozen.</content>
 	<content contentuid="h9a4e53afg66e6g455dg8817g1e7d0033390d" Source="KCE_LocaleOverrides.lsb" Key="Cone_Shatter_KCE_DisplayName">Deep Freeze</content>
