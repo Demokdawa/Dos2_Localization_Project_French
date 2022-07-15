@@ -37,10 +37,10 @@
 	<content contentuid="h2d60b809g250dg48b3g9c89g1c4f60c460ea" Source="Projectile_DisplayName.lsb" Key="Projectile_OdinSCO_Firecracker_DisplayName">Firecracker</content>
 	<content contentuid="ha124704agc5c3g472eg918dg97ba90c12bce" Source="Projectile_DisplayName.lsb" Key="Projectile_OdinSCO_Misfire_DisplayName">Misfire</content>
 	<content contentuid="h022a149cg5799g4245gb5e9g883f01ed04d1" Source="Projectile_DisplayName.lsb" Key="Projectile_OdinSCO_SmokeGrenade_DisplayName">Smoke Bomb</content>
-	<content contentuid="h67641fe2g3acbg451ega04fgfdb09dbc1bdf" Source="Projectile_StatsDescription.lsb" Key="Projectile_Chloroform_StatsDescription">Range: [2]</content>
+	<content contentuid="h67641fe2g3acbg451ega04fgfdb09dbc1bdf" Source="Projectile_StatsDescription.lsb" Key="Projectile_Chloroform_StatsDescription">Portée : [2]</content>
 	<content contentuid="hdc6d66edg63c6g45d5g9888g344a0ae80559" Source="Projectile_StatsDescription.lsb" Key="Projectile_LaunchBomber_StatsDescription">Can be cast while invisible or sneaking. Range: [1]</content>
-	<content contentuid="h6d98d2d1gc4ffg468fgb0d4g9807c9078a41" Source="Projectile_StatsDescription.lsb" Key="Projectile_OdinSCO_Firecracker_StatsDescription">Range: [2]</content>
-	<content contentuid="h2e683545g98a3g4a53gac95gec25a969f86f" Source="Projectile_StatsDescription.lsb" Key="Projectile_OdinSCO_Firecrackers_StatsDescription">Range: [2]</content>
+	<content contentuid="h6d98d2d1gc4ffg468fgb0d4g9807c9078a41" Source="Projectile_StatsDescription.lsb" Key="Projectile_OdinSCO_Firecracker_StatsDescription">Portée : [2]</content>
+	<content contentuid="h2e683545g98a3g4a53gac95gec25a969f86f" Source="Projectile_StatsDescription.lsb" Key="Projectile_OdinSCO_Firecrackers_StatsDescription">Portée : [2]</content>
 	<content contentuid="h907bf393g078eg44f8g8fffgb45f7e2d3c35" Source="Shout_Description.lsb" Key="Shout_OdinSCO_DeadlyFlourish_Description">Expend your &lt;font color=&apos;#C9AA58&apos;&gt;Combo&lt;/font&gt; points to enhance your next &lt;font color=&apos;#639594&apos;&gt;Scoundrel&lt;/font&gt; skill. &lt;br&gt;&lt;br&gt;From &lt;font color=&apos;#639594&apos;&gt;5 Scoundrel&lt;/font&gt;, you begin combat with &lt;font color=&apos;#C9AA58&apos;&gt;Combo I&lt;/font&gt;. From &lt;font color=&apos;#639594&apos;&gt;10 Scoundrel&lt;/font&gt;, you instead begin combat with &lt;font color=&apos;#C9AA58&apos;&gt;Combo II&lt;/font&gt;.</content>
 	<content contentuid="h42dbb733g941fg4325gb6e3g91c1b574a007" Source="Shout_Description.lsb" Key="Shout_OdinSCO_Debug_AddCombo_Description">Add +1 Combo point</content>
 	<content contentuid="hce17dcfcg1b62g4e0cg971ag728664e409d8" Source="Shout_Description.lsb" Key="Shout_OdinSCO_Debug_Transform_Description">Stance swap</content>
