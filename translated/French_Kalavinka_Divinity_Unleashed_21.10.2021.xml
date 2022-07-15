@@ -115,7 +115,7 @@
 	<content contentuid="hc200f3d7g21c6g4a09gb14agaa112157f3ee" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PinDown_KCE_Description">Deal [1] and Cripple target character.</content>
 	<content contentuid="haa03381fg164cg48f3g9810gcbc1ee32faf2" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PinDown_KCE_DisplayName">Clouage</content>
 	<content contentuid="hb73dc0cfge495g426eg8403gf3bff266c92d" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PyroclasticEruption_KCE_Description">Multiple oil-filled rocks erupt from the caster at all enemies in the area. On impact, they create oil surfaces and deal [1].</content>
-	<content contentuid="h0e6978efgda20g49d5g849ag507205ca3d43" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PyroclasticEruption_KCE_DisplayName">Pyroclastic Eruption</content>
+	<content contentuid="h0e6978efgda20g49d5g849ag507205ca3d43" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PyroclasticEruption_KCE_DisplayName">Éruption pyroclastique</content>
 	<content contentuid="hca2bdcddg809bg44dcgad2eg6c255e248a61" Source="KCE_LocaleOverrides.lsb" Key="Projectile_PyroclasticRock_KCE_Description">A giant rock filled with sticky oil that deals [1]. Creates an oil surface where it lands.</content>
 	<content contentuid="h75f3f46eg070cg4b79ga2a9ge8cd60da2880" Source="KCE_LocaleOverrides.lsb" Key="Projectile_SkyShot_KCE_Description">Leap into the air before shooting, gaining damage bonuses for your superior height. Deals [1].</content>
 	<content contentuid="ha9197c03g44f9g42caga1d6g5c29cb9c11fd" Source="KCE_LocaleOverrides.lsb" Key="Projectile_SkyShot_KCE_DisplayName">Sky Shot</content>
@@ -826,17 +826,17 @@
 	<content contentuid="hb4976e75gc9dag45ceg9b34gf7ff0829b8dd" Source="Projectile_DisplayName.lsb" Key="Projectile_LightningBolt_DisplayName">Electric Discharge</content>
 	<content contentuid="h4cab4efdgbe38g4247g8148g4086cadf631a" Source="Projectile_DisplayName.lsb" Key="Projectile_Mark_DisplayName">Poussière scintillante</content>
 	<content contentuid="hf5f17cadgb97bg4bc3g8a66g89f8b5bfcee5" Source="Projectile_DisplayName.lsb" Key="Projectile_PinDown_DisplayName">Clouage</content>
-	<content contentuid="h37223c6cg4583g4db6g826fg96be8d7e55c8" Source="Projectile_DisplayName.lsb" Key="Projectile_PyroclasticEruption_DisplayName">Pyroclastic Eruption</content>
-	<content contentuid="h0c6317fagac67g4c61g9b2bg0cfd79bc7e0c" Source="Projectile_DisplayName.lsb" Key="Projectile_PyroclasticRock_DisplayName">Fossil Strike</content>
+	<content contentuid="h37223c6cg4583g4db6g826fg96be8d7e55c8" Source="Projectile_DisplayName.lsb" Key="Projectile_PyroclasticEruption_DisplayName">Éruption pyroclastique</content>
+	<content contentuid="h0c6317fagac67g4c61g9b2bg0cfd79bc7e0c" Source="Projectile_DisplayName.lsb" Key="Projectile_PyroclasticRock_DisplayName">Frappe fossile</content>
 	<content contentuid="hce28ffa9gb560g410egb3deg4a81a330f1b4" Source="Projectile_DisplayName.lsb" Key="Projectile_SkyShot_DisplayName">Sky Shot</content>
 	<content contentuid="h928d97a9ga738g4da8g93d5g71e183d0f87a" Source="Projectile_DisplayName.lsb" Key="Projectile_Snipe_DisplayName">Assassiner</content>
 	<content contentuid="hf38755eeg4dafg4223ga3a3g9f375094cfa8" Source="Projectile_DisplayName.lsb" Key="Projectile_SpiderlingFlight_DisplayName">Tiny Leap</content>
 	<content contentuid="ha6d9ae4bgb884g44b6gb3e8g8edfd3cfffec" Source="Projectile_DisplayName.lsb" Key="Projectile_StaffOfMagus_DisplayName">Staff Of Magus</content>
 	<content contentuid="h8fdf1e00g8a23g4808ga330g4519dda5ccf7" Source="Projectile_DisplayName.lsb" Key="Projectile_TrapLaunched_DisplayName">Fireball</content>
-	<content contentuid="hc82aceb4gcac9g4bb9g9a1fg9a17e13a7c1f" Source="Projectile_StatsDescription.lsb" Key="Projectile_Chloroform_StatsDescription">Range: [2]</content>
+	<content contentuid="hc82aceb4gcac9g4bb9g9a1fg9a17e13a7c1f" Source="Projectile_StatsDescription.lsb" Key="Projectile_Chloroform_StatsDescription">Portée : [2]</content>
 	<content contentuid="hceaa55f7gbfdag4382g9eefgbf78aa9d5db7" Source="Projectile_StatsDescription.lsb" Key="Projectile_Grenade_Love_StatsDescription">Charmed status temporarily turns a target&apos;s allegiance around and is broken by friendly fire.</content>
 	<content contentuid="he0271557g096dg4251g852dgc7c58d371594" Source="Projectile_StatsDescription.lsb" Key="Projectile_Grenade_MindMaggot_StatsDescription">Mad characters attack the most convenient target, regardless of allegiance.</content>
-	<content contentuid="h4b74d39bge8e2g437cg93c7gd5db2606768c" Source="Projectile_StatsDescription.lsb" Key="Projectile_KCE_Shadowbolt_StatsDescription">Range: [2]</content>
+	<content contentuid="h4b74d39bge8e2g437cg93c7gd5db2606768c" Source="Projectile_StatsDescription.lsb" Key="Projectile_KCE_Shadowbolt_StatsDescription">Portée : [2]</content>
 	<content contentuid="ha4206053g28b5g4a81g8db7g0acc3d57916c" Source="Projectile_StatsDescription.lsb" Key="Projectile_StaffOfMagus_StatsDescription">Range: [2]&lt;br&gt;Launches a magical missile that inherits the power and damage type of the staff. The better the staff, the more damage this spell sows. Can target terrain.</content>
 	<content contentuid="h6a3e0e4bg4646g46fbga58dg32bf8f54e35d" Source="ProjectileStrike_Description.lsb" Key="ProjectileStrike_HailStrike_Description">Icicles fall from the sky, chilling enemies and dealing [1]. They create Ice surfaces where they hit the ground.</content>
 	<content contentuid="hbf79b81egf496g4131gb11ag9ba642f39dde" Source="ProjectileStrike_DisplayName.lsb" Key="ProjectileStrike_HailStrike_DisplayName">Hail Strike</content>
@@ -845,7 +845,7 @@
 	<content contentuid="h9a6fc323gfd29g4435gb237g6491d89ba9d8" Source="Rain_StatsDescription.lsb" Key="Rain_Blood_StatsDescription">Radius: [1]&lt;br&gt;Duration: [2]</content>
 	<content contentuid="ha7ff8436g93d0g499egb600g0699aebda0f7" Source="Rush_Description.lsb" Key="Rush_BatteringRam_Description">Rush forward in a straight line, to a point far away, hitting all enemies in your path with [1] and applying Knocked Down.</content>
 	<content contentuid="hfe1587eeg8e9bg442dg8e4dgfb02c05bc4ff" Source="Rush_DisplayName.lsb" Key="Rush_BatteringRam_DisplayName">Battering Ram</content>
-	<content contentuid="ha59faf39g0c30g42e6gb419gbfd10aae350a" Source="Rush_StatsDescription.lsb" Key="Rush_BatteringRam_StatsDescription">Range: [2]</content>
+	<content contentuid="ha59faf39g0c30g42e6gb419gbfd10aae350a" Source="Rush_StatsDescription.lsb" Key="Rush_BatteringRam_StatsDescription">Portée : [2]</content>
 	<content contentuid="h64f9a476g018cg4754ga190gd883820b39a1" Source="Shout_Description.lsb" Key="Shout_Adrenaline_Description">Borrow Action Points from your next turn.</content>
 	<content contentuid="h86d45c0fg9a5bg43ebg9524g8e4551f4074d" Source="Shout_Description.lsb" Key="Shout_BreakTheShackles_Description">Remove the following negative status effects from yourself: Slowed, Crippled, Chilled, Snap Frozen, Shocked, Suffocating, Atrophy, Diseased, Infectious Diseased, Silence, Plagued, Shackles of Pain, Ossified, Knocked Down, Stunned, Mad, Charmed and Terrified.</content>
 	<content contentuid="h64899716gced8g468bg9bf4gcd66eb411ded" Source="Shout_Description.lsb" Key="Shout_ChameleonSkin_Description">Grants you the power to blend in with any environment as if Invisible.</content>
