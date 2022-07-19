@@ -151,7 +151,7 @@
 	<content contentuid="h10f91de7gd01fg40cbgaf08g4cfb4b8d8ba8" Source="KCE_LocaleOverrides.lsb" Key="Shout_MedusaHead_KCE_Description">Snakes grow out of your head, giving you a Petrifying aura and the Petrifying Visage skill. Incompatible with Bull Horns.</content>
 	<content contentuid="h55e9ea62g1928g4355gbc0dgab60ce735802" Source="KCE_LocaleOverrides.lsb" Key="Shout_MedusaHead_KCE_DisplayName">Medusa Head</content>
 	<content contentuid="h901c6318g09f3g4248g9810gfcde77e3ae8e" Source="KCE_LocaleOverrides.lsb" Key="Shout_MendMetal_KCE_Description">Allies near to you start slowly regenerating Physical Armour.</content>
-	<content contentuid="h229d26a7ge4c3g4bf3gadcbg6a4dfcbf33ef" Source="KCE_LocaleOverrides.lsb" Key="Shout_MendMetal_KCE_DisplayName">Mend Metal</content>
+	<content contentuid="h229d26a7ge4c3g4bf3gadcbg6a4dfcbf33ef" Source="KCE_LocaleOverrides.lsb" Key="Shout_MendMetal_KCE_DisplayName">Torsion du métal</content>
 	<content contentuid="hee2c6acdg22f7g4f56g91b3g5a5d3babff1d" Source="KCE_LocaleOverrides.lsb" Key="Shout_PetrifyingVisage_KCE_Description">Deal [1] and Petrify enemies around you.</content>
 	<content contentuid="h25fafbd6gf879g4353gaf74g3d475b0212cb" Source="KCE_LocaleOverrides.lsb" Key="Shout_PetrifyingVisage_KCE_DisplayName">Petrifying Visage</content>
 	<content contentuid="h2a303015g9214g44c3gabb7ga97f61a7ff1a" Source="KCE_LocaleOverrides.lsb" Key="Shout_PlayDead_KCE_Description">Fool enemies into thinking you&apos;re dead. Cooldown of skills will be paused. Any action you take will cancel this status.</content>
@@ -190,7 +190,7 @@
 	<content contentuid="h3240460dgd250g435bg9ebegc1682089c5ed" Source="KCE_LocaleOverrides.lsb" Key="Target_CorpseExplosion_KCE_Description">Explode target corpse, dealing physical damage in the area.</content>
 	<content contentuid="h92a2b6feg0fdcg4d03g9879g913a8f45e272" Source="KCE_LocaleOverrides.lsb" Key="Target_CorpseExplosion_KCE_DisplayName">Corpse Explosion</content>
 	<content contentuid="h49b98935gaa0dg4d2dg826eg8ed389e68e13" Source="KCE_LocaleOverrides.lsb" Key="Target_CorrosiveTouch_KCE_Description">Destroy [1] on target character, and set Acid status.</content>
-	<content contentuid="hbe08bb9dg867bg4d16g8fa5gb69f8257c1ca" Source="KCE_LocaleOverrides.lsb" Key="Target_CorrosiveTouch_KCE_DisplayName">Corrosive Touch</content>
+	<content contentuid="hbe08bb9dg867bg4d16g8fa5gb69f8257c1ca" Source="KCE_LocaleOverrides.lsb" Key="Target_CorrosiveTouch_KCE_DisplayName">Toucher corrosif</content>
 	<content contentuid="h14888caagb68cg41c1gbbfcgc0e8ac7fdd0d" Source="KCE_LocaleOverrides.lsb" Key="Target_CripplingBlow_KCE_Description">Cripple the target with a sweeping blow, and all characters around it. Deals [1].</content>
 	<content contentuid="hf827c53ege83cg44afgaaacge92cb957fdf4" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathsDoor_KCE_Description">For 2 turns, your target character&apos;s Vitality cannot be reduced below 1 point, keeping them alive against all odds. If the target is a summon, their lifetime will be prolonged for the duration.</content>
 	<content contentuid="h5c8a08a1g4961g4b0agb50cgae9c033a4067" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathsDoor_KCE_DisplayName">Living on the Edge</content>
@@ -882,7 +882,7 @@
 	<content contentuid="hfd8e67cegee7fg4a77g9200gd588e2b31c57" Source="Shout_DisplayName.lsb" Key="Shout_GuardianAngel_DisplayName">Guardian Angel</content>
 	<content contentuid="h510cbd8eg0221g4076gbd09gcaa74a5cc946" Source="Shout_DisplayName.lsb" Key="Shout_IceSkin_DisplayName">Ice Skin</content>
 	<content contentuid="h622f4998g88c5g429fgb1fdg4324c2c801e9" Source="Shout_DisplayName.lsb" Key="Shout_JellyfishSkin_DisplayName">Jellyfish Skin</content>
-	<content contentuid="h38365024g7289g4927g82f5gbaa07d8d9f7e" Source="Shout_DisplayName.lsb" Key="Shout_KCE_ArmorTest_DisplayName">Reactive Armour</content>
+	<content contentuid="h38365024g7289g4927g82f5gbaa07d8d9f7e" Source="Shout_DisplayName.lsb" Key="Shout_KCE_ArmorTest_DisplayName">Armure réactive</content>
 	<content contentuid="h41523abfg73cag46c8ga144gd808134820e3" Source="Shout_DisplayName.lsb" Key="Shout_KCE_BreakSilence_DisplayName">Undo Mute</content>
 	<content contentuid="h70fac8e0g1c73g4f89ga872g763ea9934b26" Source="Shout_DisplayName.lsb" Key="Shout_MassCleanseWounds_DisplayName">Mass Cleanse Wounds</content>
 	<content contentuid="hc23ba84ag6accg4f82g83e2gfd61a77dd62f" Source="Shout_DisplayName.lsb" Key="Shout_MedusaHead_DisplayName">Medusa Head</content>
@@ -1098,7 +1098,7 @@
 	<content contentuid="h74c31b8cg3e96g49b7gbe17g5ec1f9e77ff9" Source="Status_HEAL_DisplayName.lsb" Key="FIRST_AID_DisplayName">Premiers secours</content>
 	<content contentuid="h66d634b5gdcd5g41f1g92d4g215b88af5edc" Source="Status_HEAL_DisplayName.lsb" Key="KCE_PERSEVERANCE_DisplayName">Perseverance</content>
 	<content contentuid="h28964d6bg5f68g4ceeg88ccg38a537028710" Source="Status_HEAL_DisplayName.lsb" Key="KCE_TORTURERHEAL_DisplayName">Torturer</content>
-	<content contentuid="h25e24595gf2ceg4f17ga61dg636328dbf485" Source="Status_HEAL_DisplayName.lsb" Key="OIL_CARAPACE_DisplayName">Oily Carapace</content>
+	<content contentuid="h25e24595gf2ceg4f17ga61dg636328dbf485" Source="Status_HEAL_DisplayName.lsb" Key="OIL_CARAPACE_DisplayName">Carapace huileuse</content>
 	<content contentuid="hdca2363cgef19g43c8ga677gef310aaaf0a6" Source="Status_HEAL_DisplayName.lsb" Key="POST_MAGIC_CONTROL_DisplayName">Perseverance</content>
 	<content contentuid="h35e5d053g14a0g4f81g9ef2g656ab9cfdf71" Source="Status_HEAL_DisplayName.lsb" Key="POST_PHYS_CONTROL_DisplayName">Perseverance</content>
 	<content contentuid="hc0370945gea08g4b09g87b1gc4344bd1b2e4" Source="Status_HEALING_Description.lsb" Key="KCE_FNX_BEARENDURANCE_HEAL_Description">Healing [1] per turn and benefiting from increased armour.</content>
@@ -1197,7 +1197,7 @@
 	<content contentuid="haa3937e2gee47g4928gb90egf87f6573a4d8" Source="Target_DisplayName.lsb" Key="Target_ChickenTouch_DisplayName">Chicken Claw</content>
 	<content contentuid="hb9e005beg30a8g4ffagaf44gb0ce2df1887c" Source="Target_DisplayName.lsb" Key="Target_CleanseWounds_DisplayName">Cleanse Wounds</content>
 	<content contentuid="h9d02407cg3c7cg465dg841fg991c4a2b5823" Source="Target_DisplayName.lsb" Key="Target_CorpseExplosion_DisplayName">Corpse Explosion</content>
-	<content contentuid="h0a0279f6ga346g4f43gaec4g2a83011836db" Source="Target_DisplayName.lsb" Key="Target_CorrosiveTouch_DisplayName">Corrosive Touch</content>
+	<content contentuid="h0a0279f6ga346g4f43gaec4g2a83011836db" Source="Target_DisplayName.lsb" Key="Target_CorrosiveTouch_DisplayName">Toucher corrosif</content>
 	<content contentuid="h79b80a34gd725g4ad7g95e0g4869860c099d" Source="Target_DisplayName.lsb" Key="Target_CripplingBlow_DisplayName">Crippling Blow</content>
 	<content contentuid="h26ddcd28g2c07g4464gb667g10b59b604aeb" Source="Target_DisplayName.lsb" Key="Target_DeathsDoor_DisplayName">Living on the Edge</content>
 	<content contentuid="hcb1a5debgf8d4g4521ga8f3gef56d7df6686" Source="Target_DisplayName.lsb" Key="Target_DeathWish_DisplayName">Death Wish</content>
