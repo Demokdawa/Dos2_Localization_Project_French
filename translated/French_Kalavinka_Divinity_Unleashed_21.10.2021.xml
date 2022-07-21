@@ -180,7 +180,7 @@
 	<content contentuid="h22a39843gf968g4212g851dg6e121235fa85" Source="KCE_LocaleOverrides.lsb" Key="Target_Bless_KCE_Description">Bless target character or surface.</content>
 	<content contentuid="h75561f8bg681bg460egb7e5g72c50ef09c30" Source="KCE_LocaleOverrides.lsb" Key="Target_Bless_KCE_DisplayName">Bless</content>
 	<content contentuid="hb32998a5ga02bg4e02ga31fg5cece1e08c18" Source="KCE_LocaleOverrides.lsb" Key="Target_BloodBubble_KCE_Description">Target character consumes blood surfaces around them, restoring Vitality. The more blood, the more they will be healed!</content>
-	<content contentuid="h5648cd05g6993g4e8cg9ef7gdb5f3a06bbfd" Source="KCE_LocaleOverrides.lsb" Key="Target_BloodBubble_KCE_DisplayName">Blood Sucker</content>
+	<content contentuid="h5648cd05g6993g4e8cg9ef7gdb5f3a06bbfd" Source="KCE_LocaleOverrides.lsb" Key="Target_BloodBubble_KCE_DisplayName">Vampirisme</content>
 	<content contentuid="hb4f06a3dga4a9g4a6ag8113g26bdb56f7d69" Source="KCE_LocaleOverrides.lsb" Key="Target_Charm_KCE_Description">Charm target non-allied character, causing them to join your side in combat for the duration of the status.</content>
 	<content contentuid="h14434711gdcb8g4f6ag8067g110d15624c81" Source="KCE_LocaleOverrides.lsb" Key="Target_Charm_KCE_DisplayName">Dominate Mind</content>
 	<content contentuid="h5fe45addgaf21g4344gbdc0ge3b11386064a" Source="KCE_LocaleOverrides.lsb" Key="Target_ChickenTouch_KCE_Description">Turn the target character into a chicken. Squawk!</content>
@@ -193,9 +193,9 @@
 	<content contentuid="hbe08bb9dg867bg4d16g8fa5gb69f8257c1ca" Source="KCE_LocaleOverrides.lsb" Key="Target_CorrosiveTouch_KCE_DisplayName">Toucher corrosif</content>
 	<content contentuid="h14888caagb68cg41c1gbbfcgc0e8ac7fdd0d" Source="KCE_LocaleOverrides.lsb" Key="Target_CripplingBlow_KCE_Description">Cripple the target with a sweeping blow, and all characters around it. Deals [1].</content>
 	<content contentuid="hf827c53ege83cg44afgaaacge92cb957fdf4" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathsDoor_KCE_Description">For 2 turns, your target character&apos;s Vitality cannot be reduced below 1 point, keeping them alive against all odds. If the target is a summon, their lifetime will be prolonged for the duration.</content>
-	<content contentuid="h5c8a08a1g4961g4b0agb50cgae9c033a4067" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathsDoor_KCE_DisplayName">Living on the Edge</content>
+	<content contentuid="h5c8a08a1g4961g4b0agb50cgae9c033a4067" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathsDoor_KCE_DisplayName">Trompe-la-mort</content>
 	<content contentuid="h1fcdec30g3e93g41ddgb3f7gabd9dfeca7f5" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathWish_KCE_Description">Target character receives a damage bonus equal to the percentage of their missing Vitality. For example, a character with 30% Vitality will gain a 70% damage bonus.</content>
-	<content contentuid="hb797c510gf092g42cdg87efgdafce33fe91e" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathWish_KCE_DisplayName">Death Wish</content>
+	<content contentuid="hb797c510gf092g42cdg87efgdafce33fe91e" Source="KCE_LocaleOverrides.lsb" Key="Target_DeathWish_KCE_DisplayName">Désir de mort</content>
 	<content contentuid="h5f2309f8g4a47g4562gbfefg3e5348905634" Source="KCE_LocaleOverrides.lsb" Key="Target_DemonicBargain_KCE_Description">Exchange Vitality percentages with target character. </content>
 	<content contentuid="h946b8e88ge166g4f20gaeeag1cdeebc3f771" Source="KCE_LocaleOverrides.lsb" Key="Target_DemonicBargain_KCE_DisplayName">Forced Exchange</content>
 	<content contentuid="hd93c82b0g1650g4a69gb75dg52dc7f02bca0" Source="KCE_LocaleOverrides.lsb" Key="Target_DemonicStare_KCE_Description">Drain [1] from target character and gain that amount for yourself.</content>
@@ -218,7 +218,7 @@
 	<content contentuid="h44465897g5bd3g4d45g9f9cgd7e37de973eb" Source="KCE_LocaleOverrides.lsb" Key="Target_MaddeningSong_KCE_Description">Sing, causing enemies in the target area to become Mad. Maddened characters will attack those nearest them, regardless of alignment.</content>
 	<content contentuid="h4f18d65dg7d82g452eg813fg27ac18d1c0c5" Source="KCE_LocaleOverrides.lsb" Key="Target_MaddeningSong_KCE_DisplayName">Maddening Song</content>
 	<content contentuid="hdb44dd0eg3c2bg465cg9829gf6ef88f34bfc" Source="KCE_LocaleOverrides.lsb" Key="Target_MosquitoSwarm_KCE_Description">Unleash a swarm of giant mosquitoes to suck the blood from your enemies, dealing [1] and healing yourself.</content>
-	<content contentuid="hbeb47534gec4ag4917g9ef1gea70cf41da7c" Source="KCE_LocaleOverrides.lsb" Key="Target_MosquitoSwarm_KCE_DisplayName">Mosquito Swarm</content>
+	<content contentuid="hbeb47534gec4ag4917g9ef1gea70cf41da7c" Source="KCE_LocaleOverrides.lsb" Key="Target_MosquitoSwarm_KCE_DisplayName">Nuée de moustiques</content>
 	<content contentuid="h10642842g80f8g40a9g98e3gab17916df7a5" Source="KCE_LocaleOverrides.lsb" Key="Target_Overpower_KCE_Description">Deal [1]. If your Physical Armour is higher than your opponent&apos;s, destroy all their Physical Armour. Can set Knocked Down.</content>
 	<content contentuid="h2f593b71gb937g4fcegb85fg783297f2b34b" Source="KCE_LocaleOverrides.lsb" Key="Target_Overpower_KCE_DisplayName">Overpower</content>
 	<content contentuid="h15c252a1gcd4dg4e08gb8cfg52b37d88b03a" Source="KCE_LocaleOverrides.lsb" Key="Target_PetrifyingTouch_KCE_Description">Turn a nearby target to stone, incapacitating it. Deal [1]. Removes Bleeding, Burning, Poisoned, and Crippled.</content>
@@ -630,7 +630,7 @@
 	<content contentuid="h3ff8248bga1a7g4f8fg99bfg7fedd9447509" Source="Potion.lsb" Key="Stats_KCE_Strength98">Strength</content>
 	<content contentuid="ha5080c50gbe3eg4914gb60eg9cd7396a9ef8" Source="Potion.lsb" Key="Stats_KCE_Strength99">Strength</content>
 	<content contentuid="hb72e3eccg3bbbg4a49gb19fgc1117554c28a" Source="Potion.lsb" Key="Stats_KCE_Stunned">Stunned</content>
-	<content contentuid="hdbd9881bg38c6g4b52gb88dg4c8666d450e8" Source="Potion.lsb" Key="Stats_KCE_Transfixed">Transfixed</content>
+	<content contentuid="hdbd9881bg38c6g4b52gb88dg4c8666d450e8" Source="Potion.lsb" Key="Stats_KCE_Transfixed">Médusé</content>
 	<content contentuid="hb10a2231g3744g49ccgb1d3g145c3e6e6719" Source="Potion.lsb" Key="Stats_KCE_Warfare0">Warfare</content>
 	<content contentuid="h62e65b44g6887g40beg9e88gd53584879ff2" Source="Potion.lsb" Key="Stats_KCE_Warfare1">Warfare</content>
 	<content contentuid="ha23ff96bga62dg41dfg85dbgcfb9c215d6f9" Source="Potion.lsb" Key="Stats_KCE_Warfare10">Warfare</content>
@@ -1058,7 +1058,7 @@
 	<content contentuid="h60d865bcgff69g41cagb5aag2af719ca6a81" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_TAUNT_AURA_DisplayName">Taunt Aura</content>
 	<content contentuid="h9192f8adg9f56g4922gb269g6fe6ffc199df" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_TAUNTED_DisplayName">Taunted</content>
 	<content contentuid="h9208bc2bgf61dg4749g95c4gcf769c63a982" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_TESTARMOUR_DisplayName">Test</content>
-	<content contentuid="h8a376d6dgf2dag4615g8d68g5fbf48dcd261" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_TRANSFIXED_DisplayName">Transfixed</content>
+	<content contentuid="h8a376d6dgf2dag4615g8d68g5fbf48dcd261" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_TRANSFIXED_DisplayName">Médusé</content>
 	<content contentuid="hf0a4859dgffa1g4dc2g8ba8g0a233e9c36fc" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_WARFARE_FEELER_DisplayName">Warfare Aura Feeler</content>
 	<content contentuid="h3e34feb5g737eg4154g91e3g1b997c7012b3" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_WARFARECHECK_AURA_DisplayName">Warfare Aura HIDDEN</content>
 	<content contentuid="hfb810d3bg770eg4662gb7eagd021c692c6a2" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_WHATARUSH_DisplayName">What A Rush</content>
@@ -1078,7 +1078,7 @@
 	<content contentuid="hb6dded91g2c9eg428fg8e74g7b0b410e509d" Source="Status_DAMAGE_Description.lsb" Key="SUFFOCATING_Description">Deals [1] each turn and reduces Magic Armour.</content>
 	<content contentuid="h447831e1gb4b7g4a4eg9af2g9e613e6c9c5f" Source="Status_DAMAGE_DisplayName.lsb" Key="BLEEDING_DisplayName">Bleeding</content>
 	<content contentuid="he8ed1a93g6611g4039g9975gc67486fa982e" Source="Status_DAMAGE_DisplayName.lsb" Key="BURNING_DisplayName">Burning</content>
-	<content contentuid="h46757c80g8807g4e95g8b8cgd72c9b53a5c1" Source="Status_DAMAGE_DisplayName.lsb" Key="DEATH_WISH_DisplayName">Death Wish</content>
+	<content contentuid="h46757c80g8807g4e95g8b8cgd72c9b53a5c1" Source="Status_DAMAGE_DisplayName.lsb" Key="DEATH_WISH_DisplayName">Désir de mort</content>
 	<content contentuid="h210a6c3aga2a5g4d05g87dfgb33e89a99470" Source="Status_DAMAGE_DisplayName.lsb" Key="ENTANGLED_DisplayName">Entangled</content>
 	<content contentuid="hb60c8134ga471g4a85ga0b5g6db339af98dc" Source="Status_DAMAGE_DisplayName.lsb" Key="KCE_DOTTEST_DisplayName">Poisoned</content>
 	<content contentuid="hbc361447gc1a8g4444gaeaeg2964f36b6d84" Source="Status_DAMAGE_DisplayName.lsb" Key="KCE_FLESH_SAC_DisplayName">Flesh Sacrifice</content>
@@ -1192,15 +1192,15 @@
 	<content contentuid="hc948658fgb549g4214g9dc2gf7047de80158" Source="Target_DisplayName.lsb" Key="Target_Apportation_DisplayName">Apportation</content>
 	<content contentuid="h43dac822gd706g4e1dga255g69f1f714294f" Source="Target_DisplayName.lsb" Key="Target_ArcaneStitch_DisplayName">Arcane Stitch</content>
 	<content contentuid="hfb82c86dge62ag493dgb7c2gc0558990e7f9" Source="Target_DisplayName.lsb" Key="Target_Bless_DisplayName">Bless</content>
-	<content contentuid="hbe657c9eg38e6g471fg953cg1fa2106d6ebc" Source="Target_DisplayName.lsb" Key="Target_BloodBubble_DisplayName">Blood Sucker</content>
+	<content contentuid="hbe657c9eg38e6g471fg953cg1fa2106d6ebc" Source="Target_DisplayName.lsb" Key="Target_BloodBubble_DisplayName">Vampirisme</content>
 	<content contentuid="hb28d05ccgb703g48c1gb485g42cc4984f981" Source="Target_DisplayName.lsb" Key="Target_Charm_DisplayName">Dominate Mind</content>
 	<content contentuid="haa3937e2gee47g4928gb90egf87f6573a4d8" Source="Target_DisplayName.lsb" Key="Target_ChickenTouch_DisplayName">Chicken Claw</content>
 	<content contentuid="hb9e005beg30a8g4ffagaf44gb0ce2df1887c" Source="Target_DisplayName.lsb" Key="Target_CleanseWounds_DisplayName">Cleanse Wounds</content>
 	<content contentuid="h9d02407cg3c7cg465dg841fg991c4a2b5823" Source="Target_DisplayName.lsb" Key="Target_CorpseExplosion_DisplayName">Corpse Explosion</content>
 	<content contentuid="h0a0279f6ga346g4f43gaec4g2a83011836db" Source="Target_DisplayName.lsb" Key="Target_CorrosiveTouch_DisplayName">Toucher corrosif</content>
 	<content contentuid="h79b80a34gd725g4ad7g95e0g4869860c099d" Source="Target_DisplayName.lsb" Key="Target_CripplingBlow_DisplayName">Crippling Blow</content>
-	<content contentuid="h26ddcd28g2c07g4464gb667g10b59b604aeb" Source="Target_DisplayName.lsb" Key="Target_DeathsDoor_DisplayName">Living on the Edge</content>
-	<content contentuid="hcb1a5debgf8d4g4521ga8f3gef56d7df6686" Source="Target_DisplayName.lsb" Key="Target_DeathWish_DisplayName">Death Wish</content>
+	<content contentuid="h26ddcd28g2c07g4464gb667g10b59b604aeb" Source="Target_DisplayName.lsb" Key="Target_DeathsDoor_DisplayName">Trompe-la-mort</content>
+	<content contentuid="hcb1a5debgf8d4g4521ga8f3gef56d7df6686" Source="Target_DisplayName.lsb" Key="Target_DeathWish_DisplayName">Désir de mort</content>
 	<content contentuid="h9f6e134dg0095g456bgb0f7gf40c658bf14c" Source="Target_DisplayName.lsb" Key="Target_DemonicBargain_DisplayName">Forced Exchange</content>
 	<content contentuid="hdead25beg40bag43c4g850eg873127ae8b66" Source="Target_DisplayName.lsb" Key="Target_DemonicStare_DisplayName">Demonic Stare</content>
 	<content contentuid="h469bc624g8f8dg4179gb9f0g4ba50af90c56" Source="Target_DisplayName.lsb" Key="Target_DualWieldingAttack_DisplayName">Flurry</content>
@@ -1209,7 +1209,7 @@
 	<content contentuid="h63a23df1g3ecfg4570g9affg198e7519a304" Source="Target_DisplayName.lsb" Key="Target_FirstAid_DisplayName">Premiers secours</content>
 	<content contentuid="hc65d5b79ga2bfg4087g871ega9397b935315" Source="Target_DisplayName.lsb" Key="Target_FlamingCrescendo_DisplayName">Flaming Crescendo</content>
 	<content contentuid="hf3448dedg10e2g4b1dg9aa3gc2ccfe94e8bd" Source="Target_DisplayName.lsb" Key="Target_GagOrder_DisplayName">Gag Order</content>
-	<content contentuid="h59eb7652g63fbg4e2cg8c7egaf68a8bdf260" Source="Target_DisplayName.lsb" Key="Target_GraspOfTheStarved_DisplayName">Grasp of the Starved</content>
+	<content contentuid="h59eb7652g63fbg4e2cg8c7egaf68a8bdf260" Source="Target_DisplayName.lsb" Key="Target_GraspOfTheStarved_DisplayName">Etreinte des affamés</content>
 	<content contentuid="h69eafc40g4f50g4ae2ga20bgeaff82746d1b" Source="Target_DisplayName.lsb" Key="Target_Harmony_DisplayName">Rallying Cry</content>
 	<content contentuid="h382ca7c4gae61g4af6g8fd8g2fc2d0dc7482" Source="Target_DisplayName.lsb" Key="Target_HeavyAttack_DisplayName">All In</content>
 	<content contentuid="h15e9b3bbgacd5g4182g8bb1gb6c524627534" Source="Target_DisplayName.lsb" Key="Target_InvisibilityTarget_DisplayName">Make Invisible</content>
@@ -1218,12 +1218,12 @@
 	<content contentuid="ha065a81eg4106g47b1gae79gf3de4d21a800" Source="Target_DisplayName.lsb" Key="Target_KCE_DebugArmour_DisplayName">Armour Test</content>
 	<content contentuid="h40cd8892ge093g4020gb4b4gd106d3452595" Source="Target_DisplayName.lsb" Key="Target_KCE_Magic_DisplayName">Test Skill</content>
 	<content contentuid="hed0f8fe8g2f2fg4644g8f52g7df76bb5932d" Source="Target_DisplayName.lsb" Key="Target_MaddeningSong_DisplayName">Maddening Song</content>
-	<content contentuid="h3928f155gc697g4515g99a9gfdb0b8265762" Source="Target_DisplayName.lsb" Key="Target_MosquitoSwarm_DisplayName">Mosquito Swarm</content>
+	<content contentuid="h3928f155gc697g4515g99a9gfdb0b8265762" Source="Target_DisplayName.lsb" Key="Target_MosquitoSwarm_DisplayName">Nuée de moustiques</content>
 	<content contentuid="h4009d3b9g5262g4c4ag8302g81390b0670c2" Source="Target_DisplayName.lsb" Key="Target_Overpower_DisplayName">Overpower</content>
 	<content contentuid="h44d9bce2g8de7g4b74g9842g417614bd2256" Source="Target_DisplayName.lsb" Key="Target_PetrifyingTouch_DisplayName">Petrifying Touch</content>
 	<content contentuid="h2d544698gbc7bg4840g8e3fg0eb4a2dd0360" Source="Target_DisplayName.lsb" Key="Target_PressureSpike_DisplayName">Pressure Spike</content>
 	<content contentuid="hfeb1587dgded1g4e91gb338g7a8559c48019" Source="Target_DisplayName.lsb" Key="Target_Restoration_DisplayName">Restoration</content>
-	<content contentuid="hf70ee75cg5763g4722gbc98ge137c479586e" Source="Target_DisplayName.lsb" Key="Target_ShacklesOfPain_DisplayName">Shackles Of Pain</content>
+	<content contentuid="hf70ee75cg5763g4722gbc98ge137c479586e" Source="Target_DisplayName.lsb" Key="Target_ShacklesOfPain_DisplayName">Chaînes de douleur</content>
 	<content contentuid="hdbf44f86gc321g4a41g90afg8012c8a37d77" Source="Target_DisplayName.lsb" Key="Target_ShockingTouch_DisplayName">Shocking Touch</content>
 	<content contentuid="hfe588d77gba4cg4b51ga04age9bcf3649ff1" Source="Target_DisplayName.lsb" Key="Target_StripResistance_DisplayName">Flay Skin</content>
 	<content contentuid="h6c134d17gdc9cg4a8fg85feg593c43d3e3bd" Source="Target_DisplayName.lsb" Key="Target_Supercharge_DisplayName">Supercharge</content>
@@ -1241,7 +1241,7 @@
 	<content contentuid="hc0426b26ge8a0g4c5cga9d3g063393286704" Source="Teleportation_StatsDescription.lsb" Key="Teleportation_FreeFall_StatsDescription">Target range: [2]&lt;br&gt;Target can be moved [3] away from its position.&lt;br&gt;&lt;br&gt;Select item or character first, then select its destination.</content>
 	<content contentuid="h37e6f8b6g4390g43efg815cgb160ddf4b529" Source="Tornado_Description.lsb" Key="Tornado_Air_Description">A tornado moves randomly around the battlefield, removing surfaces and revealing invisible characters. Also clears Invisible, Sneaking, Burning and Slowed.</content>
 	<content contentuid="h19a1cd76g448cg4cb6g9f3eg701da920a0ad" Source="Tornado_DisplayName.lsb" Key="Tornado_Air_DisplayName">Tornado</content>
-	<content contentuid="h569fbcc1g311fg48efg9e1bgf7adbaf56950" Source="Tornado_StatsDescription.lsb" Key="Tornado_Air_StatsDescription">Radius: [1]</content>
+	<content contentuid="h569fbcc1g311fg48efg9e1bgf7adbaf56950" Source="Tornado_StatsDescription.lsb" Key="Tornado_Air_StatsDescription">Rayon : [1]</content>
 	<content contentuid="h066da2d8gf14eg4302g8d4eg46469e662cd7" Source="Zone_Description.lsb" Key="Zone_TestRay_Description">|Line of intense heat that deals [1] damage to characters and leaves fire clouds behind.|</content>
 	<content contentuid="h1b8ad74bg341ag4781g9de6g672b85c1531c" Source="Zone_DisplayName.lsb" Key="Zone_TestRay_DisplayName">|Laser Ray|</content>
 </contentList>
