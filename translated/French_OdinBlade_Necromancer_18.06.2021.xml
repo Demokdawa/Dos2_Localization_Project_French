@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h550e83bfg149dg402ag8632geac408a649a7" Source="OdinNECRO_Vendor.lsj">This world is truly a dark place. I practise Necromancy to bring back innocents slain by the tyranny of war. However, like me, they are never &lt;i&gt;truly&lt;/i&gt; themselves again...</content>
-	<content contentuid="h6f1dbcffg6f5ag46e3gbc88gd245fbb1c88e" Source="OdinNECRO_Vendor.lsj">Je prends congé</content>
-	<content contentuid="h05568dc0gd773g41f1ga8ebgae7687a06238" Source="OdinNECRO_Vendor.lsj">Although this encounter has been brief, I am sure our paths will cross again. Tread carefully.</content>
+	<content contentuid="h550e83bfg149dg402ag8632geac408a649a7" Source="OdinNECRO_Vendor.lsj">Ce monde est vraiment un endroit sombre. Je pratique la Nécromancie pour ramener les innocents tués par la tyrannie de la guerre. Cependant, comme moi, ils ne seront jamais &lt;i&gt;vraiment&lt;/i&gt; eux-même à nouveau...</content>
+	<content contentuid="h6f1dbcffg6f5ag46e3gbc88gd245fbb1c88e" Source="OdinNECRO_Vendor.lsj">*Prendre congé*</content>
+	<content contentuid="h05568dc0gd773g41f1ga8ebgae7687a06238" Source="OdinNECRO_Vendor.lsj">Bien que cette rencontre fut brève, je suis sûr que nos chemins se croiseront encore. Avancez prudemment.</content>
 	<content contentuid="h6b4661dag011dg4421g8e69g5a97bfedfffa" Source="OdinNECRO_Vendor.lsj">Je voudrais commercer.</content>
-	<content contentuid="hfdce109cg5f54g427fg902fg2866d2bdf7e8" Source="_merged.lsf">A scroll is a one time use spell. Use to start casting!</content>
-	<content contentuid="h00664c77gf474g417aga11agec5b8ab70468" Source="_merged.lsf">Totems of the Necromancer Skillbook</content>
-	<content contentuid="hf40dd6edg4790g4996ga2bbg81ab14884f88" Source="_merged.lsf">Raise Bone Widow Scroll</content>
-	<content contentuid="h8fd51bf8gebaag4e00g8b48gef6de94594bb" Source="_merged.lsf">Raise Bone Widow Skillbook</content>
+	<content contentuid="hfdce109cg5f54g427fg902fg2866d2bdf7e8" Source="_merged.lsf">Un parchemin est un sort à usage unique. Utilisez-le pour commencer l'incantation !</content>
+	<content contentuid="h00664c77gf474g417aga11agec5b8ab70468" Source="_merged.lsf">Livre de compétence : Totems du nécromancien</content>
+	<content contentuid="hf40dd6edg4790g4996ga2bbg81ab14884f88" Source="_merged.lsf">Parchemin de Réveil de Veuve des ossements</content>
+	<content contentuid="h8fd51bf8gebaag4e00g8b48gef6de94594bb" Source="_merged.lsf">Livre de compétence : Réveil de Veuve des ossements</content>
 	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="_merged.lsf">Livres de compétence</content>
-	<content contentuid="h4165329fg6111g4e1ag9335g818e7bd59bd5" Source="_merged.lsf">Scrolls</content>
-	<content contentuid="h13b591a7g6281g4f13gb354gff711bd5ac7d" Source="03982b6f-f794-4802-904f-4e6644b4561c.lsf">Horrific Scream Skillbook</content>
+	<content contentuid="h4165329fg6111g4e1ag9335g818e7bd59bd5" Source="_merged.lsf">Parchemins</content>
+	<content contentuid="h13b591a7g6281g4f13gb354gff711bd5ac7d" Source="03982b6f-f794-4802-904f-4e6644b4561c.lsf">Livre de compétence : Cri horrifique</content>
 	<content contentuid="h1a82ecf0ged3ag4b27g9510gafb76ec0ecde" Source="241031ee-a0ff-447a-9252-1b7c8c7e9d84.lsf"/>
-	<content contentuid="h4057def5g8d4bg4392g99d8g0c1a102fa890" Source="2972e361-c066-443b-9218-bd06577824e8.lsf">Bone Crawler</content>
-	<content contentuid="h30356f4fg0105g4a68g8b79gc49b5700b34e" Source="2b99cf2b-bdae-4f1f-a960-aa7282d8ab99.lsf">Hemoplague Skillbook</content>
+	<content contentuid="h4057def5g8d4bg4392g99d8g0c1a102fa890" Source="2972e361-c066-443b-9218-bd06577824e8.lsf">Rampant osseux</content>
+	<content contentuid="h30356f4fg0105g4a68g8b79gc49b5700b34e" Source="2b99cf2b-bdae-4f1f-a960-aa7282d8ab99.lsf">Livre de compétence : Peste sanguine</content>
 	<content contentuid="h123ba891g5e41g40f4gbc58gf321edbd2708" Source="306c4167-990b-4166-aa0d-cfb75a392183.lsf"/>
-	<content contentuid="hc98717beg7415g455cga418g261e4708c307" Source="3d94d012-2b4e-4ba3-ae7a-c078df927e8b.lsf">Sanguine Torrent Skillbook</content>
-	<content contentuid="h7a5713b8g86d1g4dffg93c6g035f12886039" Source="46735b6d-3123-473e-b076-8c8bdab4fd2a.lsf">Undead Elementalist</content>
-	<content contentuid="he57244d9g8917g4f36ga8b3g00e3fc3ab069" Source="4797f4f4-662f-450a-9078-181e6135567e.lsf">Raise Undead Assassin Skillbook</content>
-	<content contentuid="h71e5ffbeg085dg4d40ga193gea5a4414ad85" Source="51fd2c0d-5629-4839-ad08-29141a54a80a.lsf">Drana, the Dark Artist</content>
-	<content contentuid="he79d6596gc9c3g47eagba90gae9f35c27435" Source="527bcba3-1a04-46c1-a021-d9d918dd3995.lsf">Dispel Undead Skillbook</content>
-	<content contentuid="hddc94b7fg2926g4e21ga44cg1b506bd53d61" Source="5603a27f-b215-4847-bb10-960a01dd9f69.lsf">Shallow Grave Skillbook</content>
-	<content contentuid="h9fa05c62g25e0g4d96g86dcgc1b4f9b0cbc9" Source="579cba83-a97e-4f5e-98a9-675514c0f681.lsf">Unearth Corpse Skillbook</content>
-	<content contentuid="h3b41ea94g14d6g4c8cga572g9969964822e5" Source="71e8cb66-d5c3-4ea8-aae4-a9a250f22cca.lsf">Unearthed Corpse</content>
+	<content contentuid="hc98717beg7415g455cga418g261e4708c307" Source="3d94d012-2b4e-4ba3-ae7a-c078df927e8b.lsf">Livre de compétence : Torrent sanguin</content>
+	<content contentuid="h7a5713b8g86d1g4dffg93c6g035f12886039" Source="46735b6d-3123-473e-b076-8c8bdab4fd2a.lsf">Elémentaliste mort-vivant</content>
+	<content contentuid="he57244d9g8917g4f36ga8b3g00e3fc3ab069" Source="4797f4f4-662f-450a-9078-181e6135567e.lsf">Livre de compétence : Réveil d'Assassin Mort-vivant</content>
+	<content contentuid="h71e5ffbeg085dg4d40ga193gea5a4414ad85" Source="51fd2c0d-5629-4839-ad08-29141a54a80a.lsf">Drana, l'artiste des ténèbres</content>
+	<content contentuid="he79d6596gc9c3g47eagba90gae9f35c27435" Source="527bcba3-1a04-46c1-a021-d9d918dd3995.lsf">Livre de compétence : Révocation de mort-Vivant</content>
+	<content contentuid="hddc94b7fg2926g4e21ga44cg1b506bd53d61" Source="5603a27f-b215-4847-bb10-960a01dd9f69.lsf">Livre de compétence : Tombe de fortune</content>
+	<content contentuid="h9fa05c62g25e0g4d96g86dcgc1b4f9b0cbc9" Source="579cba83-a97e-4f5e-98a9-675514c0f681.lsf">Livre de compétence : Profanation</content>
+	<content contentuid="h3b41ea94g14d6g4c8cga572g9969964822e5" Source="71e8cb66-d5c3-4ea8-aae4-a9a250f22cca.lsf">Cadavre profané</content>
 	<content contentuid="hfeccb8bbgf99fg4028gb187g607c18c2cbaa" Source="71e8cb66-d5c3-4ea8-aae4-a9a250f22cca.lsf"/>
-	<content contentuid="he64c054bg9229g4047ga1fcg94d1ae00b04b" Source="7218f911-0e10-434c-b37d-be41b6c0d980.lsf">Raise Undead Warrior Skillbook</content>
-	<content contentuid="ha2d56fd0gaec8g4815g86e8gd2fa3110cc9f" Source="73af5d2c-bf0d-405c-a67e-f33609ec61fd.lsf">Blood Barrage Skillbook</content>
-	<content contentuid="h36007203ge987g4f4aga2eeg353e48ed49f4" Source="77926f3b-c652-4ce9-8a04-c8edc4aedef5.lsf">Raise Bone Golem Skillbook</content>
-	<content contentuid="h99ca0c9fg3921g4480ga0d4g47da1062861c" Source="8433f25f-e382-48fa-89ac-3ea36a98d2ff.lsf">Frenzy of the Restless Skillbook</content>
-	<content contentuid="hd451a036gd798g463cgb906gf90b2d30e9ca" Source="86e92646-3f52-4424-881a-5e33adc078fa.lsf">Coagulated Armour Skillbook</content>
-	<content contentuid="h2d00c947g030cg445agab5dg4568a41ebf68" Source="8ef41b0e-b1a2-4828-8ccf-2bbe23a8e3f9.lsf">Witches Brew Skillbook</content>
+	<content contentuid="he64c054bg9229g4047ga1fcg94d1ae00b04b" Source="7218f911-0e10-434c-b37d-be41b6c0d980.lsf">Livre de compétence : Réveil de guerrier mort-Vivant</content>
+	<content contentuid="ha2d56fd0gaec8g4815g86e8gd2fa3110cc9f" Source="73af5d2c-bf0d-405c-a67e-f33609ec61fd.lsf">Livre de compétence : Barrage sanguin</content>
+	<content contentuid="h36007203ge987g4f4aga2eeg353e48ed49f4" Source="77926f3b-c652-4ce9-8a04-c8edc4aedef5.lsf">Livre de compétence : Réveil de Golem d'os</content>
+	<content contentuid="h99ca0c9fg3921g4480ga0d4g47da1062861c" Source="8433f25f-e382-48fa-89ac-3ea36a98d2ff.lsf">Livre de compétence : Frénésie des sans-repos</content>
+	<content contentuid="hd451a036gd798g463cgb906gf90b2d30e9ca" Source="86e92646-3f52-4424-881a-5e33adc078fa.lsf">Livre de compétence : Armure coagulée</content>
+	<content contentuid="h2d00c947g030cg445agab5dg4568a41ebf68" Source="8ef41b0e-b1a2-4828-8ccf-2bbe23a8e3f9.lsf">Livre de compétence : Breuvage des sorcières</content>
 	<content contentuid="h2d8173f3g26c4g4e51g9ec1g3f546dba371d" Source="94547128-94d4-4a68-82e0-0deecb6dc38b.lsf"/>
-	<content contentuid="h773958aeg0cceg4560g9c88g4274b96c5c00" Source="961ec506-bcdd-4747-98d1-16246b459cd6.lsf">Arcane Volley Skillbook</content>
-	<content contentuid="h344c6011g9e49g44a2ga410gafdb828dba07" Source="9cfe4745-c02f-439f-b871-c06c7f5b3ea4.lsf">Bone Widow</content>
-	<content contentuid="hed5ef7f4g3103g40a7ga994g412de1406b07" Source="9daff4ad-d584-4196-9567-dabf64cd9f63.lsf">Translocate Skillbook</content>
+	<content contentuid="h773958aeg0cceg4560g9c88g4274b96c5c00" Source="961ec506-bcdd-4747-98d1-16246b459cd6.lsf">Livre de compétence : Volée arcanique</content>
+	<content contentuid="h344c6011g9e49g44a2ga410gafdb828dba07" Source="9cfe4745-c02f-439f-b871-c06c7f5b3ea4.lsf">Veuve des ossements</content>
+	<content contentuid="hed5ef7f4g3103g40a7ga994g412de1406b07" Source="9daff4ad-d584-4196-9567-dabf64cd9f63.lsf">Livre de compétence : Translocalisation</content>
 	<content contentuid="hbdfa8c52g5297g4172ga196gba111b0df77e" Source="a3ed8fb4-c24f-41ef-a552-94717654a628.lsf"/>
-	<content contentuid="hd585a9fcg594ag4a0ega9b0g48ae06f638f2" Source="a94b9ca1-a7c4-460f-baef-813d1fcc6c74.lsf">Bone Golem</content>
-	<content contentuid="hfeebfe58gc8fag4a4fg869fgc18eba7564d7" Source="b0d10cec-1361-40c8-82f7-477db855e4e1.lsf">Bloated Corpse</content>
-	<content contentuid="h7e2a0ecfg97e0g4313g8eb7gf33ac04c8ffa" Source="b4fb34e0-3fa3-449d-9b68-06cc6955e475.lsf">Undead Warrior</content>
-	<content contentuid="h8858bcedgcd8ag4574g93a1g3d497ad84d96" Source="b6711efd-7684-40d1-b758-4dd4f682d35f.lsf">Raise Undead Elementalist Skillbook</content>
-	<content contentuid="ha3e8aa04g4573g4d99ga9ffg602e3274a2e6" Source="b8f599a5-1465-4637-a417-fefa81a1f9cd.lsf">Bone Golem</content>
-	<content contentuid="h9dfb1865g8b02g4b84g975cgc9e0a40fb479" Source="cb9502d6-7a24-4b74-98be-9d810c0c3a9e.lsf">Ephemeral Interlude Skillbook</content>
+	<content contentuid="hd585a9fcg594ag4a0ega9b0g48ae06f638f2" Source="a94b9ca1-a7c4-460f-baef-813d1fcc6c74.lsf">Golem d'os</content>
+	<content contentuid="hfeebfe58gc8fag4a4fg869fgc18eba7564d7" Source="b0d10cec-1361-40c8-82f7-477db855e4e1.lsf">Cadavre boursouflé</content>
+	<content contentuid="h7e2a0ecfg97e0g4313g8eb7gf33ac04c8ffa" Source="b4fb34e0-3fa3-449d-9b68-06cc6955e475.lsf">Guerrier mort-vivant</content>
+	<content contentuid="h8858bcedgcd8ag4574g93a1g3d497ad84d96" Source="b6711efd-7684-40d1-b758-4dd4f682d35f.lsf">Livre de compétence : Réveil d'Elémentaliste mort-vivant</content>
+	<content contentuid="ha3e8aa04g4573g4d99ga9ffg602e3274a2e6" Source="b8f599a5-1465-4637-a417-fefa81a1f9cd.lsf">Golem d'os</content>
+	<content contentuid="h9dfb1865g8b02g4b84g975cgc9e0a40fb479" Source="cb9502d6-7a24-4b74-98be-9d810c0c3a9e.lsf">Livre de compétence : Entracte éphémère</content>
 	<content contentuid="h5d72cfb8g5489g494dg8142g57cf91b42846" Source="Cone_Description.lsb" Key="Cone_OdinNECRO_LocustPlague_Description">Locusts deal [1] to characters in a cone and set &lt;font color=&quot;#B823CB&quot;&gt;Decaying&lt;/font&gt;. &lt;br&gt;&lt;br&gt;The locusts remove &lt;font color=&apos;#5A9646&apos;&gt;Rested&lt;/font&gt; and &lt;font color=&quot;#4197e2&quot;&gt;Wet&lt;/font&gt; from all characters, and clear &lt;font color=&apos;#dbdbdb&apos;&gt;surfaces&lt;/font&gt; in their wake.&lt;br&gt;&lt;br&gt;Characters with &lt;font color=&quot;#B823CB&quot;&gt;Decaying&lt;/font&gt; take &lt;font color=&apos;#a8a8a8&apos;&gt;physical damage&lt;/font&gt; from healing spells and potions.</content>
 	<content contentuid="h2d1ffb09gd529g4d26gb295gbb0f6d12f4c6" Source="Cone_Description.lsb" Key="Cone_OdinNECRO_PathOfBones_Description">Sharp bones impale enemies in the area, dealing [1] and setting &lt;font color=&apos;#c80030&apos;&gt;Bleeding&lt;/font&gt;. &lt;br&gt;&lt;br&gt;Sets &lt;font color=&apos;#c80030&apos;&gt;Crippled&lt;/font&gt;, preventing movement.</content>
 	<content contentuid="h2cf49028g919cg4291gad0cg24fdb27cb75c" Source="Cone_Description.lsb" Key="Cone_SilencingStare_Description">Destroy [1] on all &lt;font color=&apos;#aa3938&apos;&gt;enemies&lt;/font&gt; in a cone and &lt;font color=&quot;#c9aa58&quot;&gt;Transfix&lt;/font&gt; them, preventing them from taking action. &lt;br&gt;&lt;br&gt;Upon expiry, the target will gain immunity to &lt;font color=&quot;#c9aa58&quot;&gt;Terrified&lt;/font&gt; and &lt;font color=&quot;#c9aa58&quot;&gt;Transfixed&lt;/font&gt; for 1 turn.&lt;br&gt;&lt;br&gt;&lt;font color=&apos;#b841f4&apos;&gt;Hex damage&lt;/font&gt;: Deals [2]. &lt;font size=&apos;16&apos;&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;If the target has no &lt;font color=&apos;#188ede&apos;&gt;Magic Armour&lt;/font&gt; or if this skill destroys it, this skill deals additional &lt;font color=&apos;#b841f4&apos;&gt;Hex damage&lt;/font&gt;. This damage scales with &lt;font color=&apos;#40B606&apos;&gt;Intelligence&lt;/font&gt; and levels.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;</content>
-	<content contentuid="h646e9f11ge468g480bg8131gdf768599c30c" Source="Cone_DisplayName.lsb" Key="Cone_OdinNECRO_LocustPlague_DisplayName">Locust Plague</content>
-	<content contentuid="h78dfc84eg8e70g49bcg8584gc1b7f480ae37" Source="Cone_DisplayName.lsb" Key="Cone_OdinNECRO_PathOfBones_DisplayName">Path of Bones</content>
-	<content contentuid="hc7c16236g8a7bg4ef1g9ad6g4bc09865b862" Source="Cone_DisplayName.lsb" Key="Cone_SilencingStare_DisplayName">Ophidian Glare</content>
+	<content contentuid="h646e9f11ge468g480bg8131gdf768599c30c" Source="Cone_DisplayName.lsb" Key="Cone_OdinNECRO_LocustPlague_DisplayName">Peste acridienne</content>
+	<content contentuid="h78dfc84eg8e70g49bcg8584gc1b7f480ae37" Source="Cone_DisplayName.lsb" Key="Cone_OdinNECRO_PathOfBones_DisplayName">Sentier des Os</content>
+	<content contentuid="hc7c16236g8a7bg4ef1g9ad6g4bc09865b862" Source="Cone_DisplayName.lsb" Key="Cone_SilencingStare_DisplayName">Éclat ophidien</content>
 	<content contentuid="h72193cbbg835eg4dc3g8544gafd966ef8039" Source="Cone_StatsDescription.lsb" Key="Cone_OdinNECRO_LocustPlague_StatsDescription">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="hc93f1812gdc7ag473eg98b2g991aa430307f" Source="Cone_StatsDescription.lsb" Key="Cone_OdinNECRO_PathOfBones_StatsDescription">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="h5525b96fg1a36g41a8gbf58gb9279050aa32" Source="d11e4f7e-a9d8-4d98-bb45-ccc2a9335ad0.lsf">Zombie</content>
-	<content contentuid="hb63fb394g7486g44f5gab0cgfca780b8593e" Source="d5ae3203-deee-45fb-a7c3-94d1838b8f92.lsf">Arcane Punishment Skillbook</content>
-	<content contentuid="hba1a2342ga67cg41f1g9d9dg44ecad938655" Source="d6cbb8b5-294e-4b69-b9bc-b06243448380.lsf">Bloodletting Skillbook</content>
-	<content contentuid="h54904c36gbec2g4e24gb0c8gd454668457ee" Source="d7f0f587-a5c2-4096-bcbc-0e858eefe914.lsf">Oath of Desecration Skillbook</content>
-	<content contentuid="h9bda0524g8778g4193gb828gfdfc78118f31" Source="d9de9f4a-36e8-4000-bef9-e23573ed9329.lsf">Undead Assassin</content>
-	<content contentuid="h748da6b6gb6a0g4c64gbb69g0c5a42fe8419" Source="e80c6c51-4b60-498e-91ca-483084870b3c.lsf">Frog</content>
+	<content contentuid="hb63fb394g7486g44f5gab0cgfca780b8593e" Source="d5ae3203-deee-45fb-a7c3-94d1838b8f92.lsf">Livre de compétence : Punition des arcanes</content>
+	<content contentuid="hba1a2342ga67cg41f1g9d9dg44ecad938655" Source="d6cbb8b5-294e-4b69-b9bc-b06243448380.lsf">Livre de compétence : Saignée</content>
+	<content contentuid="h54904c36gbec2g4e24gb0c8gd454668457ee" Source="d7f0f587-a5c2-4096-bcbc-0e858eefe914.lsf">Livre de compétence : Serment de profanation</content>
+	<content contentuid="h9bda0524g8778g4193gb828gfdfc78118f31" Source="d9de9f4a-36e8-4000-bef9-e23573ed9329.lsf">Assassin mort-vivant</content>
+	<content contentuid="h748da6b6gb6a0g4c64gbb69g0c5a42fe8419" Source="e80c6c51-4b60-498e-91ca-483084870b3c.lsf">Grenouille</content>
 	<content contentuid="h262c78bag67a9g48e8g836agc21c79142a74" Source="e909c79e-3a97-4eb8-977e-5c76a018f6cc.lsf">Mystic Rupture Skillbook</content>
 	<content contentuid="h4a0a8d63gd0a5g4b86g94c8g0b8727069333" Source="f476153e-9e51-4dd4-92d3-907e9e2be222.lsf">Locust Plague Skillbook</content>
 	<content contentuid="h4f9bafb2g7f7dg4bfdg9943g8662aba00c87" Source="f8a20f2e-c92f-42d1-95f1-6c1201f144d7.lsf">Undead Overlord Skillbook</content>
 	<content contentuid="h922029eeg5d43g4143g9561gf22c3febd5ab" Source="faba573c-a985-4f09-8eaf-4f25cbc2f6bb.lsf">Mute Skillbook</content>
-	<content contentuid="h79aec4a6g9ca8g4898gad88gec11d15d248d" Source="OdinNECRO_Vendor.lsj">Although this encounter has been brief, I am sure our paths will cross again. Tread carefully.</content>
-	<content contentuid="habd5259ag590fg4999gbb2cgcea01da7656f" Source="OdinNECRO_Vendor.lsj">This world is truly a dark place. I practise Necromancy to bring back innocents slain by the tyranny of war. However, like me, they are never &lt;i&gt;truly&lt;/i&gt; themselves again...</content>
+	<content contentuid="h79aec4a6g9ca8g4898gad88gec11d15d248d" Source="OdinNECRO_Vendor.lsj">Bien que cette rencontre fut brève, je suis sûr que nos chemins se croiseront encore. Avancez prudemment.</content>
+	<content contentuid="habd5259ag590fg4999gbb2cgcea01da7656f" Source="OdinNECRO_Vendor.lsj">Ce monde est vraiment un endroit sombre. Je pratique la Nécromancie pour ramener les innocents tués par la tyrannie de la guerre. Cependant, comme moi, ils ne seront jamais &lt;i&gt;vraiment&lt;/i&gt; eux-même à nouveau...</content>
 	<content contentuid="h397abe22g729ag46b3ga5bag9cb5113944be" Source="OdinNECRO_Vendor.lsj">Je voudrais commercer.</content>
 	<content contentuid="h38682350ga82ag49a2g87ccgdbb0042893d5" Source="OdinNECRO_Vendor.lsj">Je prends congé</content>
 	<content contentuid="h5f7f8e46g971bg4a59g8cc7g35c72ffa9de1" Source="Projectile_Description.lsb" Key="Projectile_OdinNECRO_ArcaneVolley_Description">Launch 3 bolts of arcane energy towards targets, each destroying [1] on characters. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#b841f4&apos;&gt;Hex damage&lt;/font&gt;: Deals [2]. &lt;font size=&apos;16&apos;&gt;&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;If the target has no &lt;font color=&apos;#188ede&apos;&gt;Magic Armour&lt;/font&gt; or if this skill destroys it, this skill deals additional &lt;font color=&apos;#b841f4&apos;&gt;Hex damage&lt;/font&gt;. This damage scales with &lt;font color=&apos;#40B606&apos;&gt;Intelligence&lt;/font&gt; and levels.&lt;br&gt;---------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;</content>
@@ -169,5 +169,5 @@
 	<content contentuid="h2d30eea5g2f08g4a97ga4c1gc29ff720eaf4" Source="Teleportation_Description.lsb" Key="Teleportation_LastRites_Description">Suffer [1] to resurrect target &lt;font color=&apos;#88a25b&apos;&gt;ally&lt;/font&gt; to &lt;font color=&quot;#97fbff&quot;&gt;100% Vitality&lt;/font&gt;.</content>
 	<content contentuid="h2a645c4agbb15g4474g81f3g0873d261a989" Source="Teleportation_DisplayName.lsb" Key="Teleportation_LastRites_DisplayName">Last Rites</content>
 	<content contentuid="h324637a6g1506g4e43ga0cagdd48dbcaba63" Source="Zone_Description.lsb" Key="Zone_OdinNECRO_PathOfBones_Description">|Line of intense heat that deals [1] damage to characters and leaves fire clouds behind.|</content>
-	<content contentuid="h2e4484a5g06b0g40beg9ff4g40207f67d673" Source="Zone_DisplayName.lsb" Key="Zone_OdinNECRO_PathOfBones_DisplayName">Path of Bones</content>
+	<content contentuid="h2e4484a5g06b0g40beg9ff4g40207f67d673" Source="Zone_DisplayName.lsb" Key="Zone_OdinNECRO_PathOfBones_DisplayName">Sentier des Os</content>
 </contentList>
