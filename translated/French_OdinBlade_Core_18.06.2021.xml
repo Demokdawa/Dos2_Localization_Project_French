@@ -62,7 +62,7 @@
 	<content contentuid="h08a5f37bg92b7g4b28g8acag7c1da2ef5242" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_OVERLORD_INTERIM_Description">Character has &lt;font color=&apos;#7F25D4&apos;&gt;+3 Summon Count&lt;/font&gt;. &lt;br&gt;This status dissipates upon conjuring a &lt;font color=&apos;#88a25b&apos;&gt;Non-Undead&lt;/font&gt; &lt;font color=&apos;#7F25D4&apos;&gt;Summon&lt;/font&gt;.</content>
 	<content contentuid="ha65edc04gf98ag4efcg9a4fg67078023f12a" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_REANIMATOR_Description">The next time you kill a &lt;font color=&apos;#88a25b&apos;&gt;non-allied&lt;/font&gt; character, raise a &lt;font color=&apos;#7F25D4&apos;&gt;Totemic Zombie&lt;/font&gt;.</content>
 	<content contentuid="hd31fbb24geb83g41fbg9632g49d87832ec84" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_RUPTURE_Description">Resistances are lowered.</content>
-	<content contentuid="h4b028b02g45cdg40dagaddbg045af6565820" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_TRANSFIXED_IMMUNITY_Description">Character is immune to the &lt;font color=&apos;#C7A758&apos;&gt;Terrified&lt;/font&gt; and &lt;font color=&apos;#C7A758&apos;&gt;Transfixed&lt;/font&gt; statuses.</content>
+	<content contentuid="h4b028b02g45cdg40dagaddbg045af6565820" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_TRANSFIXED_IMMUNITY_Description">Le personnage est immunisé contre les états &lt;font color=&apos;#C7A758&apos;&gt;Terreur&lt;/font&gt; et &lt;font color=&apos;#C7A758&apos;&gt;Médusé&lt;/font&gt;.</content>
 	<content contentuid="h49f83ec4g62b5g4a45g9e43g246427ad34c7" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_Weapon_Overlay_Staves_Description">                                                                                                                                                             </content>
 	<content contentuid="hb0448e85gd8c5g4353gbb68gf7f93d970a92" Source="Status_CONSUME_Description.lsb" Key="OdinNECRO_Weapon_Overlay_Wands_Description">                                                                                                                                                             </content>
 	<content contentuid="heeac5fd6g5b68g4a22g9d56g8379ec80f5a2" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_BLAZING_Description">Mastery of flames at a cost of water weakness.</content>
@@ -141,13 +141,13 @@
 	<content contentuid="h6494d050g8082g49a2ga672gb363a07b9ae5" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_HEXSKILL_OPHIDIANGLARE_DisplayName">Hex</content>
 	<content contentuid="h044be3d0g5a70g4d9dg8bbfg60c7fbeebf76" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_HEXSKILL_WITCHESBREW_DisplayName">Hex</content>
 	<content contentuid="hc0ca3110gba22g4e92ga774ga7dd4d22507e" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_INFECTED_DisplayName">Infected</content>
-	<content contentuid="hac17bd50g6b01g4bdcg9d7dg49942f1619de" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_OATHOFDESECRATION_DisplayName">Oath of Desecration</content>
+	<content contentuid="hac17bd50g6b01g4bdcg9d7dg49942f1619de" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_OATHOFDESECRATION_DisplayName">Serment de profanation</content>
 	<content contentuid="h485f00f9gf776g46a1gbe6egd3b6dac0589d" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_OVERLORD_DisplayName">Overlord</content>
 	<content contentuid="h12639b01gf927g4647ga68bgc5ba99c888ce" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_OVERLORD_INTERIM_DisplayName">Overlord</content>
 	<content contentuid="h8bd5a442gdeecg42f2g9ff9g066ca6f9fb6b" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_OVERLORD_SUMMON_DisplayName">Overlord Minion</content>
 	<content contentuid="h80709682g220ag4db0g85ecgfdd97e9c4395" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_REANIMATOR_DisplayName">Reanimator</content>
 	<content contentuid="h1f4b6f6fgd180g43e3g860ag0f54a2d372e7" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_RUPTURE_DisplayName">Ruptured</content>
-	<content contentuid="h0b1269dfg1776g4236g97d0g3ad47aeeca49" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_TRANSFIXED_IMMUNITY_DisplayName">Fearless</content>
+	<content contentuid="h0b1269dfg1776g4236g97d0g3ad47aeeca49" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_TRANSFIXED_IMMUNITY_DisplayName">Sans peur</content>
 	<content contentuid="hc2d693f4g2864g4f4egadbeg78ecba869eb1" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_Weapon_Overlay_Staves_DisplayName">Bloodthirsty (+5% Life Steal)</content>
 	<content contentuid="h08fc696cgc5c4g4487gb7c5g1a435c86809b" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_Weapon_Overlay_Wands_DisplayName">Bloodthirsty (+5% Life Steal)</content>
 	<content contentuid="h19fa2d2ag1e29g476eg99d3ge459ea03b109" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_BLAZING_DisplayName">Blazing</content>
@@ -235,15 +235,15 @@
 	<content contentuid="h9ad8ac91ge0f6g4f8dg943age953da90142f" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_BLOODARMOUR">Blood Armour</content>
 	<content contentuid="h9d4dabc5gf05dg4239g9ef7gbd9a9aa99288" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_DESECRATE">Desecrated</content>
 	<content contentuid="ha4c72125g02e6g460bgb35fg41e6363c7f59" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_FRENZIED">Frenzied</content>
-	<content contentuid="hf4ca61e3g7bd3g4575g8950geca5c5f48807" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_OATHOFDESECRATION">Oath of Desecration</content>
+	<content contentuid="hf4ca61e3g7bd3g4575g8950geca5c5f48807" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_OATHOFDESECRATION">Serment de profanation</content>
 	<content contentuid="h63fd2d01g28c9g40a6ga527g18c710c10cbc" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_OVERLORD">Overlord</content>
 	<content contentuid="h87ab0534g04cdg4979g8e1dgdf6e18e30da8" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_OVERLORD_SUMMON">Overlord Minion</content>
 	<content contentuid="h3de082d2gc01cg49d3gadcag87262370589e" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_REANIMATOR">Reanimator</content>
 	<content contentuid="h8069346dg19b1g476dgafe9gf6f3a5657e50" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_RUPTURE">Ruptured</content>
-	<content contentuid="he7cf1788ge1d9g40e4g9e62g0a494871aeb3" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_TRANSFIXED">Transfixed</content>
-	<content contentuid="h162e94bag2347g442dg87fdgbef550342d0f" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_TRANSFIXED_IMMUNITY">Fearless</content>
+	<content contentuid="he7cf1788ge1d9g40e4g9e62g0a494871aeb3" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_TRANSFIXED">Médusé</content>
+	<content contentuid="h162e94bag2347g442dg87fdgbef550342d0f" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_TRANSFIXED_IMMUNITY">Sans peur</content>
 	<content contentuid="h7fc28f01g9cb8g4120g954bg2dc3eb9c52a9" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_WEAPON_VAMPIRISM">Bloodthirsty (+5% Life Steal)</content>
-	<content contentuid="hd0ab8244g56e7g4773g8ef8ga92767bc9705" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_WITCHESBREW">Witches Brew</content>
+	<content contentuid="hd0ab8244g56e7g4773g8ef8ga92767bc9705" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_WITCHESBREW">Breuvage des sorcières</content>
 	<content contentuid="hf774fbbbg87aag4461g8ea2gdc0e6a3052d2" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBlazing">Blazing</content>
 	<content contentuid="h442b4437ga2efg4911g93d5geccc0545ed87" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroFlamebelly">Flamebelly</content>
 	<content contentuid="h2ffc6d2ag9d2fg43a1g8672ga19b50550a9a" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroIncinerate">Incinerate</content>
@@ -343,8 +343,8 @@
 	<content contentuid="h9a349608g7b88g4d43gb22agb59d606a0a0b" Source="Status_HEAL_DisplayName.lsb" Key="CLEANSE_WOUNDS_DisplayName">Cleanse Wounds</content>
 	<content contentuid="h75034b63gc54cg417eg835dge53494c628e1" Source="Status_HEAL_DisplayName.lsb" Key="CRYOTHERAPY_DisplayName">Cryotherapy</content>
 	<content contentuid="h11031fd4g7a80g4cebgbe83gdc7ea5e6fa22" Source="Status_HEAL_DisplayName.lsb" Key="OdinGEO_SIPHONPOISON_DisplayName">Absorption du poison</content>
-	<content contentuid="h3fd80f4fg80beg493cgad4fg9a0241a1efab" Source="Status_HEAL_DisplayName.lsb" Key="OdinNECRO_HEAL_VAMP_10_DisplayName">Vampiric Touch</content>
-	<content contentuid="h861e2319g3334g4612g96c4ge054cb31555e" Source="Status_HEAL_DisplayName.lsb" Key="OdinNECRO_HEAL_VAMP_20_DisplayName">Vampiric Touch</content>
+	<content contentuid="h3fd80f4fg80beg493cgad4fg9a0241a1efab" Source="Status_HEAL_DisplayName.lsb" Key="OdinNECRO_HEAL_VAMP_10_DisplayName">Toucher vampirique</content>
+	<content contentuid="h861e2319g3334g4612g96c4ge054cb31555e" Source="Status_HEAL_DisplayName.lsb" Key="OdinNECRO_HEAL_VAMP_20_DisplayName">Toucher vampirique</content>
 	<content contentuid="h772fb36ag1331g44f6ga6f5g75ee56bc140f" Source="Status_HEAL_DisplayName.lsb" Key="OdinPyro_DEVOURFLAMES_DisplayName">Devour Flames</content>
 	<content contentuid="h20e87a42g723fg4c1bg8829g0b153972cb5e" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_AQUATHERAPY_DisplayName">Cryotherapy</content>
 	<content contentuid="h8bce021age05cg41a9gb6a4g59af762d0dae" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_EMINENCEHEAL_DisplayName">Eminence</content>
@@ -355,9 +355,9 @@
 	<content contentuid="h1aa4a2fbgf7eag4694g9c37gf3454e8454c9" Source="Status_HEALING_DisplayName.lsb" Key="OdinPyro_PHOENIXFIRE_HEALING_DisplayName">Cauterize</content>
 	<content contentuid="haa20c9bcgbfbdg48f7g9135g35a3cd19ad69" Source="Status_HEALING_DisplayName.lsb" Key="OdinWater_UNDEAD_HEALING_DisplayName">Healing</content>
 	<content contentuid="h9d859054g7690g44e6g878dgf26d3006b138" Source="Status_HEALING_DisplayName.lsb" Key="OdinWater_WATERSOFLIFE_PROC_DisplayName">Healing Waters</content>
-	<content contentuid="h14520081g6ea5g4cbaga26eg7f1f6f9a194b" Source="Status_INCAPACITATED_Description.lsb" Key="OdinNECRO_TRANSFIXED_Description">Character is paralysed with fear and is unable to perform actions.</content>
+	<content contentuid="h14520081g6ea5g4cbaga26eg7f1f6f9a194b" Source="Status_INCAPACITATED_Description.lsb" Key="OdinNECRO_TRANSFIXED_Description">Le personnage est paralysé par la peur et est incapable d'agir.</content>
 	<content contentuid="h524c0cdfgd076g483egbaf9gba68fff9a34b" Source="Status_INCAPACITATED_Description.lsb" Key="OdinWater_DEEPFREEZE_Description">A shroud of ice freezes them in places and renders them invulnerable to damage.</content>
-	<content contentuid="h1e4b405dg7a00g4db7gb7c4g118dec31f7da" Source="Status_INCAPACITATED_DisplayName.lsb" Key="OdinNECRO_TRANSFIXED_DisplayName">Transfixed</content>
+	<content contentuid="h1e4b405dg7a00g4db7gb7c4g118dec31f7da" Source="Status_INCAPACITATED_DisplayName.lsb" Key="OdinNECRO_TRANSFIXED_DisplayName">Médusé</content>
 	<content contentuid="hcd6bf20bgdb95g40f5g8446gf6012c50e13b" Source="Status_INCAPACITATED_DisplayName.lsb" Key="OdinWater_DEEPFREEZE_DisplayName">Frozen Tomb</content>
 	<content contentuid="h533a219cgdf08g4f6dg88bbg770f73a857e3" Source="Status_INCAPACITATED_DisplayName.lsb" Key="Stats_OdinWater_DeepFreeze">Frozen Tomb</content>
 	<content contentuid="h79126c82g4189g447cga5deg1279b88c63a4" Source="Status_INVISIBLE_Description.lsb" Key="SHADE_INVISIBLE_Description">Character is invisible until the end of the turn.</content>
@@ -369,7 +369,7 @@
 	<content contentuid="hd8af45efg7c30g4819ga156g3c9a673396d1" Source="Status_POLYMORPHED_DisplayName.lsb" Key="OdinGEO_Rabbit_DisplayName">Décret de la nature</content>
 	<content contentuid="hc5d25f93gc762g4418gacd8g3ecacd300b79" Source="Status_POLYMORPHED_DisplayName.lsb" Key="OdinGEO_Squirrel_DisplayName">Décret de la nature</content>
 	<content contentuid="h76b0127bgc5bfg4a49g810egab287a04d3d8" Source="Status_POLYMORPHED_DisplayName.lsb" Key="OdinGEO_TitanForm_DisplayName">Changeforme : Sentinelle d'argile</content>
-	<content contentuid="hb96fab97g14d3g44dfgb4e7g77bebef65d23" Source="Status_POLYMORPHED_DisplayName.lsb" Key="OdinNECRO_Frog_DisplayName">Witches Brew</content>
+	<content contentuid="hb96fab97g14d3g44dfgb4e7g77bebef65d23" Source="Status_POLYMORPHED_DisplayName.lsb" Key="OdinNECRO_Frog_DisplayName">Breuvage des sorcières</content>
 	<content contentuid="h8258cb52g4dcbg441bgb39fg153841cd6051" Source="Status_SPARK_Description.lsb" Key="OdinAERO_VOLTMASTER_Description">Hitting enemies with melee hits will cause shocking volts to be striken off at nearby enemies. Volts can fork up to 2 times.</content>
 	<content contentuid="h78b774c2g1ff8g41ccg9df9gfed0fd0b1326" Source="Status_SPARK_Description.lsb" Key="OdinAERO_VOLTSWINGS_Description">Hitting enemies with melee hits will cause shocking volts to be striken off at nearby enemies.</content>
 	<content contentuid="h2ff3ccffg11d1g4811gae94g710861570111" Source="Status_SPARK_DisplayName.lsb" Key="OdinAERO_VOLTMASTER_DisplayName">Voltmaster</content>
