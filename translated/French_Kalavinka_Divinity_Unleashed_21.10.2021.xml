@@ -1135,7 +1135,7 @@
 	<content contentuid="haf0e9b75g665cg4322ga5a4gc4faa575b27c" Source="Summons_KCEFNX">Soul Wolf</content>
 	<content contentuid="hfdce109cg5f54g427fg902fg2866d2bdf7e8" Source="SurfaceWaterElectrifiedCursed">A scroll is a one time use spell. Use to start casting!</content>
 	<content contentuid="h55481457g50d6g48cdg8161gd3d26a102ff3" Source="SurfaceWaterElectrifiedCursed">This elixir temporarily coats you in an invisibility spell. The bottle appears to be empty, but...</content>
-	<content contentuid="h4165329fg6111g4e1ag9335g818e7bd59bd5" Source="SurfaceWaterElectrifiedCursed">Scrolls</content>
+	<content contentuid="h4165329fg6111g4e1ag9335g818e7bd59bd5" Source="SurfaceWaterElectrifiedCursed">Parchemins</content>
 	<content contentuid="h87614bc3g6474g4b95gba1dgc62361ed1734" Source="SurfaceWaterElectrifiedCursed">Potions</content>
 	<content contentuid="hb35a17b6g1097g4adagbbeeg81e2cfad142f" Source="Target_Description.lsb" Key="Target_Apportation_Description">Teleport items in the area into your inventory and confiscate weapons from characters, applying Atrophy.</content>
 	<content contentuid="he6348647g6380g4ac6ga082g1ff0d7134ccc" Source="Target_Description.lsb" Key="Target_ArcaneStitch_Description">Fully restore a target&apos;s Vitality. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad.</content>
