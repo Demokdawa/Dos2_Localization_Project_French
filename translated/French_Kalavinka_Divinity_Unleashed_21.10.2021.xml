@@ -1242,6 +1242,6 @@
 	<content contentuid="h37e6f8b6g4390g43efg815cgb160ddf4b529" Source="Tornado_Description.lsb" Key="Tornado_Air_Description">A tornado moves randomly around the battlefield, removing surfaces and revealing invisible characters. Also clears Invisible, Sneaking, Burning and Slowed.</content>
 	<content contentuid="h19a1cd76g448cg4cb6g9f3eg701da920a0ad" Source="Tornado_DisplayName.lsb" Key="Tornado_Air_DisplayName">Tornado</content>
 	<content contentuid="h569fbcc1g311fg48efg9e1bgf7adbaf56950" Source="Tornado_StatsDescription.lsb" Key="Tornado_Air_StatsDescription">Rayon : [1]</content>
-	<content contentuid="h066da2d8gf14eg4302g8d4eg46469e662cd7" Source="Zone_Description.lsb" Key="Zone_TestRay_Description">|Line of intense heat that deals [1] damage to characters and leaves fire clouds behind.|</content>
+	<content contentuid="h066da2d8gf14eg4302g8d4eg46469e662cd7" Source="Zone_Description.lsb" Key="Zone_TestRay_Description">|Ligne de chaleur intense qui inflige [1] aux personnages et laisse des nuages de feu derrière elle.|</content>
 	<content contentuid="h1b8ad74bg341ag4781g9de6g672b85c1531c" Source="Zone_DisplayName.lsb" Key="Zone_TestRay_DisplayName">|Laser Ray|</content>
 </contentList>
