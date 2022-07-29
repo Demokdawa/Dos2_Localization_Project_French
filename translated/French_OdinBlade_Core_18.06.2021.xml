@@ -181,7 +181,7 @@
 	<content contentuid="h98568793g870bg4e9cgb70ag08eb010f4e0f" Source="Status_CONSUME_DisplayName.lsb" Key="OdinSpectre_WITHER_DisplayName">Wither</content>
 	<content contentuid="h298e2b14g260ag49f4g802dg3bb54e800790" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_CHILLED_AURA_DisplayName">Chilled Aura</content>
 	<content contentuid="haa92cba7g7259g46a3gb9b9g823598c41e0f" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_DAMPENED_DisplayName">Dampened</content>
-	<content contentuid="hd17eca5ag425dg4fcdgb059g33ecf0c38fe4" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_FROSTBLADE_DisplayName">Hydrobrand</content>
+	<content contentuid="hd17eca5ag425dg4fcdgb059g33ecf0c38fe4" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_FROSTBLADE_DisplayName">Chante-vague</content>
 	<content contentuid="h345c2fcdg5eb1g4371ga0edg45e65e4454ef" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_FROZENBULWARK_DisplayName">Frozen Bulwark</content>
 	<content contentuid="h304a49cege608g4c01gb6adgf17b2cc43ade" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_ICEARMOUR_DisplayName">Ice Barrier</content>
 	<content contentuid="hc0e46033g1e44g40f5ga7a8gc7118fd2eb46" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_ICYVEINS_DisplayName">Icy Veins</content>
@@ -271,7 +271,7 @@
 	<content contentuid="h129d9bd3g3cb8g4294gb1eeg995e32fe7056" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinSpectre_Wither">Wither</content>
 	<content contentuid="h673b75b0gbff7g478dgb861g10ba90d08baf" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_Chilled_Aura">Chilled Aura</content>
 	<content contentuid="h56d23e12g5b12g49a2gbc75g4424f7ebbf00" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_Dampened">Dampened</content>
-	<content contentuid="h300eac9dg3f6eg4faeg899eg2ab619d4e9d2" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_Frostblade">Hydrobrand</content>
+	<content contentuid="h300eac9dg3f6eg4faeg899eg2ab619d4e9d2" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_Frostblade">Chante-vague</content>
 	<content contentuid="h6d2a2c62gec89g4aa1g9c25gbb02545cb402" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_FrozenBulwark">Frozen Bulwark</content>
 	<content contentuid="hd0d0733ege892g4c9ag916cg733540a23d8c" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_IceArmour">Ice Barrier</content>
 	<content contentuid="hba633dc2gf918g4127g9046ge34e9c8acb6f" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_IcyVeins">Icy Veins</content>
