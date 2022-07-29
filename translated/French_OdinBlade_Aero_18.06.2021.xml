@@ -55,12 +55,12 @@
 	<content contentuid="h221d6b6ega479g468bgb69dgb3253681f8e7" Source="fe673fd8-bc5c-40dd-9b8b-7bfce6a4f4b4.lsf">Updraft Skillbook</content>
 	<content contentuid="h5f6c914fg7db0g4763g9731g58a5eb60c6ab" Source="ItemProgression.lsb" Key="A Thunderlord's trusty weapon.">A Thunderlord&apos;s trusty weapon.</content>
 	<content contentuid="h95735cfdgc22cg4d38g9679ge071f18d77aa" Source="ItemProgression.lsb" Key="An Atlantean's signature weapon.">An Atlantean&apos;s signature weapon.</content>
-	<content contentuid="h56577d84g46edg4dccg8baag8b6d574f16f8" Source="ItemProgression.lsb" Key="Atlantean Trident">Atlantean Trident</content>
+	<content contentuid="h56577d84g46edg4dccg8baag8b6d574f16f8" Source="ItemProgression.lsb" Key="Atlantean Trident">Trident atlante</content>
 	<content contentuid="h0c63af99gc8cfg41e8g93b4gda0e02f722ac" Source="ItemProgression.lsb" Key="Bold Stormhammer">Bold Stormhammer</content>
 	<content contentuid="h4a72cb84gf10cg4426ga8eag6ae951941f5f" Source="ItemProgression.lsb" Key="Crackling Stormhammer">Crackling Stormhammer</content>
 	<content contentuid="h215a8253g8608g4a08gb1e5gdadfe5584ec6" Source="ItemProgression.lsb" Key="Improvised Stormhammer">Improvised Stormhammer</content>
-	<content contentuid="h49f6c0ddg4c4dg4d69gaf56gebaf6d8bf104" Source="ItemProgression.lsb" Key="Magnificent Trident">Magnificent Trident</content>
-	<content contentuid="h45b60d8dg66ccg4f65gb465gb6519afcccf9" Source="ItemProgression.lsb" Key="Ocean's Trident">Ocean&apos;s Trident</content>
+	<content contentuid="h49f6c0ddg4c4dg4d69gaf56gebaf6d8bf104" Source="ItemProgression.lsb" Key="Magnificent Trident">Trident magnifique</content>
+	<content contentuid="h45b60d8dg66ccg4f65gb465gb6519afcccf9" Source="ItemProgression.lsb" Key="Ocean's Trident">Trident de l'océan</content>
 	<content contentuid="hcd748f9cg3bf3g42c6g8e9ag461371865bcb" Source="ItemProgression.lsb" Key="Righteous Stormhammer">Righteous Stormhammer</content>
 	<content contentuid="h71818d5ega65eg4b6dga528gf3c923682c29" Source="ItemProgression.lsb" Key="Sturdy Stormhammer">Sturdy Stormhammer</content>
 	<content contentuid="h9b11191cgef22g436bg98d8g814caf12247f" Source="Jump_Description.lsb" Key="Jump_OdinAERO_LightningWarp_Description">Warp to target location, dealing [1] to and &lt;font color=&apos;#7d71d9&apos;&gt;Shocking&lt;/font&gt; all characters upon landing. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#b87333&apos;&gt;Conductive&lt;/font&gt;:&lt;br&gt;Hitting a &lt;font color=&apos;#b87333&apos;&gt;Conductive&lt;/font&gt; &lt;font color=&apos;#aa3938&apos;&gt;enemy&lt;/font&gt; causes this skill to deal [2] to &lt;font color=&apos;#aa3938&apos;&gt;non-Conductive enemies&lt;/font&gt; within [3].</content>
