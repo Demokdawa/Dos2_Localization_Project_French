@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="hac61dbacg00c6g4d6fg9732gddb3c2b62956" Source="a8c50c46-2fec-44c4-be17-7971f92ed3fb.lsf">The book is brimming with &lt;font color=&apos;#00FFFF&apos;&gt;arcane energy&lt;/font&gt;. &lt;br&gt;Using it will summon &lt;font color=&apos;#00FFFF&apos;&gt;Odinblade&apos;s Illusion&lt;/font&gt;, where you can configure settings for Odinblade mods.</content>
-	<content contentuid="hed063ba0g7e58g4dd4g9a8fg39eeca8601e7" Source="a8c50c46-2fec-44c4-be17-7971f92ed3fb.lsf">The Odinomicon</content>
+	<content contentuid="hac61dbacg00c6g4d6fg9732gddb3c2b62956" Source="a8c50c46-2fec-44c4-be17-7971f92ed3fb.lsf">Le livre déborde d'&lt;font color=&apos;#00FFFF&apos;&gt;énergie arcanique&lt;/font&gt;. &lt;br&gt;Son utilisation invoquera une &lt;font color=&apos;#00FFFF&apos;&gt;Illusion d'Odinblade&lt;/font&gt;, où vous pourrez configurer les paramètres des mods d'Odinblade.</content>
+	<content contentuid="hed063ba0g7e58g4dd4g9a8fg39eeca8601e7" Source="a8c50c46-2fec-44c4-be17-7971f92ed3fb.lsf">L'Odinomicon</content>
 	<content contentuid="hfeccb8bbgf99fg4028gb187g607c18c2cbaa" Source="a8c50c46-2fec-44c4-be17-7971f92ed3fb.lsf"/>
-	<content contentuid="h26adc0b6gfb3bg4f05gb289g0d96ced4b22e" Source="b1e3a419-4a5e-4ae4-b37a-22e5f5ebe810.lsf">Odinblade&apos;s Illusion</content>
+	<content contentuid="h26adc0b6gfb3bg4f05gb289g0d96ced4b22e" Source="b1e3a419-4a5e-4ae4-b37a-22e5f5ebe810.lsf">Illusion d'Odinblade</content>
 	<content contentuid="he64fab83g7756g4f76g80bbgb4565bfc1524" Source="OdinCORE_CustomVendor_Test.lsj">Bye</content>
-	<content contentuid="hcf572822g78b2g4bf6g9c71gbb837feb57a2" Source="OdinCORE_CustomVendor_Test.lsj">Hello there!</content>
+	<content contentuid="hcf572822g78b2g4bf6g9c71gbb837feb57a2" Source="OdinCORE_CustomVendor_Test.lsj">Bonjour !</content>
 	<content contentuid="he9fffda3gee59g4401g9cf5g04a54dd546ec" Source="OdinCORE_OdinNPC_01.lsj">Tell me a joke.</content>
-	<content contentuid="ha836ea01g51e8g49bdga815gb493f3eb4768" Source="OdinCORE_OdinNPC_01.lsj">Don&apos;t forget to support modders for any games and mods that you play. We put a lot of effort into creating content, and a little support goes a long way! &lt;br&gt;&lt;br&gt;If you wish to tip me, head to ko-fi.com/odinblade. Thank you!</content>
+	<content contentuid="ha836ea01g51e8g49bdga815gb493f3eb4768" Source="OdinCORE_OdinNPC_01.lsj">N'oubliez pas de supporter les moddeurs pour tous les jeux et mods auxquels vous jouez. Nous avons déployé beaucoup d'efforts pour créer ce contenu et une petite contribution serait la bienvenue. &lt;br&gt;&lt;br&gt;Si vous voulez me faire un don, allez sur ko-fi.com/odinblade. Merci beaucoup !</content>
 	<content contentuid="h5fd930edg8903g40b9gaaceg545ee38f28d0" Source="OdinCORE_OdinNPC_01.lsj">That&apos;ll be all for now.</content>
 	<content contentuid="ha6da3109g9059g45degadefg59cc268ab0e6" Source="OdinCORE_OdinNPC_01.lsj">Consider it done, friend!</content>
 	<content contentuid="ha1853645gd545g4abeg8ccag97429d983415" Source="OdinCORE_OdinNPC_01.lsj">Why are you speaking through an illusion?</content>
-	<content contentuid="hb312d460g1ba9g437fgb9e8g11c563ba1562" Source="OdinCORE_OdinNPC_01.lsj">I&apos;m cooking up some more mods and enhancements in my study, so it wouldn&apos;t exactly be efficient to travel wherever you call me to now, would it?</content>
+	<content contentuid="hb312d460g1ba9g437fgb9e8g11c563ba1562" Source="OdinCORE_OdinNPC_01.lsj">Je prépare d'autres modifications et améliorations dans mes recherches, donc il ne serait pas vraiment efficace pour moi de voyager a chaque fois que vous m'appelez, n'est-ce pas ?</content>
 	<content contentuid="he6b5ceb7ga8efg4869g8a88gf9945e9b0f20" Source="OdinCORE_OdinNPC_01.lsj">Consider it done, friend!</content>
 	<content contentuid="h384332f7gc88eg42ddgae80g364a1f40154c" Source="OdinCORE_OdinNPC_01.lsj">Ah there we go I can see you now. I really ought to invest in better arcane bandwidth...</content>
-	<content contentuid="h01deca88g0e93g40fbg8949gba4dfe912940" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[OFF]&lt;/b&gt; I do not want enemy Summons to utilise the Boon effects.</content>
-	<content contentuid="h9916bbf2gd4e8g4e9fg95dbg4070cb1f6745" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[ON]&lt;/b&gt; I would like enemies to be able to use Odinblade skills.</content>
+	<content contentuid="h01deca88g0e93g40fbg8949gba4dfe912940" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[OFF]&lt;/b&gt; Je ne veux pas que les invocations ennemies utilisent les effets bonus.</content>
+	<content contentuid="h9916bbf2gd4e8g4e9fg95dbg4070cb1f6745" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[ON]&lt;/b&gt; J'aimerais que les ennemis puissent utiliser les compétences d'Odinblade.</content>
 	<content contentuid="h1debaca0g2b31g48f1gb9dcg1bd0d8bf7a0e" Source="OdinCORE_OdinNPC_01.lsj">Consider it done, friend!</content>
-	<content contentuid="hc6f0214bg2526g47fag8a46gce88a2c73d40" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[ON]&lt;/b&gt; I would like Odinblade Overhaul vendors to be present in the world.</content>
+	<content contentuid="hc6f0214bg2526g47fag8a46gce88a2c73d40" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[ON]&lt;/b&gt; J'aimerais que les vendeurs d'Odinblade soient présents dans le monde.</content>
 	<content contentuid="hdb3e2c49g2f93g44ddgb98cgec52e70b26eb" Source="OdinCORE_OdinNPC_01.lsj">I don&apos;t want to make changes at this time.</content>
 	<content contentuid="h2d3f0182g3dd2g421dga7f1gbf2fdfdad3aa" Source="OdinCORE_OdinNPC_01.lsj">I don&apos;t know. What do you call a successful mirage?</content>
-	<content contentuid="h7de87378g6c35g4b5ag9895gc8a946039174" Source="OdinCORE_OdinNPC_01.lsj">I want to change my &lt;b&gt;Enhanced Summon Scaling &lt;/b&gt;settings.</content>
+	<content contentuid="h7de87378g6c35g4b5ag9895gc8a946039174" Source="OdinCORE_OdinNPC_01.lsj">Je veux changer mes réglages a propos du &lt;Scaling d'invocation amélioré&lt;/b&gt;.</content>
 	<content contentuid="h817cd066g13ecg4fc0g91c0g1d7e592f740e" Source="OdinCORE_OdinNPC_01.lsj">...</content>
 	<content contentuid="h6747468egfc04g46eeg8de8g462aa0cf5c37" Source="OdinCORE_OdinNPC_01.lsj">*&lt;i&gt;crackling&lt;/i&gt;* Is this thing on?</content>
-	<content contentuid="hc8b8f2a1g203cg4f9aga28agd165af0382a8" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[ON]&lt;/b&gt; I would like enemy Summons to utilise the Boon effects.</content>
-	<content contentuid="h7f14f0fag4df4g4b11g8c1cg14e6c7292481" Source="OdinCORE_OdinNPC_01.lsj">An &lt;i&gt;optimal &lt;/i&gt;illusion!</content>
+	<content contentuid="hc8b8f2a1g203cg4f9aga28agd165af0382a8" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[ON]&lt;/b&gt; Je veux que les invocations ennemies utilisent les effets bonus.</content>
+	<content contentuid="h7f14f0fag4df4g4b11g8c1cg14e6c7292481" Source="OdinCORE_OdinNPC_01.lsj">Une illusion &lt;i&gt;optimale !&lt;/i&gt;</content>
 	<content contentuid="h832786d7g6893g4399gaa4dg7459f64e76ee" Source="OdinCORE_OdinNPC_01.lsj">Excellent! Then I shall continue creating more content for you to enjoy.</content>
-	<content contentuid="h32825bcegaacag42dcgbee7g6f5a46aab9d7" Source="OdinCORE_OdinNPC_01.lsj">Current status: [OdinCORE_CustomVendors_Value_5df00af8-4e59-4a8c-82a8-094aba487ad2]&lt;br&gt;Vendors are included with Odinblade&apos;s Overhaul mods, as well as having their weapons and skills available to vanilla vendors. Would you like the new Overhaul vendors to be &lt;b&gt;ON &lt;/b&gt;or &lt;b&gt;OFF&lt;/b&gt;?</content>
-	<content contentuid="h50f9bb90gf7f6g4ddbg9aecg2ce5acb54bd5" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[OFF]&lt;/b&gt; I would not like Odinblade Overhaul vendors to be present in the world.</content>
-	<content contentuid="he5a83d41g4f4cg4b66g95bfg5690c62eb35d" Source="OdinCORE_OdinNPC_01.lsj">Current status: [OdinCORE_EnemySkills_Value_51846049-ce6a-40ba-8ede-816cd3457fe0]&lt;br&gt;Enemies can use Odinblade skills and effects should you wish. Would you like this feature to be &lt;b&gt;ON &lt;/b&gt;or &lt;b&gt;OFF&lt;/b&gt;?&lt;br&gt;</content>
-	<content contentuid="h03a37d2dg938fg454bgb779g5ced4400e04b" Source="OdinCORE_OdinNPC_01.lsj">Current status: [OdinCORE_BSS_Value_3f4cfb42-3e70-4105-a7f2-52e3eea0576a]&lt;br&gt;Enemies can utilise the Boons added in my Enhanced Summon Scaling mod on their own Summons. Would you like this feature to be &lt;b&gt;ON &lt;/b&gt;or &lt;b&gt;OFF&lt;/b&gt;?&lt;br&gt;</content>
-	<content contentuid="hcc8b8034g7b17g49cbg9582g17badf20001e" Source="OdinCORE_OdinNPC_01.lsj">I want to change my &lt;b&gt;Custom Vendor&lt;/b&gt; settings.&lt;br&gt;</content>
-	<content contentuid="h247c0404g1143g4f68g88d6ga318b3a0791c" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[OFF] &lt;/b&gt;I would not like enemies to be able to use Odinblade skills.</content>
+	<content contentuid="h32825bcegaacag42dcgbee7g6f5a46aab9d7" Source="OdinCORE_OdinNPC_01.lsj">Paramètre actuel: [OdinCORE_CustomVendors_Value_5df00af8-4e59-4a8c-82a8-094aba487ad2]&lt;br&gt;Les vendeurs sont inclus avec les mods d'Odinblade, ainsi que leurs armes et leurs compétences, mis à disposition par les vendeurs vanilla. Aimeriez-vous que les nouveaux vendeurs de l'overhaul soient &lt;b&gt;ON&lt;/b&gt; ou &lt;b&gt;OFF&lt;/b&gt; ?</content>
+	<content contentuid="h50f9bb90gf7f6g4ddbg9aecg2ce5acb54bd5" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[OFF]&lt;/b&gt; Je ne veux pas que les vendeurs d'Odinblade Overhaul soient présents dans le monde.</content>
+	<content contentuid="he5a83d41g4f4cg4b66g95bfg5690c62eb35d" Source="OdinCORE_OdinNPC_01.lsj">Paramètre actuel: [OdinCORE_EnemySkills_Value_51846049-ce6a-40ba-8ede-816cd3457fe0]&lt;br&gt;Les ennemis peuvent utiliser les compétences et les effets d'Odinblade si vous le souhaitez. Souhaitez-vous que cette fonctionnalité soit &lt;b&gt;ON&lt;/b&gt; ou &lt;b&gt;OFF&lt;/b&gt; ?&lt;br&gt;</content>
+	<content contentuid="h03a37d2dg938fg454bgb779g5ced4400e04b" Source="OdinCORE_OdinNPC_01.lsj">Paramètre actuel: [OdinCORE_BSS_Value_3f4cfb42-3e70-4105-a7f2-52e3eea0576a]&lt;br&gt;Les ennemis peuvent utiliser les bonus ajoutés par mon mod de Scaling d'invocation amélioré sur leurs invocations. Souhaitez-vous que cette fonctionnalité soit &lt;b&gt;ON&lt;/b&gt; ou &lt;b&gt;OFF&lt;/b&gt; ?&lt;br&gt;</content>
+	<content contentuid="hcc8b8034g7b17g49cbg9582g17badf20001e" Source="OdinCORE_OdinNPC_01.lsj">Je veux changer les paramètres des &lt;b&gt;Vendeurs personnalisés&lt;/b&gt;.&lt;br&gt;</content>
+	<content contentuid="h247c0404g1143g4f68g88d6ga318b3a0791c" Source="OdinCORE_OdinNPC_01.lsj">&lt;b&gt;[OFF] &lt;/b&gt;Je ne veux pas que les ennemis puissent utiliser les compétences d'Odinblade.</content>
 	<content contentuid="h5225a464ge63eg455fga19cg4fa73aa8e0a1" Source="OdinCORE_OdinNPC_01.lsj">What do you call a successful mirage?</content>
 	<content contentuid="h439869cfg691fg49b4g9120g0f179fd695c8" Source="OdinCORE_OdinNPC_01.lsj">I don&apos;t want to make changes at this time.</content>
 	<content contentuid="h0bc09ca3g2dcag41c1gb868g73fe43b267d7" Source="OdinCORE_OdinNPC_01.lsj">I don&apos;t want to make changes at this time.</content>
-	<content contentuid="hcfddd6a9g5192g4590ga7f3ga3625b5ab512" Source="OdinCORE_OdinNPC_01.lsj">My, you are a curious one aren&apos;t you?</content>
-	<content contentuid="h064bf4d2g24dag40c0g9d81gc8949b07b2b3" Source="OdinCORE_OdinNPC_01.lsj">I want to change my &lt;b&gt;Enemy Skills&lt;/b&gt; settings.</content>
-	<content contentuid="h087352a2g6ee4g496dg93a4g9b1fbc61ef75" Source="OdinCORE_OdinNPC_01.lsj">Can I help you with anything?</content>
+	<content contentuid="hcfddd6a9g5192g4590ga7f3ga3625b5ab512" Source="OdinCORE_OdinNPC_01.lsj">Vous êtes curieux, n'est-ce pas ?</content>
+	<content contentuid="h064bf4d2g24dag40c0g9d81gc8949b07b2b3" Source="OdinCORE_OdinNPC_01.lsj">Je veux changer mes réglages a propos des &lt;b&gt;Compétences ennemies.&lt;/b&gt;</content>
+	<content contentuid="h087352a2g6ee4g496dg93a4g9b1fbc61ef75" Source="OdinCORE_OdinNPC_01.lsj">Y a-t-il quelque chose que je puisse faire pour vous ?</content>
 	<content contentuid="h868aa550g537eg42afgba65g2f2510f0dbf7" Source="Status_ACTIVE_DEFENSE_DisplayName.lsb" Key="OdinPyro_INCADESCENCE_DisplayName">Incadescence</content>
 	<content contentuid="hddd442e5g8a59g4929ga88fg8684384f9c99" Source="Status_CHALLENGE_DisplayName.lsb" Key="SHADE_BladeChallenge">Blade Challenged</content>
 	<content contentuid="h5ee44de9gd6f4g45c0gb14eg1be66446b075" Source="Status_CHALLENGE_DisplayName.lsb" Key="SHADE_BladeChallenge_DisplayName">Blade Challenged</content>
@@ -127,7 +127,7 @@
 	<content contentuid="h3f0e1cbfg71bdg4285g8f6dg796ede6580f5" Source="Status_CONSUME_DisplayName.lsb" Key="OdinGEO_Earthbrand_DisplayName">Chante-terre</content>
 	<content contentuid="h9b39e23fg5d8bg4107g8141gccf8c1af1861" Source="Status_CONSUME_DisplayName.lsb" Key="OdinGEO_GranitePlating_DisplayName">Armure de granite</content>
 	<content contentuid="h82cfd4d0g574bg4e53gade6g153d00485cf3" Source="Status_CONSUME_DisplayName.lsb" Key="OdinGEO_Ironbark_DisplayName">Écorce-fer</content>
-	<content contentuid="h2946424ag8c24g4598g86d9g7d754296cf6b" Source="Status_CONSUME_DisplayName.lsb" Key="OdinGEO_Oiled_DisplayName">Huileux</content>
+	<content contentuid="h2946424ag8c24g4598g86d9g7d754296cf6b" Source="Status_CONSUME_DisplayName.lsb" Key="OdinGEO_Oiled_DisplayName">Gluant</content>
 	<content contentuid="h368cb114gb2c3g4c13g9f78g84535276e071" Source="Status_CONSUME_DisplayName.lsb" Key="OdinGEO_ParasiticAffliction_DisplayName">Affliction parasitaire</content>
 	<content contentuid="ha2ffea5dg1c33g411agb626g20e97558db5e" Source="Status_CONSUME_DisplayName.lsb" Key="OdinGEO_Spored_DisplayName">Spored</content>
 	<content contentuid="h7b74ad2dg448ag48e2g9a5agb36b6f3a3c56" Source="Status_CONSUME_DisplayName.lsb" Key="OdinNECRO_ARCANEPUNISHMENT_DisplayName">Arcane Punishment</content>
@@ -228,7 +228,7 @@
 	<content contentuid="hf980566ag5f92g4029ga6fbgdd19bcfc7d86" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinGEO_Earthbrand">Chante-terre</content>
 	<content contentuid="hd4e2ad7dg5815g439dgaec1g9c0eadccbd38" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinGEO_GranitePlating">Armure de granite</content>
 	<content contentuid="hfd1734b0gcc5ag4599g82b4gaeef6a99a23a" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinGEO_Ironbark">Écorce-fer</content>
-	<content contentuid="h95e631e6g8873g4728g93dcg867db9eb90bd" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinGEO_Oiled">Huileux</content>
+	<content contentuid="h95e631e6g8873g4728g93dcg867db9eb90bd" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinGEO_Oiled">Gluant</content>
 	<content contentuid="hc8fee71cg2e00g4cfdg9545ge8ab515c40c6" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinGEO_Spored">Spored</content>
 	<content contentuid="h048e9023g1a1eg4a90gbc3age05631a5b5e0" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinGEO_TitanForm">Changeforme : Sentinelle d'argile</content>
 	<content contentuid="h8202852cge394g45f7g8073gef49ffbbd00c" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinNECRO_ARCANEPUNISHMENT">Arcane Punishment</content>
