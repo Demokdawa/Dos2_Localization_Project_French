@@ -7,7 +7,7 @@
 	<content contentuid="h5aa26b1bg62a3g48bbg97ffg82bb8b54ac0e" Source="Cone_Description.lsb" Key="Cone_SilencingStare_Description">Deal [1] and Silence all enemies in a cone in front of you.</content>
 	<content contentuid="hf4dcd13cg749ag449cg8e44g3c5e0ccd63d9" Source="Cone_DisplayName.lsb" Key="Cone_CorrosiveSpray_DisplayName">Spray Corrosif</content>
 	<content contentuid="h8f23f2f4g87beg4867g8a6egb8a8603e3d57" Source="Cone_DisplayName.lsb" Key="Cone_GroundSmash_DisplayName">Battle Stomp</content>
-	<content contentuid="hc38948efga6d6g4deag9890g887ecceaa586" Source="Cone_DisplayName.lsb" Key="Cone_Shatter_DisplayName">Deep Freeze</content>
+	<content contentuid="hc38948efga6d6g4deag9890g887ecceaa586" Source="Cone_DisplayName.lsb" Key="Cone_Shatter_DisplayName">Congélation</content>
 	<content contentuid="h086e2ca6gc008g42f4gabcdgd58eaf7e9ba3" Source="Cone_DisplayName.lsb" Key="Cone_SilencingStare_DisplayName">Silencing Stare</content>
 	<content contentuid="hf23ffce7g075cg4aa6g9de5g82304cdb70ec" Source="Cone_StatsDescription.lsb" Key="Cone_GroundSmash_StatsDescription">Angle du cône : [2]&lt;br&gt;Portée : [3]</content>
 	<content contentuid="h9ea24a9eg04fag41cfg9370g8194184c5f57" Source="Dome_Description.lsb" Key="Dome_CircleOfProtection_Description">Create a magic field that shields allies in the area from incoming damage.</content>
@@ -63,7 +63,7 @@
 	<content contentuid="h8bcfac9ag2b80g4da7ga6cegff96d1df7326" Source="KCE_LocaleOverrides.lsb" Key="Cone_CorrosiveSpray_KCE_DisplayName">Spray Corrosif</content>
 	<content contentuid="h06c51895g80d1g4a4dg94e0g5a61fc0f1ec5" Source="KCE_LocaleOverrides.lsb" Key="Cone_GroundSmash_KCE_Description">Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for [1]. Also clears non-cursed surfaces and clouds.</content>
 	<content contentuid="hb1796f71g6c96g4c25g9c99gc089814d7494" Source="KCE_LocaleOverrides.lsb" Key="Cone_Shatter_KCE_Description">Characters in the cone that are Frozen and below 10% Vitality shatter and instantly die. Otherwise they receive [1] and become Frozen.</content>
-	<content contentuid="h9a4e53afg66e6g455dg8817g1e7d0033390d" Source="KCE_LocaleOverrides.lsb" Key="Cone_Shatter_KCE_DisplayName">Deep Freeze</content>
+	<content contentuid="h9a4e53afg66e6g455dg8817g1e7d0033390d" Source="KCE_LocaleOverrides.lsb" Key="Cone_Shatter_KCE_DisplayName">Congélation</content>
 	<content contentuid="h8b7f2ab0g091bg4fdcgb337g212dac7751dd" Source="KCE_LocaleOverrides.lsb" Key="Cone_SilencingStare_KCE_Description">Destroy [1] and silence all enemies within a cone in front of you.</content>
 	<content contentuid="h20a030e6gf873g465eg8f1egafdf01a1d63a" Source="KCE_LocaleOverrides.lsb" Key="Cone_SilencingStare_KCE_DisplayName">Silencing Stare</content>
 	<content contentuid="h82165dcdgc45ag4f3agad4cg2504771f2dc4" Source="KCE_LocaleOverrides.lsb" Key="CRIPPLED_KCE_Description">Character is Crippled. Cured by Rested.</content>
@@ -123,7 +123,7 @@
 	<content contentuid="h685a7ae0gc427g44c1gafbbgac2b0581bc3e" Source="KCE_LocaleOverrides.lsb" Key="Projectile_Snipe_KCE_DisplayName">Assassiner</content>
 	<content contentuid="hfd7a96cdgb2dcg43adgbe2bg3023fab2f2e9" Source="KCE_LocaleOverrides.lsb" Key="Projectile_StaffOfMagus_KCE_Description">Launch a magical missile from your staff that deals [1].</content>
 	<content contentuid="h099ded02ge7f5g4d7cg931eg1770d744ace2" Source="KCE_LocaleOverrides.lsb" Key="ProjectileStrike_HailStrike_KCE_Description">Icicles fall from the sky, chilling characters and dealing [1]. They create Ice surfaces where they hit the ground.</content>
-	<content contentuid="h3fe700fcg1c94g4a42gb1e3g59575dac52ac" Source="KCE_LocaleOverrides.lsb" Key="ProjectileStrike_HailStrike_KCE_DisplayName">Hail Strike</content>
+	<content contentuid="h3fe700fcg1c94g4a42gb1e3g59575dac52ac" Source="KCE_LocaleOverrides.lsb" Key="ProjectileStrike_HailStrike_KCE_DisplayName">Pluie de grêlons</content>
 	<content contentuid="hcc76a7fdga1d1g4450ga767g6b5e746b5d9c" Source="KCE_LocaleOverrides.lsb" Key="QUEST_FEAR_AURA_KCE_Description">Scarecrows are called that for a reason...</content>
 	<content contentuid="hfc6b19d7gc539g4888gb7d1g85492ce1e1e1" Source="KCE_LocaleOverrides.lsb" Key="Rain_Blood_KCE_Description">Create blood surfaces. Set Bleeding on enemies. Douse fire surfaces.</content>
 	<content contentuid="hf7ac9a72gde9cg4ed6g8384g0fb12853d610" Source="KCE_LocaleOverrides.lsb" Key="REGENERATION_KCE_Description">Heals [1].</content>
@@ -147,7 +147,7 @@
 	<content contentuid="h399bc158g9e06g4810g9e4fg77331915bda5" Source="KCE_LocaleOverrides.lsb" Key="Shout_JellyfishSkin_KCE_Description">You get immunity to electricity, but lowered resistance to poison and earth damage. You bleed electrified water.</content>
 	<content contentuid="h653ebbd7gf593g4d2eg896fg208b1439b713" Source="KCE_LocaleOverrides.lsb" Key="Shout_JellyfishSkin_KCE_DisplayName">Jellyfish Skin</content>
 	<content contentuid="hd13bdfefg027eg46d0ga3efgbf0c254d3071" Source="KCE_LocaleOverrides.lsb" Key="Shout_MassCleanseWounds_KCE_Description">Heal yourself and allies around you. Create a water puddle beneath every target. Remove Necrofire, Burning, Diseased, Decaying, Poisoned, Bleeding, Suffocation and Acid.</content>
-	<content contentuid="h9f54fdd9g104cg4bd2g8c17g72312bbddc94" Source="KCE_LocaleOverrides.lsb" Key="Shout_MassCleanseWounds_KCE_DisplayName">Mass Cleanse Wounds</content>
+	<content contentuid="h9f54fdd9g104cg4bd2g8c17g72312bbddc94" Source="KCE_LocaleOverrides.lsb" Key="Shout_MassCleanseWounds_KCE_DisplayName">Nettoyage des blessures de groupe</content>
 	<content contentuid="h10f91de7gd01fg40cbgaf08g4cfb4b8d8ba8" Source="KCE_LocaleOverrides.lsb" Key="Shout_MedusaHead_KCE_Description">Snakes grow out of your head, giving you a Petrifying aura and the Petrifying Visage skill. Incompatible with Bull Horns.</content>
 	<content contentuid="h55e9ea62g1928g4355gbc0dgab60ce735802" Source="KCE_LocaleOverrides.lsb" Key="Shout_MedusaHead_KCE_DisplayName">Medusa Head</content>
 	<content contentuid="h901c6318g09f3g4248g9810gfcde77e3ae8e" Source="KCE_LocaleOverrides.lsb" Key="Shout_MendMetal_KCE_Description">Allies near to you start slowly regenerating Physical Armour.</content>
@@ -176,7 +176,7 @@
 	<content contentuid="h641a2837g4b27g46c2gbd47g3ce636ad0961" Source="KCE_LocaleOverrides.lsb" Key="Target_Apportation_KCE_Description">Transport pickupable items in the target area into your inventory.</content>
 	<content contentuid="hcaf56589g0a7cg4874g896dg2c9e5088cca4" Source="KCE_LocaleOverrides.lsb" Key="Target_Apportation_KCE_DisplayName">Apportation </content>
 	<content contentuid="h81c36377g45ccg42d1g9bc4g292d1cf2453f" Source="KCE_LocaleOverrides.lsb" Key="Target_ArcaneStitch_KCE_Description">Fully restore target character&apos;s Magic Armour. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad.</content>
-	<content contentuid="hafdbcddcg794fg480eg91e5g714e33768ddc" Source="KCE_LocaleOverrides.lsb" Key="Target_ArcaneStitch_KCE_DisplayName">Arcane Stitch</content>
+	<content contentuid="hafdbcddcg794fg480eg91e5g714e33768ddc" Source="KCE_LocaleOverrides.lsb" Key="Target_ArcaneStitch_KCE_DisplayName">Suture arcanique</content>
 	<content contentuid="h22a39843gf968g4212g851dg6e121235fa85" Source="KCE_LocaleOverrides.lsb" Key="Target_Bless_KCE_Description">Bless target character or surface.</content>
 	<content contentuid="h75561f8bg681bg460egb7e5g72c50ef09c30" Source="KCE_LocaleOverrides.lsb" Key="Target_Bless_KCE_DisplayName">Bless</content>
 	<content contentuid="hb32998a5ga02bg4e02ga31fg5cece1e08c18" Source="KCE_LocaleOverrides.lsb" Key="Target_BloodBubble_KCE_Description">Target character consumes blood surfaces around them, restoring Vitality. The more blood, the more they will be healed!</content>
@@ -224,7 +224,7 @@
 	<content contentuid="h15c252a1gcd4dg4e08gb8cfg52b37d88b03a" Source="KCE_LocaleOverrides.lsb" Key="Target_PetrifyingTouch_KCE_Description">Turn a nearby target to stone, incapacitating it. Deal [1]. Removes Bleeding, Burning, Poisoned, and Crippled.</content>
 	<content contentuid="h63690dd6gd819g4959gac23g47ed3ba9b44c" Source="KCE_LocaleOverrides.lsb" Key="Target_PetrifyingTouch_KCE_DisplayName">Petrifying Touch</content>
 	<content contentuid="h084f36c6g4215g4d4ag9890g30ca06f397c5" Source="KCE_LocaleOverrides.lsb" Key="Target_Restoration_KCE_Description">Restore Vitality of a target character. Restoration also cures Poisoned, Bleeding.</content>
-	<content contentuid="h1e729f05gb054g412fg84e9g1d5ed6308dfa" Source="KCE_LocaleOverrides.lsb" Key="Target_Restoration_KCE_DisplayName">Restoration</content>
+	<content contentuid="h1e729f05gb054g412fg84e9g1d5ed6308dfa" Source="KCE_LocaleOverrides.lsb" Key="Target_Restoration_KCE_DisplayName">Restauration</content>
 	<content contentuid="h159a84f3g96e3g40fcg94degdae9efabce94" Source="KCE_LocaleOverrides.lsb" Key="Target_ShacklesOfPain_KCE_Description">Mark a target so that it will receive all the damage you receive. Damage transferred in this way ignores any resistances the target may have.</content>
 	<content contentuid="h2661c6d1g17ceg4148gac2dge9a4e23c3b3b" Source="KCE_LocaleOverrides.lsb" Key="Target_ShockingTouch_KCE_Description">Sets the Shocked status on a target within arm&apos;s length and deals [2].</content>
 	<content contentuid="hcdbd05b7g0856g4331g8310gcfa8e2ed4c69" Source="KCE_LocaleOverrides.lsb" Key="Target_StripResistance_KCE_Description">Destroy [1] on target character. Set status that halves resistances.</content>
@@ -839,7 +839,7 @@
 	<content contentuid="h4b74d39bge8e2g437cg93c7gd5db2606768c" Source="Projectile_StatsDescription.lsb" Key="Projectile_KCE_Shadowbolt_StatsDescription">Portée : [2]</content>
 	<content contentuid="ha4206053g28b5g4a81g8db7g0acc3d57916c" Source="Projectile_StatsDescription.lsb" Key="Projectile_StaffOfMagus_StatsDescription">Range: [2]&lt;br&gt;Launches a magical missile that inherits the power and damage type of the staff. The better the staff, the more damage this spell sows. Can target terrain.</content>
 	<content contentuid="h6a3e0e4bg4646g46fbga58dg32bf8f54e35d" Source="ProjectileStrike_Description.lsb" Key="ProjectileStrike_HailStrike_Description">Icicles fall from the sky, chilling enemies and dealing [1]. They create Ice surfaces where they hit the ground.</content>
-	<content contentuid="hbf79b81egf496g4131gb11ag9ba642f39dde" Source="ProjectileStrike_DisplayName.lsb" Key="ProjectileStrike_HailStrike_DisplayName">Hail Strike</content>
+	<content contentuid="hbf79b81egf496g4131gb11ag9ba642f39dde" Source="ProjectileStrike_DisplayName.lsb" Key="ProjectileStrike_HailStrike_DisplayName">Pluie de grêlons</content>
 	<content contentuid="h933dd59agc5a1g4414g88c0g813c5a7f8846" Source="Rain_Description.lsb" Key="Rain_Blood_Description">Create blood surfaces. Set Bleeding on enemies. Douse fire surfaces.</content>
 	<content contentuid="he836aedbg66e8g4083gb772gbfa3a06bcc7f" Source="Rain_DisplayName.lsb" Key="Rain_Blood_DisplayName">Blood Rain</content>
 	<content contentuid="h9a6fc323gfd29g4435gb237g6491d89ba9d8" Source="Rain_StatsDescription.lsb" Key="Rain_Blood_StatsDescription">Radius: [1]&lt;br&gt;Duration: [2]</content>
@@ -884,7 +884,7 @@
 	<content contentuid="h622f4998g88c5g429fgb1fdg4324c2c801e9" Source="Shout_DisplayName.lsb" Key="Shout_JellyfishSkin_DisplayName">Jellyfish Skin</content>
 	<content contentuid="h38365024g7289g4927g82f5gbaa07d8d9f7e" Source="Shout_DisplayName.lsb" Key="Shout_KCE_ArmorTest_DisplayName">Armure réactive</content>
 	<content contentuid="h41523abfg73cag46c8ga144gd808134820e3" Source="Shout_DisplayName.lsb" Key="Shout_KCE_BreakSilence_DisplayName">Undo Mute</content>
-	<content contentuid="h70fac8e0g1c73g4f89ga872g763ea9934b26" Source="Shout_DisplayName.lsb" Key="Shout_MassCleanseWounds_DisplayName">Mass Cleanse Wounds</content>
+	<content contentuid="h70fac8e0g1c73g4f89ga872g763ea9934b26" Source="Shout_DisplayName.lsb" Key="Shout_MassCleanseWounds_DisplayName">Nettoyage des blessures de groupe</content>
 	<content contentuid="hc23ba84ag6accg4f82g83e2gfd61a77dd62f" Source="Shout_DisplayName.lsb" Key="Shout_MedusaHead_DisplayName">Medusa Head</content>
 	<content contentuid="h52f7ba78g225fg4095gb1b1g61d740b1cd8c" Source="Shout_DisplayName.lsb" Key="Shout_MendMetal_DisplayName">Meld Metal</content>
 	<content contentuid="h0c88a6e3g87dag4f4bg9d89g9d584cc55bd3" Source="Shout_DisplayName.lsb" Key="Shout_PetrifyingVisage_DisplayName">Petrifying Visage</content>
@@ -1092,7 +1092,7 @@
 	<content contentuid="h78c726beg0ea9g44cbg9ed1g337bfcec951f" Source="Status_FEAR_Description.lsb" Key="FEAR_Description">Fear has grippped this character. It cannot be controlled and will automatically try to run away. Cured by Clear-Minded, Enraged.</content>
 	<content contentuid="h00c84dffgd135g4dfcg9192g1e4cf5029540" Source="Status_FEAR_DisplayName.lsb" Key="FEAR_DisplayName">Terrified</content>
 	<content contentuid="hf06f9817g982fg4f83g9245gbbc48e92c104" Source="Status_HEAL_Description.lsb" Key="BLOOD_BUBBLE_Description">Consumes blood surfaces to restore Vitality.</content>
-	<content contentuid="hc89cd424gb99ag4d2bg9e1bgd5f3ce702f89" Source="Status_HEAL_DisplayName.lsb" Key="ARCANE_STITCH_DisplayName">Arcane Stitch</content>
+	<content contentuid="hc89cd424gb99ag4d2bg9e1bgd5f3ce702f89" Source="Status_HEAL_DisplayName.lsb" Key="ARCANE_STITCH_DisplayName">Suture arcanique</content>
 	<content contentuid="h854c878dg1448g459cg9986g4c3c9f6c2f47" Source="Status_HEAL_DisplayName.lsb" Key="BLOOD_BUBBLE_DisplayName">Blood Bubble</content>
 	<content contentuid="hddd8b6c1gd147g4dedg82b7g1ac5c346331b" Source="Status_HEAL_DisplayName.lsb" Key="CRYOTHERAPY_DisplayName">Cryotherapy</content>
 	<content contentuid="h74c31b8cg3e96g49b7gbe17g5ec1f9e77ff9" Source="Status_HEAL_DisplayName.lsb" Key="FIRST_AID_DisplayName">Premiers secours</content>
@@ -1190,7 +1190,7 @@
 	<content contentuid="hef3dc224ge558g4eebgb6fcg7854e518e228" Source="Target_Description.lsb" Key="Target_WolfBite_Description">Sink your fangs into the enemy, dealing [1] and causing them to take damage on movement, denying them escape.</content>
 	<content contentuid="h2d3fe163g68fbg4077g9db4g4a61b4687f6a" Source="Target_Description.lsb" Key="Target_WormTremor_Description">Deals [1] to each character in the area. At your command, poisonous worms slither up from the earth, attaching to every character in the area. Affected characters cannot move or teleport, and they receive poison damage every turn.</content>
 	<content contentuid="hc948658fgb549g4214g9dc2gf7047de80158" Source="Target_DisplayName.lsb" Key="Target_Apportation_DisplayName">Apportation</content>
-	<content contentuid="h43dac822gd706g4e1dga255g69f1f714294f" Source="Target_DisplayName.lsb" Key="Target_ArcaneStitch_DisplayName">Arcane Stitch</content>
+	<content contentuid="h43dac822gd706g4e1dga255g69f1f714294f" Source="Target_DisplayName.lsb" Key="Target_ArcaneStitch_DisplayName">Suture arcanique</content>
 	<content contentuid="hfb82c86dge62ag493dgb7c2gc0558990e7f9" Source="Target_DisplayName.lsb" Key="Target_Bless_DisplayName">Bless</content>
 	<content contentuid="hbe657c9eg38e6g471fg953cg1fa2106d6ebc" Source="Target_DisplayName.lsb" Key="Target_BloodBubble_DisplayName">Vampirisme</content>
 	<content contentuid="hb28d05ccgb703g48c1gb485g42cc4984f981" Source="Target_DisplayName.lsb" Key="Target_Charm_DisplayName">Dominate Mind</content>
@@ -1204,7 +1204,7 @@
 	<content contentuid="h9f6e134dg0095g456bgb0f7gf40c658bf14c" Source="Target_DisplayName.lsb" Key="Target_DemonicBargain_DisplayName">Forced Exchange</content>
 	<content contentuid="hdead25beg40bag43c4g850eg873127ae8b66" Source="Target_DisplayName.lsb" Key="Target_DemonicStare_DisplayName">Demonic Stare</content>
 	<content contentuid="h469bc624g8f8dg4179gb9f0g4ba50af90c56" Source="Target_DisplayName.lsb" Key="Target_DualWieldingAttack_DisplayName">Flurry</content>
-	<content contentuid="habf4c131g084fg4c11g9fbcg17f6e6bc900f" Source="Target_DisplayName.lsb" Key="Target_EnemyFreezingTouch_DisplayName">Freezing Touch</content>
+	<content contentuid="habf4c131g084fg4c11g9fbcg17f6e6bc900f" Source="Target_DisplayName.lsb" Key="Target_EnemyFreezingTouch_DisplayName">Toucher givrant</content>
 	<content contentuid="h3fe4da20g4280g4dd6gbeddg9c9c18bd7566" Source="Target_DisplayName.lsb" Key="Target_Farsight_DisplayName">Double vue</content>
 	<content contentuid="h63a23df1g3ecfg4570g9affg198e7519a304" Source="Target_DisplayName.lsb" Key="Target_FirstAid_DisplayName">Premiers secours</content>
 	<content contentuid="hc65d5b79ga2bfg4087g871ega9397b935315" Source="Target_DisplayName.lsb" Key="Target_FlamingCrescendo_DisplayName">Flaming Crescendo</content>
@@ -1222,7 +1222,7 @@
 	<content contentuid="h4009d3b9g5262g4c4ag8302g81390b0670c2" Source="Target_DisplayName.lsb" Key="Target_Overpower_DisplayName">Overpower</content>
 	<content contentuid="h44d9bce2g8de7g4b74g9842g417614bd2256" Source="Target_DisplayName.lsb" Key="Target_PetrifyingTouch_DisplayName">Petrifying Touch</content>
 	<content contentuid="h2d544698gbc7bg4840g8e3fg0eb4a2dd0360" Source="Target_DisplayName.lsb" Key="Target_PressureSpike_DisplayName">Pressure Spike</content>
-	<content contentuid="hfeb1587dgded1g4e91gb338g7a8559c48019" Source="Target_DisplayName.lsb" Key="Target_Restoration_DisplayName">Restoration</content>
+	<content contentuid="hfeb1587dgded1g4e91gb338g7a8559c48019" Source="Target_DisplayName.lsb" Key="Target_Restoration_DisplayName">Restauration</content>
 	<content contentuid="hf70ee75cg5763g4722gbc98ge137c479586e" Source="Target_DisplayName.lsb" Key="Target_ShacklesOfPain_DisplayName">Chaînes de douleur</content>
 	<content contentuid="hdbf44f86gc321g4a41g90afg8012c8a37d77" Source="Target_DisplayName.lsb" Key="Target_ShockingTouch_DisplayName">Shocking Touch</content>
 	<content contentuid="hfe588d77gba4cg4b51ga04age9bcf3649ff1" Source="Target_DisplayName.lsb" Key="Target_StripResistance_DisplayName">Flay Skin</content>
