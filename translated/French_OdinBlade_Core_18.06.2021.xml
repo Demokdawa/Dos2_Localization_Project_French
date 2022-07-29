@@ -334,7 +334,7 @@
 	<content contentuid="he3d5e794g934bg4a76gb083gbb909f0286e6" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_PURGED5_DisplayName">Purged</content>
 	<content contentuid="h9fd67395gc3bcg4c87g8dd1g94b5c0b1fadd" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_DROWNING_DisplayName">Drowning</content>
 	<content contentuid="h736df4f2gc32cg4cf7ga04bg9e8184b38dae" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_HYPOTHERMIA_DisplayName">Hypothermia</content>
-	<content contentuid="h0b89d82dgd243g473fg88daga0f40fdf86b8" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_SCALDED_DisplayName">Scalded</content>
+	<content contentuid="h0b89d82dgd243g473fg88daga0f40fdf86b8" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_SCALDED_DisplayName">Échaudé</content>
 	<content contentuid="h2f19ac35g40f6g4a2eg9920g8d2eb0500150" Source="Status_DAMAGE_DisplayName.lsb" Key="SHADE_Fading_DisplayName">Fading</content>
 	<content contentuid="h64e5b564gc8aag4b0cg97b6gd21a0fbdcae2" Source="Status_FLOATING_Description.lsb" Key="OdinSpectre_GHOSTWALK_Description">Character ignores surfaces whilst moving.</content>
 	<content contentuid="h4ce841e5g6126g47f1gb7a3ga1d546924603" Source="Status_FLOATING_DisplayName.lsb" Key="OdinSpectre_GHOSTWALK_DisplayName">Ghostwalk</content>
