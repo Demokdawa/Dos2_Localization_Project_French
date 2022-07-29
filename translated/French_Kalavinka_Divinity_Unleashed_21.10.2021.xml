@@ -139,7 +139,7 @@
 	<content contentuid="hc9386e15gf8f2g46efg9ab1g7dc5f3910ae8" Source="KCE_LocaleOverrides.lsb" Key="Shout_FleshSacrifice_KCE_Description">Gain 1 Action Point immediately and a [2]% damage boost for 2 turns at the cost of [1] Constitution. Any Action Points over your maximum are lost.</content>
 	<content contentuid="hf20bb821g24ecg4e53g9dbbg59d7983512a5" Source="KCE_LocaleOverrides.lsb" Key="Shout_FleshSacrifice_KCE_DisplayName">Flesh Sacrifice</content>
 	<content contentuid="h85019e63g746dg4f54g8545ge1ce547efa1b" Source="KCE_LocaleOverrides.lsb" Key="Shout_FrostAura_KCE_Description">Regenerate Magic Armour for all allies around caster.</content>
-	<content contentuid="hb4f99a57gc7d6g4ff4ga109gd97eb0a2d570" Source="KCE_LocaleOverrides.lsb" Key="Shout_FrostAura_KCE_DisplayName">Soothing Cold</content>
+	<content contentuid="hb4f99a57gc7d6g4ff4ga109gd97eb0a2d570" Source="KCE_LocaleOverrides.lsb" Key="Shout_FrostAura_KCE_DisplayName">Froid apaisant</content>
 	<content contentuid="he98e8350ga91fg42a0gb473ged09f1ce41a9" Source="KCE_LocaleOverrides.lsb" Key="Shout_GuardianAngel_KCE_Description">Allies in melee range redirect [1]% of received damage to you.</content>
 	<content contentuid="h38c514c0g5ad7g4223ga0edg24a06fb0d7c5" Source="KCE_LocaleOverrides.lsb" Key="Shout_GuardianAngel_KCE_DisplayName">Guardian Angel</content>
 	<content contentuid="h7b23deccgfc33g4874g87a5g0e1b85a51d18" Source="KCE_LocaleOverrides.lsb" Key="Shout_IceSkin_KCE_Description">You get immunity to water, but lowered resistance to fire. You bleed ice.</content>
@@ -526,7 +526,7 @@
 	<content contentuid="h5ba99deagdd70g4e28g99a5g85429ecffafd" Source="Potion.lsb" Key="Stats_KCE_Shields">Shields Up</content>
 	<content contentuid="h1956a9f8g8349g4093gbeffgf131389ea76a" Source="Potion.lsb" Key="Stats_KCE_SilenceImmune">Muted Immunity</content>
 	<content contentuid="hbcefe101g114dg45c2g8cceg79af4b9efd8c" Source="Potion.lsb" Key="Stats_KCE_Slingshot">Slingshot</content>
-	<content contentuid="h4ed14887g2185g49f5gabeagf004e2277315" Source="Potion.lsb" Key="Stats_KCE_SoothingCold">Soothing Cold</content>
+	<content contentuid="h4ed14887g2185g49f5gabeagf004e2277315" Source="Potion.lsb" Key="Stats_KCE_SoothingCold">Froid apaisant</content>
 	<content contentuid="he1fa9334ge1dfg4936g81d7g1ba4ab17fad0" Source="Potion.lsb" Key="Stats_KCE_SteelSkin">Heart of Steel</content>
 	<content contentuid="h6d2d91c8g25a5g4d81g9fc4ga8e4431a9a89" Source="Potion.lsb" Key="Stats_KCE_Strength0">Strength</content>
 	<content contentuid="h83d9a8f8gc976g4436gab97g29746c8e636a" Source="Potion.lsb" Key="Stats_KCE_Strength1">Strength</content>
@@ -878,7 +878,7 @@
 	<content contentuid="hf5cdf656g9996g45a6gac74gba8c5f83b22d" Source="Shout_DisplayName.lsb" Key="Shout_FavourableWind_DisplayName">Favourable Wind</content>
 	<content contentuid="h234a34cfg7c03g45b6g9b78gb8033669043b" Source="Shout_DisplayName.lsb" Key="Shout_FlamingSkin_DisplayName">Flaming Skin</content>
 	<content contentuid="hb48f09feg94f2g4442gbcddg243ae6f727d9" Source="Shout_DisplayName.lsb" Key="Shout_FleshSacrifice_DisplayName">Flesh Sacrifice</content>
-	<content contentuid="h47c6c44egefd4g4c2bg9aecg88efbf5cbc24" Source="Shout_DisplayName.lsb" Key="Shout_FrostAura_DisplayName">Soothing Cold</content>
+	<content contentuid="h47c6c44egefd4g4c2bg9aecg88efbf5cbc24" Source="Shout_DisplayName.lsb" Key="Shout_FrostAura_DisplayName">Froid apaisant</content>
 	<content contentuid="hfd8e67cegee7fg4a77g9200gd588e2b31c57" Source="Shout_DisplayName.lsb" Key="Shout_GuardianAngel_DisplayName">Guardian Angel</content>
 	<content contentuid="h510cbd8eg0221g4076gbd09gcaa74a5cc946" Source="Shout_DisplayName.lsb" Key="Shout_IceSkin_DisplayName">Ice Skin</content>
 	<content contentuid="h622f4998g88c5g429fgb1fdg4324c2c801e9" Source="Shout_DisplayName.lsb" Key="Shout_JellyfishSkin_DisplayName">Jellyfish Skin</content>
@@ -1053,7 +1053,7 @@
 	<content contentuid="heedb590bg98fcg442dgb922ge270442fed8f" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_PLAYDEAD_DisplayName">Playing Dead</content>
 	<content contentuid="h9519a6c5g8902g48bega33cgd5ffeb55d9c3" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_SHIELDS_DisplayName">Shields Up</content>
 	<content contentuid="h22cb4262gea00g4faag90feg8b2dbe5ee3c7" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_SLINGSHOT_DisplayName">Slingshot</content>
-	<content contentuid="hdfaab6e9gdadag4b56g9b9ag6ee4780c5f42" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_SOOTHINGCOLD_DisplayName">Soothing Cold</content>
+	<content contentuid="hdfaab6e9gdadag4b56g9b9ag6ee4780c5f42" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_SOOTHINGCOLD_DisplayName">Froid apaisant</content>
 	<content contentuid="hb9103e16g7fb7g45d3gb84eg9a8a67182cbf" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_STEELSKIN_DisplayName">Steel Skin</content>
 	<content contentuid="h60d865bcgff69g41cagb5aag2af719ca6a81" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_TAUNT_AURA_DisplayName">Taunt Aura</content>
 	<content contentuid="h9192f8adg9f56g4922gb269g6fe6ffc199df" Source="Status_CONSUME_DisplayName.lsb" Key="KCE_TAUNTED_DisplayName">Taunted</content>
