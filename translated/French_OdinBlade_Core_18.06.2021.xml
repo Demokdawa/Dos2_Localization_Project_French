@@ -94,7 +94,7 @@
 	<content contentuid="h87d94fabg89dcg4e64g8259gce79cba9b576" Source="Status_CONSUME_Description.lsb" Key="OdinWater_DAMPENED_Description">Your waves crash no more.</content>
 	<content contentuid="h865051aeg1e86g493cgb773g3727169e500a" Source="Status_CONSUME_Description.lsb" Key="OdinWater_FROZENBULWARK_Description">Maximum Magic Armor increased.</content>
 	<content contentuid="hab5984a0gfdfdg408bg8afdgf8d6aca4d7c0" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ICEARMOUR_Description">Ice forms a protective barrier around you.</content>
-	<content contentuid="h6331f91dg83d0g477eg81ddgdf04af4564b4" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ICYVEINS_Description">Allows you to apply &lt;font color=&quot;#cfecff&quot;&gt;Hypothermia&lt;/font&gt; regardless of whether your targets are &lt;font color=&quot;#cfecff&quot;&gt;Chilled&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Frozen&lt;/font&gt;, or have &lt;font color=&quot;#188ede&quot;&gt;Magic Armour&lt;/font&gt;.</content>
+	<content contentuid="h6331f91dg83d0g477eg81ddgdf04af4564b4" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ICYVEINS_Description">Vous permet d'appliquer l'état &lt;font color=&quot;#cfecff&quot;&gt;Hypothermie&lt;/font&gt;, même si vos cibles ne sont pas affectées par les états &lt;font color=&quot;#cfecff&quot;&gt;Coup de froid&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Gel&lt;/font&gt;, ou qu'elles possèdent de &lt;font color=&quot;#188ede&quot;&gt;l'armure magique&lt;/font&gt;.</content>
 	<content contentuid="hc663e605gaad9g42c2g8b2eg02aa95790b3c" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ROOTED_Description">You are rooted in place and cannot move.</content>
 	<content contentuid="h4cd85465gc393g4f7cg8b64g37771b48f222" Source="Status_CONSUME_Description.lsb" Key="OdinWater_SWIFTCURRENT_Description">&lt;font color=&quot;#88a25b&quot;&gt;Movement Speed: 30% &lt;br&gt;Dodging: 15%&lt;/font&gt;</content>
 	<content contentuid="h257a92c6ge904g4438gb188g4e100bde967e" Source="Status_CONSUME_Description.lsb" Key="SHADE_BladeChallenged_Loss_Description">|Character suffers consequences of loosing a Challenge.|</content>
@@ -333,7 +333,7 @@
 	<content contentuid="h54c6656ag6197g4257g9d2eg951ed9bad03f" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_PURGED4_DisplayName">Purged</content>
 	<content contentuid="he3d5e794g934bg4a76gb083gbb909f0286e6" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_PURGED5_DisplayName">Purged</content>
 	<content contentuid="h9fd67395gc3bcg4c87g8dd1g94b5c0b1fadd" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_DROWNING_DisplayName">Drowning</content>
-	<content contentuid="h736df4f2gc32cg4cf7ga04bg9e8184b38dae" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_HYPOTHERMIA_DisplayName">Hypothermia</content>
+	<content contentuid="h736df4f2gc32cg4cf7ga04bg9e8184b38dae" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_HYPOTHERMIA_DisplayName">Hypothermie</content>
 	<content contentuid="h0b89d82dgd243g473fg88daga0f40fdf86b8" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_SCALDED_DisplayName">Échaudé</content>
 	<content contentuid="h2f19ac35g40f6g4a2eg9920g8d2eb0500150" Source="Status_DAMAGE_DisplayName.lsb" Key="SHADE_Fading_DisplayName">Fading</content>
 	<content contentuid="h64e5b564gc8aag4b0cg97b6gd21a0fbdcae2" Source="Status_FLOATING_Description.lsb" Key="OdinSpectre_GHOSTWALK_Description">Character ignores surfaces whilst moving.</content>
