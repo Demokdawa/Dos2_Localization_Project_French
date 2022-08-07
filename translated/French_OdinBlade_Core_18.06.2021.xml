@@ -93,7 +93,7 @@
 	<content contentuid="h90bd7233gddebg4f59gaa01g3f247969ac85" Source="Status_CONSUME_Description.lsb" Key="OdinWater_CHILLED_AURA_Description">Nearby enemies become Chilled.</content>
 	<content contentuid="h87d94fabg89dcg4e64g8259gce79cba9b576" Source="Status_CONSUME_Description.lsb" Key="OdinWater_DAMPENED_Description">Your waves crash no more.</content>
 	<content contentuid="h865051aeg1e86g493cgb773g3727169e500a" Source="Status_CONSUME_Description.lsb" Key="OdinWater_FROZENBULWARK_Description">Maximum Magic Armor increased.</content>
-	<content contentuid="hab5984a0gfdfdg408bg8afdgf8d6aca4d7c0" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ICEARMOUR_Description">Ice forms a protective barrier around you.</content>
+	<content contentuid="hab5984a0gfdfdg408bg8afdgf8d6aca4d7c0" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ICEARMOUR_Description">La glace forme une barrière protectrice autour de vous.</content>
 	<content contentuid="h6331f91dg83d0g477eg81ddgdf04af4564b4" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ICYVEINS_Description">Vous permet d'appliquer l'état &lt;font color=&quot;#cfecff&quot;&gt;Hypothermie&lt;/font&gt;, même si vos cibles ne sont pas affectées par les états &lt;font color=&quot;#cfecff&quot;&gt;Coup de froid&lt;/font&gt;, &lt;font color=&quot;#cfecff&quot;&gt;Gel&lt;/font&gt;, ou qu'elles possèdent de &lt;font color=&quot;#188ede&quot;&gt;l'armure magique&lt;/font&gt;.</content>
 	<content contentuid="hc663e605gaad9g42c2g8b2eg02aa95790b3c" Source="Status_CONSUME_Description.lsb" Key="OdinWater_ROOTED_Description">You are rooted in place and cannot move.</content>
 	<content contentuid="h4cd85465gc393g4f7cg8b64g37771b48f222" Source="Status_CONSUME_Description.lsb" Key="OdinWater_SWIFTCURRENT_Description">&lt;font color=&quot;#88a25b&quot;&gt;Movement Speed: 30% &lt;br&gt;Dodging: 15%&lt;/font&gt;</content>
@@ -184,7 +184,7 @@
 	<content contentuid="hd17eca5ag425dg4fcdgb059g33ecf0c38fe4" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_FROSTBLADE_DisplayName">Chante-vague</content>
 	<content contentuid="h345c2fcdg5eb1g4371ga0edg45e65e4454ef" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_FROZENBULWARK_DisplayName">Frozen Bulwark</content>
 	<content contentuid="h304a49cege608g4c01gb6adgf17b2cc43ade" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_ICEARMOUR_DisplayName">Ice Barrier</content>
-	<content contentuid="hc0e46033g1e44g40f5ga7a8gc7118fd2eb46" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_ICYVEINS_DisplayName">Icy Veins</content>
+	<content contentuid="hc0e46033g1e44g40f5ga7a8gc7118fd2eb46" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_ICYVEINS_DisplayName">Veines glacées</content>
 	<content contentuid="h3de3eed9g9bf8g4e3eg9755gca19b2d890ec" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_RIDETIDE_1_DisplayName">Low Tide</content>
 	<content contentuid="h951f5630g8305g46f0gaa1bg1d9e32d5ff97" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_RIDETIDE_2_DisplayName">High Tide</content>
 	<content contentuid="hae0a37a9gb6f9g407agbe24g7de03441f179" Source="Status_CONSUME_DisplayName.lsb" Key="OdinWater_RIDETIDE_3_DisplayName">Low Tide</content>
@@ -274,7 +274,7 @@
 	<content contentuid="h300eac9dg3f6eg4faeg899eg2ab619d4e9d2" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_Frostblade">Chante-vague</content>
 	<content contentuid="h6d2a2c62gec89g4aa1g9c25gbb02545cb402" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_FrozenBulwark">Frozen Bulwark</content>
 	<content contentuid="hd0d0733ege892g4c9ag916cg733540a23d8c" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_IceArmour">Ice Barrier</content>
-	<content contentuid="hba633dc2gf918g4127g9046ge34e9c8acb6f" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_IcyVeins">Icy Veins</content>
+	<content contentuid="hba633dc2gf918g4127g9046ge34e9c8acb6f" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_IcyVeins">Veines glacées</content>
 	<content contentuid="hd54cc1f0g2ff5g4ef1g943bgec55c13b398b" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_RideTide_1">Low Tide</content>
 	<content contentuid="hc6343707gb93dg4c5aga016g5c1acba893a5" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_RideTide_2">High Tide</content>
 	<content contentuid="hbb62761bg51bdg4614g8cfdgaf5ebd744d7a" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinWater_Rooted">Rooted</content>
@@ -332,7 +332,7 @@
 	<content contentuid="ha070728dgffdfg40e5ga942ged4a1a005d58" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_PURGED3_DisplayName">Purged</content>
 	<content contentuid="h54c6656ag6197g4257g9d2eg951ed9bad03f" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_PURGED4_DisplayName">Purged</content>
 	<content contentuid="he3d5e794g934bg4a76gb083gbb909f0286e6" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_PURGED5_DisplayName">Purged</content>
-	<content contentuid="h9fd67395gc3bcg4c87g8dd1g94b5c0b1fadd" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_DROWNING_DisplayName">Drowning</content>
+	<content contentuid="h9fd67395gc3bcg4c87g8dd1g94b5c0b1fadd" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_DROWNING_DisplayName">Noyade</content>
 	<content contentuid="h736df4f2gc32cg4cf7ga04bg9e8184b38dae" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_HYPOTHERMIA_DisplayName">Hypothermie</content>
 	<content contentuid="h0b89d82dgd243g473fg88daga0f40fdf86b8" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinWater_SCALDED_DisplayName">Échaudé</content>
 	<content contentuid="h2f19ac35g40f6g4a2eg9920g8d2eb0500150" Source="Status_DAMAGE_DisplayName.lsb" Key="SHADE_Fading_DisplayName">Fading</content>
@@ -340,26 +340,26 @@
 	<content contentuid="h4ce841e5g6126g47f1gb7a3ga1d546924603" Source="Status_FLOATING_DisplayName.lsb" Key="OdinSpectre_GHOSTWALK_DisplayName">Ghostwalk</content>
 	<content contentuid="h1e64a403gddeag4d5ega287g2a15c062769a" Source="Status_FLOATING_DisplayName.lsb" Key="Stats_OdinSpectre_Ghostwalk">Ghostwalk</content>
 	<content contentuid="ha4024dbcg4d98g47ccga968g0dab7f6d30bf" Source="Status_HEAL_Description.lsb" Key="OdinPyro_DEVOURFLAMES_Description">Devours fire surfaces to restore Vitality.</content>
-	<content contentuid="h9a349608g7b88g4d43gb22agb59d606a0a0b" Source="Status_HEAL_DisplayName.lsb" Key="CLEANSE_WOUNDS_DisplayName">Cleanse Wounds</content>
-	<content contentuid="h75034b63gc54cg417eg835dge53494c628e1" Source="Status_HEAL_DisplayName.lsb" Key="CRYOTHERAPY_DisplayName">Cryotherapy</content>
+	<content contentuid="h9a349608g7b88g4d43gb22agb59d606a0a0b" Source="Status_HEAL_DisplayName.lsb" Key="CLEANSE_WOUNDS_DisplayName">Nettoyage des blessures</content>
+	<content contentuid="h75034b63gc54cg417eg835dge53494c628e1" Source="Status_HEAL_DisplayName.lsb" Key="CRYOTHERAPY_DisplayName">Cryothérapie</content>
 	<content contentuid="h11031fd4g7a80g4cebgbe83gdc7ea5e6fa22" Source="Status_HEAL_DisplayName.lsb" Key="OdinGEO_SIPHONPOISON_DisplayName">Absorption du poison</content>
 	<content contentuid="h3fd80f4fg80beg493cgad4fg9a0241a1efab" Source="Status_HEAL_DisplayName.lsb" Key="OdinNECRO_HEAL_VAMP_10_DisplayName">Toucher vampirique</content>
 	<content contentuid="h861e2319g3334g4612g96c4ge054cb31555e" Source="Status_HEAL_DisplayName.lsb" Key="OdinNECRO_HEAL_VAMP_20_DisplayName">Toucher vampirique</content>
 	<content contentuid="h772fb36ag1331g44f6ga6f5g75ee56bc140f" Source="Status_HEAL_DisplayName.lsb" Key="OdinPyro_DEVOURFLAMES_DisplayName">Devour Flames</content>
-	<content contentuid="h20e87a42g723fg4c1bg8829g0b153972cb5e" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_AQUATHERAPY_DisplayName">Cryotherapy</content>
-	<content contentuid="h8bce021age05cg41a9gb6a4g59af762d0dae" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_EMINENCEHEAL_DisplayName">Eminence</content>
-	<content contentuid="hc1a4800bgf09ag4548gaac5g583650231ce5" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_MASS_CLEANSE_WOUNDS_DisplayName">Cleanse Wounds</content>
+	<content contentuid="h20e87a42g723fg4c1bg8829g0b153972cb5e" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_AQUATHERAPY_DisplayName">Cryothérapie</content>
+	<content contentuid="h8bce021age05cg41a9gb6a4g59af762d0dae" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_EMINENCEHEAL_DisplayName">Éminence</content>
+	<content contentuid="hc1a4800bgf09ag4548gaac5g583650231ce5" Source="Status_HEAL_DisplayName.lsb" Key="OdinWater_MASS_CLEANSE_WOUNDS_DisplayName">Nettoyage des blessures</content>
 	<content contentuid="h75e9e2d7gaabbg48c9g8f5cg93a070b0d7dc" Source="Status_HEALING_Description.lsb" Key="OdinPyro_PHOENIXFIRE_HEALING_Description">Heals [1] health points each turn.</content>
 	<content contentuid="h80ae2923gbf32g44d2gb968g1b826542c7b9" Source="Status_HEALING_Description.lsb" Key="OdinWater_UNDEAD_HEALING_Description">Heals [1] health points per turn.</content>
 	<content contentuid="h92c2f032g9672g459ag818cg1f8c5e132ce2" Source="Status_HEALING_Description.lsb" Key="OdinWater_WATERSOFLIFE_PROC_Description">Heals [1] health points per turn.</content>
 	<content contentuid="h1aa4a2fbgf7eag4694g9c37gf3454e8454c9" Source="Status_HEALING_DisplayName.lsb" Key="OdinPyro_PHOENIXFIRE_HEALING_DisplayName">Cauterize</content>
-	<content contentuid="haa20c9bcgbfbdg48f7g9135g35a3cd19ad69" Source="Status_HEALING_DisplayName.lsb" Key="OdinWater_UNDEAD_HEALING_DisplayName">Healing</content>
+	<content contentuid="haa20c9bcgbfbdg48f7g9135g35a3cd19ad69" Source="Status_HEALING_DisplayName.lsb" Key="OdinWater_UNDEAD_HEALING_DisplayName">Soins</content>
 	<content contentuid="h9d859054g7690g44e6g878dgf26d3006b138" Source="Status_HEALING_DisplayName.lsb" Key="OdinWater_WATERSOFLIFE_PROC_DisplayName">Healing Waters</content>
 	<content contentuid="h14520081g6ea5g4cbaga26eg7f1f6f9a194b" Source="Status_INCAPACITATED_Description.lsb" Key="OdinNECRO_TRANSFIXED_Description">Le personnage est paralysé par la peur et est incapable d'agir.</content>
-	<content contentuid="h524c0cdfgd076g483egbaf9gba68fff9a34b" Source="Status_INCAPACITATED_Description.lsb" Key="OdinWater_DEEPFREEZE_Description">A shroud of ice freezes them in places and renders them invulnerable to damage.</content>
+	<content contentuid="h524c0cdfgd076g483egbaf9gba68fff9a34b" Source="Status_INCAPACITATED_Description.lsb" Key="OdinWater_DEEPFREEZE_Description">Un linceul de glace les gèle sur place et les rend invulnérables aux dommages.</content>
 	<content contentuid="h1e4b405dg7a00g4db7gb7c4g118dec31f7da" Source="Status_INCAPACITATED_DisplayName.lsb" Key="OdinNECRO_TRANSFIXED_DisplayName">Médusé</content>
-	<content contentuid="hcd6bf20bgdb95g40f5g8446gf6012c50e13b" Source="Status_INCAPACITATED_DisplayName.lsb" Key="OdinWater_DEEPFREEZE_DisplayName">Frozen Tomb</content>
-	<content contentuid="h533a219cgdf08g4f6dg88bbg770f73a857e3" Source="Status_INCAPACITATED_DisplayName.lsb" Key="Stats_OdinWater_DeepFreeze">Frozen Tomb</content>
+	<content contentuid="hcd6bf20bgdb95g40f5g8446gf6012c50e13b" Source="Status_INCAPACITATED_DisplayName.lsb" Key="OdinWater_DEEPFREEZE_DisplayName">Tombeau gelé</content>
+	<content contentuid="h533a219cgdf08g4f6dg88bbg770f73a857e3" Source="Status_INCAPACITATED_DisplayName.lsb" Key="Stats_OdinWater_DeepFreeze">Tombeau gelé</content>
 	<content contentuid="h79126c82g4189g447cga5deg1279b88c63a4" Source="Status_INVISIBLE_Description.lsb" Key="SHADE_INVISIBLE_Description">Character is invisible until the end of the turn.</content>
 	<content contentuid="h5a6911e0g7113g4a2fg8206g3baabf2070cc" Source="Status_INVISIBLE_DisplayName.lsb" Key="SHADE_INVISIBLE_DisplayName">Invisible</content>
 	<content contentuid="he8de65abg81eag4bffgb03fgf63e09df6e87" Source="Status_POLYMORPHED_Description.lsb" Key="OdinGEO_Rabbit_Description">Ne peut pas attaquer, lancer des sorts ou interagir avec des objets.</content>
