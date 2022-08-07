@@ -85,7 +85,7 @@
 	<content contentuid="h82585cc8g4194g485bgb0c5g911c24c8761b" Source="Jump_Description.lsb" Key="Jump_OdinSpectre_Riftwalk_Description">Shift into a ghostly shade and re-emerge at target location, dealing [1] and applying a stack of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt; to all enemies hit. &lt;br&gt;&lt;br&gt;A target may be afflicted with up to five stacks of &lt;font color=&quot;#67ffdd&quot;&gt;Agony&lt;/font&gt;, each dealing &lt;font color=&quot;#c80030&quot;&gt;piercing damage&lt;/font&gt; on apply and on each turn.</content>
 	<content contentuid="ha3c8be27gc97eg4a31g9b0fg6ccada792e0e" Source="Jump_DisplayName.lsb" Key="Jump_OdinSpectre_Riftwalk_DisplayName">Riftwalk</content>
 	<content contentuid="hfe1d84c9g028eg4503ga9d0gd6a1dba820e9" Source="MalthusGreeting01.lsj">Hmm.. Such a fascinating soul... Perhaps you could be of use to me...</content>
-	<content contentuid="ha1784017g33ddg4e89g85ecge602b2c88db4" Source="MalthusGreeting01.lsj"> *Take my leave.*</content>
+	<content contentuid="ha1784017g33ddg4e89g85ecge602b2c88db4" Source="MalthusGreeting01.lsj"> *Partir.*</content>
 	<content contentuid="h39172c1eg6940g42f5g850cg3625360c71c1" Source="MalthusGreeting01.lsj">Pleasure doing business with you. I&apos;m sure I&apos;ll be seeing more of you soon...</content>
 	<content contentuid="h006b8023g38fbg4725gb93bg76040eea6e8e" Source="MalthusGreeting01.lsj">Je voudrais commercer.</content>
 	<content contentuid="hbb278025g6cb4g440ega560g5765e5889314" Source="MalthusRespec01.lsj">Yes. I wish to become a Spectre by applying the preset to myself.</content>
@@ -97,7 +97,7 @@
 	<content contentuid="hcb104239g86b0g415ega88cgc462d0e19f47" Source="MalthusRespec01.lsj">I want to change my class.</content>
 	<content contentuid="h43ea3fc7g16c5g4406ga6a8g7d804c44d13e" Source="MalthusRespec01.lsj">I&apos;m thinking about becoming a Spectre.</content>
 	<content contentuid="h2751bdabg4463g4119g85e1g0b5b779a975b" Source="MalthusRespec01.lsj">A pity, but it&apos;s your decision. I needn&apos;t worry - I have other methods to take your soul...</content>
-	<content contentuid="hc4444002geeb8g41e3g8145gebacc2767985" Source="MalthusRespec01.lsj">Je prends congé</content>
+	<content contentuid="hc4444002geeb8g41e3g8145gebacc2767985" Source="MalthusRespec01.lsj">*Partir*</content>
 	<content contentuid="hfdf37f0fga931g4499gbc33ge4e8e44bb338" Source="MalthusRespec01.lsj">Foolish mortal. I can only wish you good luck...</content>
 	<content contentuid="hc730a95fg67b6g4666g82c1ge5b8cd504f03" Source="MalthusRespec01.lsj">Anyone may take the pact, so long as they have a soul. Are you interested in using soul magic?</content>
 	<content contentuid="hf3a57d05g5d35g426fgb165gaf3b73fccbed" Source="MalthusRespec01.lsj">I&apos;m fine with my current class.</content>
