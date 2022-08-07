@@ -58,7 +58,7 @@
 	<content contentuid="h01d68ea5gecbbg44aag9bc4g7620eec2637e" Source="OdinPYRO_Respec_Vendor.lsj">I wish to become an &lt;b&gt;Arsonist&lt;/b&gt;, focusing on alighting the battlefield.</content>
 	<content contentuid="h0908e6b6g605eg4421gbdcbgba8ad61202b6" Source="OdinPYRO_Respec_Vendor.lsj">Ah the path of the &lt;b&gt;Scorcher&lt;/b&gt;. Are you quite sure?&lt;br&gt;&lt;br&gt;&lt;i&gt;WARNING: This process will replace you inventory, be sure to move your items to another character or storing them in a nearby container!&lt;/i&gt;</content>
 	<content contentuid="hc215d6d3g7937g488egb0ddg614161f96c56" Source="OdinPYRO_Respec_Vendor.lsj">Yes. I wish to become an &lt;b&gt;Arsonist &lt;/b&gt;by applying the preset to myself.</content>
-	<content contentuid="h7251a5a9geaabg4335g9c66g4384bb1da14f" Source="OdinPYRO_Respec_Vendor.lsj">*Take my leave.*</content>
+	<content contentuid="h7251a5a9geaabg4335g9c66g4384bb1da14f" Source="OdinPYRO_Respec_Vendor.lsj">*Partir.*</content>
 	<content contentuid="h177f18ddgbf53g40a9g80e8g0e144ea7c594" Source="OdinPYRO_Respec_Vendor.lsj">Yes. I wish to become an &lt;b&gt;Phoenix &lt;/b&gt;by applying the preset to myself.</content>
 	<content contentuid="h957112a2g034cg4fd0g9a44g6f5568c36f86" Source="OdinPYRO_Respec_Vendor.lsj">Though these skills may help you in your quest, it&apos;s your initiative that will save Rivellon.</content>
 	<content contentuid="h27d37164g65f4g4175g8b91g02c35b5d6f7f" Source="OdinPYRO_Respec_Vendor.lsj">Ah the path of the &lt;b&gt;Arsonist&lt;/b&gt;. Are you quite sure?&lt;br&gt;&lt;br&gt;&lt;i&gt;WARNING: This process will replace you inventory, be sure to move your items to another character or storing them in a nearby container!&lt;/i&gt;</content>
@@ -73,7 +73,7 @@
 	<content contentuid="hbf4465cdge53eg4b12g8979gd1abe52e4b63" Source="OdinPYRO_Respec_Vendor.lsj">Ah the path of the &lt;b&gt;Flameblade&lt;/b&gt;. Are you quite sure?&lt;br&gt;&lt;br&gt;&lt;i&gt;WARNING: This process will replace you inventory, be sure to move your items to another character or storing them in a nearby container!&lt;/i&gt;</content>
 	<content contentuid="h99412cbbgb9e1g4526g8d7egbe8df0ca4d03" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Devastation and revolution can start with just a flicker of ember; could it be you?</content>
 	<content contentuid="h1e6efbc2ge29cg470bgaeafgb744af4f59d2" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">No. I have already decided on my path.</content>
-	<content contentuid="h65d6565bgd792g4840gb68eg0fe30e0ded49" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">*Take my leave.*</content>
+	<content contentuid="h65d6565bgd792g4840gb68eg0fe30e0ded49" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">*Partir.*</content>
 	<content contentuid="h576f724fgb3a1g428bg94b7g5fffad4d36c7" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Yes. I wish to become an &lt;b&gt;Phoenix &lt;/b&gt;by applying the preset to myself.</content>
 	<content contentuid="he9ebc092g5b96g4715ga39ag139d9b40cc4d" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">Though these skills may help you in your quest, it&apos;s your initiative that will save Rivellon.</content>
 	<content contentuid="h6f9a52f6gc792g457dgaacfg267e104ade36" Source="OdinPYRO_Respec_Vendor-AutoSave-npkklwbz.lsj">I wish to become an &lt;b&gt;Arsonist&lt;/b&gt;, focusing on alighting the battlefield.</content>
@@ -168,7 +168,7 @@
 	<content contentuid="h9d661013gf6a0g4e5bga939g6da54a212063" Source="SolLitheGreeting.lsj">Though these skills may help you in your quest, it&apos;s your initiative that will save Rivellon.</content>
 	<content contentuid="h8f3c7861g6417g4de6ga26age4db9a00f9de" Source="SolLitheGreeting.lsj">Devastation and revolution can start with just a flicker of ember; could it be you?</content>
 	<content contentuid="heb12ca65ga311g49eegb081gf2b29cd50e29" Source="SolLitheGreeting.lsj">Je voudrais commercer.</content>
-	<content contentuid="h6b0a0eb7gc88dg40a3g9721gec7a3b2292bd" Source="SolLitheGreeting.lsj">Je prends congé</content>
+	<content contentuid="h6b0a0eb7gc88dg40a3g9721gec7a3b2292bd" Source="SolLitheGreeting.lsj">*Partir*</content>
 	<content contentuid="hc0c0485dg28a0g4271gb2d8gb97c07518243" Source="Status_ACTIVE_DEFENSE_Description.lsb" Key="FLAMING_TONGUES_Description">Approaching hostiles will be blased with fire damage.</content>
 	<content contentuid="h11862c75ga40eg4c9cg8403gdc444c64f313" Source="Status_ACTIVE_DEFENSE_DisplayName.lsb" Key="FLAMING_TONGUES_DisplayName">Exquisite Firecraft</content>
 	<content contentuid="h5e132021g7df3g4eafgbc53g6925268cfe7e" Source="Status_CONSUME_Description.lsb" Key="FIRE_BRAND_Description">[1]</content>
