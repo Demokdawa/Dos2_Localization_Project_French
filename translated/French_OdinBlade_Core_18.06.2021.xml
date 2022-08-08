@@ -115,7 +115,7 @@
 	<content contentuid="h1ff13c22gf139g44e9ga2fcg5be4e5f3dbfe" Source="Status_CONSUME_Description.lsb" Key="SHADE_ShadeChallenged_Win_Description">|Character was victorious in a recent Challenge.|</content>
 	<content contentuid="hcb3fa610g1a42g48ffgb440g9a7e068c8114" Source="Status_CONSUME_Description.lsb" Key="SHADE_SHADESourceAP_Description">&quot;Why make a big display when you can just kill your target instead?&quot;</content>
 	<content contentuid="hd55ed911gbb73g4043ga9adg3db84e25a57c" Source="Status_CONSUME_Description.lsb" Key="SHADE_UmbralExpertise_Description">&quot;We have mastered aiming for the weak-spot...&quot;</content>
-	<content contentuid="h3f8fca84g946ag4e23g90e3geb59c6e87822" Source="Status_CONSUME_DisplayName.lsb" Key="FIREBLOOD_DisplayName">Fireblood</content>
+	<content contentuid="h3f8fca84g946ag4e23g90e3geb59c6e87822" Source="Status_CONSUME_DisplayName.lsb" Key="FIREBLOOD_DisplayName">Sang de feu</content>
 	<content contentuid="hea9def94g11dfg42acgac48g0c76bb2d9396" Source="Status_CONSUME_DisplayName.lsb" Key="OdinAERO_CONDUCTIVE_DisplayName">Conductive</content>
 	<content contentuid="h119778bag079cg4995g994cg7d308fdc374d" Source="Status_CONSUME_DisplayName.lsb" Key="OdinAERO_GRAVITY_DisplayName">Gravity</content>
 	<content contentuid="hdbe88f12g6038g4fcegad21g8df288a16a1a" Source="Status_CONSUME_DisplayName.lsb" Key="OdinAERO_HAWKEYE_DisplayName">Hawkeye</content>
@@ -318,10 +318,10 @@
 	<content contentuid="hc83f296egcf01g4d56g8cd9g7053f50092b9" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinAERO_PROC_CONDUCTIVE_LOW_ZAP_DisplayName">Zap</content>
 	<content contentuid="hb898eb8fgaf64g4f6eg93bcg72d3660ec723" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinAERO_PROC_CONDUCTIVE_ZAP_DisplayName">Zap</content>
 	<content contentuid="h4941633eg069ag4492g9616gc87ce2734b52" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING1_DisplayName">Scorched</content>
-	<content contentuid="h9615610fg8a98g4ce0gbdd8g1b34245e73ca" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING2_DisplayName">Scorched II</content>
-	<content contentuid="h099794e5g11ceg4b1fgaacaga298179d1d47" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING3_DisplayName">Scorched III</content>
-	<content contentuid="h9f7b9aabgb765g4ec7g82e7g7b687164bd2c" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING4_DisplayName">Scorched IV</content>
-	<content contentuid="h7306644fgeb90g470fg90f0g9207265f031a" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING5_DisplayName">Scorched V</content>
+	<content contentuid="h9615610fg8a98g4ce0gbdd8g1b34245e73ca" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING2_DisplayName">Embrasé II</content>
+	<content contentuid="h099794e5g11ceg4b1fgaacaga298179d1d47" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING3_DisplayName">Embrasé III</content>
+	<content contentuid="h9f7b9aabgb765g4ec7g82e7g7b687164bd2c" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING4_DisplayName">Embrasé IV</content>
+	<content contentuid="h7306644fgeb90g470fg90f0g9207265f031a" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING5_DisplayName">Embrasé V</content>
 	<content contentuid="h8e0535d2ga2a8g41b5g8f19g56706256a1e5" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_AGONY1_DisplayName">Agony</content>
 	<content contentuid="h4b1b675dg71ceg4682g89cbg673fa1e04922" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_AGONY2_DisplayName">Agony II</content>
 	<content contentuid="h995cdf17gc9ddg4ba7g951aga8d2d17b060f" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinSpectre_AGONY3_DisplayName">Agony III</content>
