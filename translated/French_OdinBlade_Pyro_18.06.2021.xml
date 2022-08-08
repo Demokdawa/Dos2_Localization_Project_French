@@ -172,30 +172,30 @@
 	<content contentuid="hc0c0485dg28a0g4271gb2d8gb97c07518243" Source="Status_ACTIVE_DEFENSE_Description.lsb" Key="FLAMING_TONGUES_Description">Approaching hostiles will be blased with fire damage.</content>
 	<content contentuid="h11862c75ga40eg4c9cg8403gdc444c64f313" Source="Status_ACTIVE_DEFENSE_DisplayName.lsb" Key="FLAMING_TONGUES_DisplayName">Art de la flamme</content>
 	<content contentuid="h5e132021g7df3g4eafgbc53g6925268cfe7e" Source="Status_CONSUME_Description.lsb" Key="FIRE_BRAND_Description">[1]</content>
-	<content contentuid="h14d5866bg8a85g48d5gb09fg11813a6267a5" Source="Status_CONSUME_Description.lsb" Key="FIREBLOOD_Description">Character is bleeding fire when hit.</content>
-	<content contentuid="h217ecbd3g98f5g477bg896dgeca66e48ba9f" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_EXQUISITEFIRECRAFT_Description">Flames protect you.</content>
+	<content contentuid="h14d5866bg8a85g48d5gb09fg11813a6267a5" Source="Status_CONSUME_Description.lsb" Key="FIREBLOOD_Description">Le personnage saigne du feu quand il est touché.</content>
+	<content contentuid="h217ecbd3g98f5g477bg896dgeca66e48ba9f" Source="Status_CONSUME_Description.lsb" Key="OdinPyro_EXQUISITEFIRECRAFT_Description">Les flammes te protègent.</content>
 	<content contentuid="ha003629egf09cg43ceg970ag7441d5a44208" Source="Status_CONSUME_DisplayName.lsb" Key="FIRE_BRAND_DisplayName">Chante-flamme</content>
-	<content contentuid="h2fb1da34geaf9g4478gb8e8gb8ba15ff3d3e" Source="Status_CONSUME_DisplayName.lsb" Key="FIREBLOOD_DisplayName">Fireblood</content>
+	<content contentuid="h2fb1da34geaf9g4478gb8e8gb8ba15ff3d3e" Source="Status_CONSUME_DisplayName.lsb" Key="FIREBLOOD_DisplayName">Sang de feu</content>
 	<content contentuid="h3068dad1ga808g4220ga4aega1f448d075d7" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_EXQUISITEFIRECRAFT_DisplayName">Art de la flamme</content>
-	<content contentuid="h6da478degb742g4992gae82ga660dd468d9f" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_PHOENIXIANREVIVAL_DisplayName">Phoenixian Revival</content>
-	<content contentuid="hfd205080gbdbdg4089gadccgddd4465ce2db" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_PROC_SCORCH">Scorch</content>
-	<content contentuid="had6210eeg8a8bg4840g8309g076a3d966062" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_PROC_SCORCH_DisplayName">Scorch</content>
-	<content contentuid="he0d3ab4fgb79cg40acg8e18g439b3fa1ff53" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyro_PROC_SCORCH">Scorch</content>
-	<content contentuid="hef5514e6g8470g4862gb83dg283bdeb32a16" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning1">Scorched I</content>
-	<content contentuid="hc0874a8fgce78g46c5gb954g846ff1d63abb" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning2">Scorched II</content>
-	<content contentuid="h3f027f09g0559g4986ga748g55f68b1b996d" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning3">Scorched III</content>
-	<content contentuid="ha3fdfdd8gbd8ag4abcg9b50g9d8b5f0e3380" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning4">Scorched IV</content>
-	<content contentuid="h66dbf732gb25eg42b2g85edgbd783d294dd5" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning5">Scorched V</content>
+	<content contentuid="h6da478degb742g4992gae82ga660dd468d9f" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_PHOENIXIANREVIVAL_DisplayName">Renaissance du phénix</content>
+	<content contentuid="hfd205080gbdbdg4089gadccgddd4465ce2db" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_PROC_SCORCH">Embrasement</content>
+	<content contentuid="had6210eeg8a8bg4840g8309g076a3d966062" Source="Status_CONSUME_DisplayName.lsb" Key="OdinPyro_PROC_SCORCH_DisplayName">Embrasement</content>
+	<content contentuid="he0d3ab4fgb79cg40acg8e18g439b3fa1ff53" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyro_PROC_SCORCH">Embrasement</content>
+	<content contentuid="hef5514e6g8470g4862gb83dg283bdeb32a16" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning1">Embrasé I</content>
+	<content contentuid="hc0874a8fgce78g46c5gb954g846ff1d63abb" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning2">Embrasé II</content>
+	<content contentuid="h3f027f09g0559g4986ga748g55f68b1b996d" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning3">Embrasé III</content>
+	<content contentuid="ha3fdfdd8gbd8ag4abcg9b50g9d8b5f0e3380" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning4">Embrasé IV</content>
+	<content contentuid="h66dbf732gb25eg42b2g85edgbd783d294dd5" Source="Status_CONSUME_DisplayName.lsb" Key="Stats_OdinPyroBurning5">Embrasé V</content>
 	<content contentuid="hae9d94efg6220g49e9gb2efg852ccca86804" Source="Status_DAMAGE_Description.lsb" Key="OdinPyro_BURNING1_Description">Deals [1] damage at the start of each turn. &lt;br&gt;&lt;br&gt;Removed by &lt;font color=&apos;#4197e2&apos;&gt;Wet&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Chilled&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Frozen&lt;/font&gt;, and &lt;font color=&apos;#cfecff&apos;&gt;Hypothermia&lt;/font&gt;.</content>
 	<content contentuid="h9ca59c09g66c4g4cfcgb0b4gc7a903d33927" Source="Status_DAMAGE_Description.lsb" Key="OdinPyro_BURNING2_Description">Deals [1] damage on apply and at the start of each turn. &lt;br&gt;&lt;br&gt;Removed by &lt;font color=&apos;#4197e2&apos;&gt;Wet&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Chilled&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Frozen&lt;/font&gt;, and &lt;font color=&apos;#cfecff&apos;&gt;Hypothermia&lt;/font&gt;.</content>
 	<content contentuid="h726a15dfg4c69g4287g9d95g15d117b29b92" Source="Status_DAMAGE_Description.lsb" Key="OdinPyro_BURNING3_Description">Deals [1] damage on apply and at the start of each turn. &lt;br&gt;&lt;br&gt;Removed by &lt;font color=&apos;#4197e2&apos;&gt;Wet&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Chilled&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Frozen&lt;/font&gt;, and &lt;font color=&apos;#cfecff&apos;&gt;Hypothermia&lt;/font&gt;.</content>
 	<content contentuid="heec91e75g9e47g490dgbe8bg36267575014a" Source="Status_DAMAGE_Description.lsb" Key="OdinPyro_BURNING4_Description">Deals [1] damage on apply and at the start of each turn. &lt;br&gt;&lt;br&gt;Removed by &lt;font color=&apos;#4197e2&apos;&gt;Wet&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Chilled&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Frozen&lt;/font&gt;, and &lt;font color=&apos;#cfecff&apos;&gt;Hypothermia&lt;/font&gt;.</content>
 	<content contentuid="hd1bcc86bg0bf3g4bffgb052g4e3be005328a" Source="Status_DAMAGE_Description.lsb" Key="OdinPyro_BURNING5_Description">Deals [1] damage on apply and at the start of each turn. &lt;br&gt;&lt;br&gt;Removed by &lt;font color=&apos;#4197e2&apos;&gt;Wet&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Chilled&lt;/font&gt;, &lt;font color=&apos;#cfecff&apos;&gt;Frozen&lt;/font&gt;, and &lt;font color=&apos;#cfecff&apos;&gt;Hypothermia&lt;/font&gt;.</content>
 	<content contentuid="h626e5494g2db4g4576gb658gee0f367011fd" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING1_DisplayName">Scorched</content>
-	<content contentuid="hc6b5a394gc099g4991gaa6bg13b4883975cb" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING2_DisplayName">Scorched II</content>
-	<content contentuid="h43149089g66b0g49b1gb40fg2b2cb074d86c" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING3_DisplayName">Scorched III</content>
-	<content contentuid="ha6ce14d9g0bbfg4ac0g8b96ge20e75c22a3b" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING4_DisplayName">Scorched IV</content>
-	<content contentuid="h9c9f73a9gd041g43d4g98ebg78d1d1bfdae3" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING5_DisplayName">Scorched V</content>
+	<content contentuid="hc6b5a394gc099g4991gaa6bg13b4883975cb" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING2_DisplayName">Embrasé II</content>
+	<content contentuid="h43149089g66b0g49b1gb40fg2b2cb074d86c" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING3_DisplayName">Embrasé III</content>
+	<content contentuid="ha6ce14d9g0bbfg4ac0g8b96ge20e75c22a3b" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING4_DisplayName">Embrasé IV</content>
+	<content contentuid="h9c9f73a9gd041g43d4g98ebg78d1d1bfdae3" Source="Status_DAMAGE_DisplayName.lsb" Key="OdinPyro_BURNING5_DisplayName">Embrasé V</content>
 	<content contentuid="h2be6e3e1g1395g4bb6ga49bg9752bd6d9449" Source="Status_FLOATING_Description.lsb" Key="OdinPyro_PHOENIXINFUSION_Description">Phoenix Infusion</content>
 	<content contentuid="h65d7de23gb68cg4485g81a1g21a9d6702702" Source="Status_FLOATING_DisplayName.lsb" Key="OdinPyro_PHOENIXINFUSION_DisplayName">Phoenix Infusion</content>
 	<content contentuid="h902f09bagaf7bg4145g9cf4g1b7b470bad37" Source="Status_HEAL_Description.lsb" Key="OdinPyro_DEVOURFLAMES_Description">Devours fire surfaces to restore Vitality.</content>
