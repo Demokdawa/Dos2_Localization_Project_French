@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="hbd7fbc80g84d8g48c0gbf2cg33f27204e94c" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Pyrokinetic skills are Fire-based spells. High intelligence improves these skills. Read this book to learn this skill.</content>
-	<content contentuid="hb8ec6fe1gd778g42fbg96beg993e1f8b76fe" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Trailblazer Skillbook</content>
+	<content contentuid="hb8ec6fe1gd778g42fbg96beg993e1f8b76fe" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Livre de compétence : Sentier brûlant</content>
 	<content contentuid="hcf97a6e7ga0ebg4fe3ga4dcg393c9c87423f" Source="BOOK_Skill_Fire_OdinPyro_BlazeOfGlory">Livres de compétence</content>
 	<content contentuid="h575b27e1gf151g4bd7g950cg63772195cc36" Source="BOOK_Skill_Fire_OdinPyro_BurningTouch">Burning Touch Skillbook</content>
 	<content contentuid="h3c9bcee0ge1b0g45ddga09bgd08e9022efe8" Source="BOOK_Skill_Fire_OdinPyro_ConjureFlameElemental">Conjure Flame Elemental Skillbook</content>
 	<content contentuid="h57a1253bg546cg40a0gae4bg99b4ecb1db8b" Source="BOOK_Skill_Fire_OdinPyro_DevourFlames">Devour Flames Skillbook</content>
 	<content contentuid="h6f3e4fd1g8fb7g4f54g8a41gd5a19eb29ffb" Source="BOOK_Skill_Fire_OdinPyro_EmberShower">Ember Shower Skillbook</content>
-	<content contentuid="he9f74d0dgcd8bg4be5g81edgf6bc4cf792eb" Source="BOOK_Skill_Fire_OdinPyro_Eruption">Eruption Skillbook</content>
+	<content contentuid="he9f74d0dgcd8bg4be5g81edgf6bc4cf792eb" Source="BOOK_Skill_Fire_OdinPyro_Eruption">Livre de compétence : Éruption</content>
 	<content contentuid="h33f9b34fg2ddag49f9gbcc5g19c566228d0a" Source="BOOK_Skill_Fire_OdinPyro_Flamethrower">Incineration Skillbook</content>
 	<content contentuid="hcd7f030fg5a7eg4a75gb7f6g24362b5a483f" Source="BOOK_Skill_Fire_OdinPyro_Inferno">Inferno Skillbook</content>
 	<content contentuid="hde3a6adeg37e0g4ee4g9b45g58cfeb8ae360" Source="BOOK_Skill_Fire_OdinPyro_Inflame">Inflame Skillbook</content>
@@ -129,7 +129,7 @@
 	<content contentuid="h990c4804g25dfg4176g956agc9dbafcad682" Source="ProjectileStrike_DisplayName.lsb" Key="ProjectileStrike_OdinPyro_MeteorStrike_DisplayName">Meteor Strike</content>
 	<content contentuid="he8f7fcdfg909bg4a52gb7fag7b45ad47d470" Source="ProjectileStrike_StatsDescription.lsb" Key="ProjectileStrike_MeteorShower_StatsDescription">Range: [4]&lt;br&gt;Burning does fire damage over time.&lt;br&gt;Can target terrain to create fire surface, burn ooze or oil, evaporate water, or melt ice. Can explode some clouds.</content>
 	<content contentuid="ha271a560ge481g430bgb224ge4b33843c3d5" Source="Quake_Description.lsb" Key="Quake_OdinPyro_Eruption_Description">Erupt the ground around you, dealing [1], &lt;font color=&quot;#fe6e27&quot;&gt;Burning&lt;/font&gt;, &lt;font color=&quot;#c9aa58&quot;&gt;Slowing&lt;/font&gt;, and &lt;font color=&quot;#fe6e27&quot;&gt;Scorching&lt;/font&gt; all &lt;font color=&quot;#aa3938&quot;&gt;enemies&lt;/font&gt; in the area. &lt;br&gt;&lt;br&gt;Creates &lt;font color=&quot;#fe6e27&quot;&gt;fire surfaces&lt;/font&gt; in the eruption radius.</content>
-	<content contentuid="he30c793egf345g49c2ga747ga9f7596a6082" Source="Quake_DisplayName.lsb" Key="Quake_OdinPyro_Eruption_DisplayName">Eruption</content>
+	<content contentuid="he30c793egf345g49c2ga747ga9f7596a6082" Source="Quake_DisplayName.lsb" Key="Quake_OdinPyro_Eruption_DisplayName">Éruption</content>
 	<content contentuid="h46b4ff8dgce98g4f5agad93g0bfc26392173" Source="Rain_Description.lsb" Key="Rain_OdinPyro_EmberShower_Description">Call raining embers down at target location, creating a &lt;font color=&quot;#fe6e27&quot;&gt;fire surface&lt;/font&gt; which lasts for 1 turn. &lt;br&gt;&lt;br&gt;Sets &lt;font color=&quot;#fe6e27&quot;&gt;Warm&lt;/font&gt; on all characters in the area.</content>
 	<content contentuid="had553d79g45ddg4e99g9abcg66d11a540e4f" Source="Rain_DisplayName.lsb" Key="Rain_OdinPyro_EmberShower_DisplayName">Ember Shower</content>
 	<content contentuid="h28c9411dg1ebdg4a2bga099g69ab9bc11681" Source="Rain_StatsDescription.lsb" Key="Rain_OdinPyro_EmberShower_StatsDescription">Rayon : [1]&lt;br&gt;Durée : [2]&lt;br&gt;Crée des flaques d'eau sur le terrain qui éteignent les feux et mouillent les personnages. L'humidité rend la cible moins résistante aux sorts infligeant des dégâts d'air mais plus résistante aux sorts infligeant des dégâts de feu.</content>
@@ -138,8 +138,8 @@
 	<content contentuid="h0ffb4f24g1914g4bceg906cgab5c81807f10" Source="Rush_Description.lsb" Key="Rush_OdinPyro_WPN_Trailblazer_Description">Charge forward in a straight line, hitting and applying &lt;font color=&quot;#fe6e27&quot;&gt;Scorch&lt;/font&gt; to all enemies in your path for [1]. &lt;br&gt;&lt;br&gt;At the end of the charge, explode into a 5m fire surface. This surface also damages the caster.</content>
 	<content contentuid="h2ddd4f5dg8ed9g4b29gac4fg074345c1207e" Source="Rush_Description.lsb" Key="Rush_SlugBatteringRam_Description">Rush forward in a straight line, to a point far away, hitting all enemies in your path with [1] damage.</content>
 	<content contentuid="haed58a15g865bg4afcga982g4034b723f546" Source="Rush_DisplayName.lsb" Key="Rush_OdinPyro_SummonSkill_SlugBatteringRam_DisplayName">Slug Rush</content>
-	<content contentuid="hc6da1debg4742g40a1ga498g1eb45f8e7e1b" Source="Rush_DisplayName.lsb" Key="Rush_OdinPyro_Trailblazer_DisplayName">Trailblazer</content>
-	<content contentuid="hf40732ffg7f5cg4024ga35cg0a29f54d715e" Source="Rush_DisplayName.lsb" Key="Rush_OdinPyro_WPN_Trailblazer_DisplayName">Trailblazer</content>
+	<content contentuid="hc6da1debg4742g40a1ga498g1eb45f8e7e1b" Source="Rush_DisplayName.lsb" Key="Rush_OdinPyro_Trailblazer_DisplayName">Sentier brûlant</content>
+	<content contentuid="hf40732ffg7f5cg4024ga35cg0a29f54d715e" Source="Rush_DisplayName.lsb" Key="Rush_OdinPyro_WPN_Trailblazer_DisplayName">Sentier brûlant</content>
 	<content contentuid="h114bd1dcg390fg4902g86b7gd51f1ede780f" Source="Rush_DisplayName.lsb" Key="Rush_SlugBatteringRam_DisplayName">Slug Rush</content>
 	<content contentuid="ha31f4003g8b52g454eg9b31gebd5c4b10ee2" Source="Rush_StatsDescription.lsb" Key="Rush_OdinPyro_SummonSkill_SlugBatteringRam_StatsDescription">Portée : [2]</content>
 	<content contentuid="h5fc92d1fg58ebg431dgbc60g0eb04aaef41d" Source="Rush_StatsDescription.lsb" Key="Rush_OdinPyro_Trailblazer_StatsDescription">Portée : [2]</content>
