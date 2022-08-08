@@ -202,7 +202,7 @@
 	<content contentuid="h865d0903g063bg41f3gae64g3745b6d99d22" Source="Target_DisplayName.lsb" Key="Target_SHADETumultuousStrike_DisplayName">Tumultuous Attack</content>
 	<content contentuid="ha8460ff0g23e5g4392ga82bg43733745d14e" Source="UmbraEzuri1.lsj">Say, you look like you&apos;d make a good member of the clan. Are you interested?</content>
 	<content contentuid="h4fee8657g86d6g4584ga195gdfe565f6ae63" Source="UmbraEzuri1.lsj"/>
-	<content contentuid="h07ebd054g3d43g4474g852cgbec8bdcc7392" Source="UmbraEzuri1.lsj">No. I have already decided on my path.</content>
+	<content contentuid="h07ebd054g3d43g4474g852cgbec8bdcc7392" Source="UmbraEzuri1.lsj">Non. J'ai déjà choisi ma voie.</content>
 	<content contentuid="hef0a9648g23dbg432dga00fg7a066372bb98" Source="UmbraEzuri1.lsj">If you&apos;re willing to trade any more gear, we&apos;ve got the coin.</content>
 	<content contentuid="h786fd7c5g1e64g4e2egaaf4gf84b014ca8cb" Source="UmbraEzuri1.lsj"> </content>
 	<content contentuid="h6f0c6944g00e2g4501g8778ge4a159419615" Source="UmbraEzuri1.lsj">I&apos;m thinking about joining the Umbra clan.</content>
@@ -219,7 +219,7 @@
 	<content contentuid="h348afdecg2197g4933ga72bg98c7ae3d227c" Source="UmbraEzuri1.lsj"/>
 	<content contentuid="h7662c0abg2637g459dgb655gfc3e220272f4" Source="UmbraEzuri1.lsj">Each to their own! If you change your mind, let me know.</content>
 	<content contentuid="hd2d04ea5g97a9g4a41gaa94g758c660f9735" Source="UmbraEzuri1.lsj"/>
-	<content contentuid="h7ec8e88eg91fag4c29g80a6g7fd566227e06" Source="UmbraResetItem.lsj">No. I have already decided on my path.</content>
+	<content contentuid="h7ec8e88eg91fag4c29g80a6g7fd566227e06" Source="UmbraResetItem.lsj">Non. J'ai déjà choisi ma voie.</content>
 	<content contentuid="h9a3e0e09g9707g4cf8g9cc5gcd9a3710b02f" Source="UmbraResetItem.lsj">You gaze into the mirror and begin to see a vision - an Umbra assassin, making quick work of a Palace Guard. The assassin then vanishes into thin air, and you are left in awe of what you have just witnessed.&lt;br&gt;&lt;br&gt;Is this who you want to be?</content>
 	<content contentuid="hac891511g3103g4285gb516g305d8be5ce94" Source="UmbraResetItem.lsj">Yes. I wish to become the assassin by applying the Umbra preset to myself.</content>
 	<content contentuid="h74399af2g3cf2g4becgb25cg24ac9a406572" Source="UmbraTrader1.lsj">*Partir.*</content>
