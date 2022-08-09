@@ -9,7 +9,7 @@
 	<content contentuid="h1feba9acg625cg4727g940fgb4a5e3b29e23" Source="BOOK_Skill_Rogue_OdinSCO_Misfire">Misfire Skillbook</content>
 	<content contentuid="h1f0b6cb7gd994g4389gbb15gfe0b19814e57" Source="BOOK_Skill_Rogue_OdinSCO_Outmaneuver">Outmaneuver Skillbook</content>
 	<content contentuid="h112fcfafg21c2g4fa3ga3c0gf3b0a19ef2e2" Source="BOOK_Skill_Rogue_OdinSCO_ShadowSlash">Whirling Slash Skillbook</content>
-	<content contentuid="ha6388c3cg9af5g4993gb8c9ga9dc2d1f169a" Source="BOOK_Skill_Rogue_OdinSCO_ShadowStep">Shadow Step Skillbook</content>
+	<content contentuid="ha6388c3cg9af5g4993gb8c9ga9dc2d1f169a" Source="BOOK_Skill_Rogue_OdinSCO_ShadowStep">Livre de compétence : Pas de l'ombre</content>
 	<content contentuid="haf4505dbg93e1g4618g81f1g4c67fa4d6342" Source="BOOK_Skill_Rogue_OdinSCO_SinisterStrike">Sinister Strike Skillbook</content>
 	<content contentuid="h15c8af86g683dg4874ga6cdgd0f93805b59c" Source="BOOK_Skill_Rogue_OdinSCO_SlipIntoShadows">Slip Into Shadows Skillbook</content>
 	<content contentuid="hb95c25abga203g48e6gaf43g132f33c1306d" Source="MultiStrike_Description.lsb" Key="MultiStrike_OdinSCO_ShadowStep_Description">Backstab up to [1] targets, dealing [2] before blinking back to your original position. Deals &lt;font color=&apos;#40b606&apos;&gt;+20% damage&lt;/font&gt; if used from &lt;font color=&apos;#639594&apos;&gt;Invisibility&lt;/font&gt; or whilst &lt;font color=&apos;#639594&apos;&gt;Sneaking&lt;/font&gt;. &lt;br&gt;&lt;br&gt;&lt;font color=&apos;#C9AA58&apos;&gt;Combo&lt;/font&gt;: Become &lt;font color=&apos;#639594&apos;&gt;Invisible&lt;/font&gt; for 1 turn after using this skill.</content>
@@ -18,10 +18,10 @@
 	<content contentuid="hcae588d4gdbabg4d14g8326g482dbe201d63" Source="OdinSCO_Misdirection_Clone">Misdirection</content>
 	<content contentuid="hbd52c1d5g57a6g441cgb95ag6579562eab20" Source="OdinSCO_Misdirection_Clone"/>
 	<content contentuid="h98b29495g13d4g42f5g9f88g67016b7292a3" Source="OdinSCO_RiggedDice.lsj">Poison</content>
-	<content contentuid="hc1560a05gc58cg4299g9e2dg2aac88fa2b00" Source="OdinSCO_RiggedDice.lsj">Earth</content>
+	<content contentuid="hc1560a05gc58cg4299g9e2dg2aac88fa2b00" Source="OdinSCO_RiggedDice.lsj">Terre</content>
 	<content contentuid="h7174e06age437g43dfg8ae9gd09ab93f9f78" Source="OdinSCO_RiggedDice.lsj">Random elemental damage.</content>
-	<content contentuid="h3447c3fcg7769g4c3dgb635g789088292c6b" Source="OdinSCO_RiggedDice.lsj">Water</content>
-	<content contentuid="h3200b109g8093g407bg81b9g474f5138ef30" Source="OdinSCO_RiggedDice.lsj">Fire</content>
+	<content contentuid="h3447c3fcg7769g4c3dgb635g789088292c6b" Source="OdinSCO_RiggedDice.lsj">Eau</content>
+	<content contentuid="h3200b109g8093g407bg81b9g474f5138ef30" Source="OdinSCO_RiggedDice.lsj">Feu</content>
 	<content contentuid="h12cdfbedgbe8ag4bf5gb15fg988a14d084ad" Source="OdinSCO_RiggedDice.lsj">Air</content>
 	<content contentuid="hce9d5cd6g0d9eg4e5cg899dgce8db54eda7b" Source="OdinSCO_RiggedDice.lsj">Which damage type would you like to use in place of random &lt;font color=&apos;#c80030&apos;&gt;elemental&lt;/font&gt; damage?</content>
 	<content contentuid="h47859db4g695fg4054gadeegbb3fa5cc9b24" Source="OdinSCO_Summon_Spider">Skittering Crawler</content>
