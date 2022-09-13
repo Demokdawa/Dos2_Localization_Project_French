@@ -3863,5 +3863,7 @@
 	<content contentuid="h6f9fb0a9g2a02g482ag9ee9g69fddba3fe6a">Enemies within 8m may become intimidated.&lt;br&gt;Causes -1 AP recovery, reduced accuracy, dodge, initiative and perseverance.</content>
 	<content contentuid="h9edd7a16g1474g42a5g9e00gf29e172cc8e6">The Captain&apos;s capricious mastery is restored with a complete set, boosting the armour&apos;s level to 8. An aura of looming intimidation surrounds the wearer.</content>
 	<content contentuid="h60bf974dg924ag453fg86aeg978f70fee141" Source="Status_SPARK_Description.lsb" Key="Sparking_Swings_Description">Hitting enemies with melee hits will cause fiery sparks to bounce onto nearby enemies.</content>
-	<content contentuid="he2621d38gb678g4757ga1aeg72856ce6b835" Source="Status_SPARK_Description.lsb" Key="SPARK_MASTER_DisplayName">Sparkmaster</content>	
+	<content contentuid="he2621d38gb678g4757ga1aeg72856ce6b835" Source="Status_SPARK_Description.lsb" Key="SPARK_MASTER_DisplayName">Sparkmaster</content>
+	<content contentuid="h4067beb4g45c9g4656g8fc4gfaca29a54626" Source="Status_SPARK_Description.lsb" Key="SPARKING_SWINGS_Aura_Sub_DisplayName">Sparkmaster</content>
+    
 </contentList>
