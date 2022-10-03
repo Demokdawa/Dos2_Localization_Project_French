@@ -3865,5 +3865,7 @@
 	<content contentuid="h60bf974dg924ag453fg86aeg978f70fee141" Source="Status_SPARK_Description.lsb" Key="Sparking_Swings_Description">Hitting enemies with melee hits will cause fiery sparks to bounce onto nearby enemies.</content>
 	<content contentuid="he2621d38gb678g4757ga1aeg72856ce6b835" Source="Status_SPARK_Description.lsb" Key="SPARK_MASTER_DisplayName">Sparkmaster</content>
 	<content contentuid="h4067beb4g45c9g4656g8fc4gfaca29a54626" Source="Status_SPARK_Description.lsb" Key="SPARKING_SWINGS_Aura_Sub_DisplayName">Sparkmaster</content>
-    
+    <content contentuid="hc31befe0g61fag4bcega9ecg7d8fc7a64fac" Source="Target_DisplayName.lsb" Key="Target_MasterOfSparks_DisplayName">Master of Sparks</content>
+	<content contentuid="h10e1a9eagf081g46deg9b1bg8db125725703" Source="Projectile_DisplayName.lsb" Key="Projectile_DeployMassTraps_DisplayName">Deploy Mass Traps</content>
+	<content contentuid="h51e84fefgedebg4b22g97b6g8a338b95f2d7" Source="Projectile_DisplayName.lsb" Key="Projectile_LaunchExplosiveTrap_DisplayName">Throw Explosive Trap</content>
 </contentList>
