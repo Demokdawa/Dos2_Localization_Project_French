@@ -164,7 +164,7 @@
 	<content contentuid="hd172cd6dgefe2g40e0g96cfg44b5771fea4c" Source="Status_CONSUME_Description.lsb" Key="OdinSpectre_UNDERHANDEDBARGAIN_Description">It&apos;s so easy to exploit stupidity...</content>
 	<content contentuid="h1a6f92d7g2c59g4f12g9856gda65a9716ae9" Source="Status_CONSUME_Description.lsb" Key="OdinSpectre_WITHER_Description">Why fight death? Embrace it...</content>
 	<content contentuid="ha4113045g6dcag4a9dg9b83g0f3e648a5e33" Source="Status_CONSUME_DisplayName.lsb" Key="OdinSpectre_ASCENDED_DisplayName">Ascended</content>
-	<content contentuid="h538c2875g9f31g4864gb11cg2277836f141d" Source="Status_CONSUME_DisplayName.lsb" Key="OdinSpectre_CURSE_INEPT_AURA_DisplayName">Curse Aura: Inept</content>
+	<content contentuid="h538c2875g9f31g4864gb11cg2277836f141d" Source="Status_CONSUME_DisplayName.lsb" Key="OdinSpectre_CURSE_INEPT_AURA_DisplayName">Aura de malédiction : Inepte</content>
 	<content contentuid="h1cb8d695g1c20g42f2gae20gf4cb95c482a6" Source="Status_CONSUME_DisplayName.lsb" Key="OdinSpectre_CURSE_INEPT_DisplayName">Curse: Inept</content>
 	<content contentuid="hb415f370g6fdcg4ac4g834cgff99230ad43b" Source="Status_CONSUME_DisplayName.lsb" Key="OdinSpectre_CURSE_VULNERABLE_AURA_DisplayName">Curse Aura: Vulnerable</content>
 	<content contentuid="h24db6b7agc93ag4f7agbf3bg8f499c8569ab" Source="Status_CONSUME_DisplayName.lsb" Key="OdinSpectre_CURSE_VULNERABLE_DisplayName">Curse: Vulnerable</content>
