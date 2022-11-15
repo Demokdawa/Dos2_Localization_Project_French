@@ -3834,5 +3834,11 @@
 	<content contentuid="xornconfluxcustomluastringkey00000013">piercing damage</content>
 	<content contentuid="xornconfluxcustomluastringkey00000014">pure damage</content>	
 	<content contentuid="xornconfluxcustomluastringkey00000015">damage</content>
-	
+	<content contentuid="h3b77cafeg3ca7g4da3gaaf6g53a52334dc86">You feel the power of your allies praying to you. Their devotion is providing you with &lt;font color='#46B195'>+1 Source&lt;/font&gt; per turn.</content>
+	<content contentuid="h60bf974dg924ag453fg86aeg978f70fee141">Hitting enemies with melee hits will cause fiery sparks to bounce onto nearby enemies.</content>
+	<content contentuid="he2621d38gb678g4757ga1aeg72856ce6b835">Sparkmaster</content>
+	<content contentuid="h4067beb4g45c9g4656g8fc4gfaca29a54626">Sparkmaster</content>
+    <content contentuid="hc31befe0g61fag4bcega9ecg7d8fc7a64fac">Master of Sparks</content>
+	<content contentuid="h10e1a9eagf081g46deg9b1bg8db125725703">Deploy Mass Traps</content>
+	<content contentuid="h51e84fefgedebg4b22g97b6g8a338b95f2d7">Throw Explosive Trap</content>
 </contentList>
